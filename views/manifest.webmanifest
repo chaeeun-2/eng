@@ -1,0 +1,30 @@
+{
+  "name": "ENG 단어장",
+  "short_name": "단어장",
+  "description": "표제어·뜻·예문·해석을 한 표에서 보는 개인 영어 단어장",
+  "start_url": "./wordlist.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ECEEEC",
+  "theme_color": "#ECEEEC",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

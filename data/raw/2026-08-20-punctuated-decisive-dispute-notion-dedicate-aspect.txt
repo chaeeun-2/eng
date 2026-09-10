@@ -1,0 +1,44 @@
+2026-08-20 사용자가 물어본 목록 (원본 그대로)
+
+punctuated
+decisive
+ought to (있었던 것 같은데..)
+disputing the notion
+anything for that matter
+dedicate
+aspects of
+
+---
+정규화 메모
+- ought to → 2026-08-20에 이미 등록됨(ought-to-v). 사용자 기억이 맞음. 중복 생성하지 않음
+- punctuated → 표제어 punctuate. be punctuated by/with 용법이 핵심
+- disputing the notion → dispute(동사)와 notion(명사)을 각각 등록.
+  dispute the notion that ~ 이 한 덩어리 조합
+- anything for that matter → 표제어는 for that matter (관용구)
+- aspects of → 표제어 aspect
+
+punctuate /ˈpʌŋktʃueɪt/ 동사
+- 구두점을 찍다 (원뜻) / (사건이) 중간중간 끼어들다·수놓다
+- be punctuated by/with ~ = 중간중간 ~로 끊기다·채워지다
+
+decisive /dɪˈsaɪsɪv/ 형용사
+- 결정적인 (a decisive moment/victory) / 결단력 있는 (a decisive leader)
+- 명사 decisiveness, 반대 indecisive
+
+dispute /dɪˈspjuːt/ 동사·명사
+- 이의를 제기하다, 반박하다 / 분쟁, 논쟁
+- dispute the notion/claim/figures, a dispute over ~
+
+notion /ˈnoʊʃn/ 명사
+- 관념, 견해, 막연한 생각
+- the notion that ~ (동격 that절), have no notion of ~
+
+for that matter
+- 그 문제라면, 그러고 보니 ~도 마찬가지로 (앞말을 확장할 때)
+
+dedicate /ˈdedɪkeɪt/ 동사
+- 바치다, 전념하다 (dedicate oneself to ~) / 헌정하다
+- dedicated(형용사): 헌신적인 / 전용의 (a dedicated server)
+
+aspect /ˈæspekt/ 명사
+- (사물의) 측면, 양상. aspects of ~

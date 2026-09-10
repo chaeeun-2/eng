@@ -1,0 +1,24 @@
+2026-08-19 대화 중 사용자가 물어본 단어
+
+vast
+majority
+
+---
+정규화 메모
+- 두 줄로 적혀 있지만 실사용에서는 the vast majority of ~ 로 붙어 나오는 빈도가 압도적이라
+  vast(형용사), majority(명사), the vast majority of(구) 3개 항목으로 등록.
+
+vast /væst/ 형용사
+- 광대한, 방대한, 막대한. 규모·범위가 펼쳐져 있다는 느낌
+- vast amount / vast majority / vast difference / vast experience / vast desert
+- huge, enormous와 달리 '크기'보다 '범위·규모'에 기울어 있음
+
+majority /məˈdʒɔːrəti/ 명사
+- 대다수, 과반 / (영국식) 득표차
+- the majority of + 복수명사 → 동사도 복수
+- 반대말 minority. most보다 격식·통계체
+
+the vast majority of ~
+- 압도적 다수의, 거의 대부분의
+- in the vast majority of cases = 대개의 경우 (보고서 상투구)
+- 관사는 the가 표준

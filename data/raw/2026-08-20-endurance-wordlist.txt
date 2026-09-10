@@ -1,0 +1,36 @@
+2026-08-20 사용자가 물어본 목록 (원본 그대로)
+
+permanent
+lip
+wrenching
+submit to
+ached for
+inflict on
+relinquished
+took some solace
+be under duress
+exert pressure
+subject to stress
+atrophied
+observation
+endure and persevere through
+from its own
+yet
+indifferent totrench
+
+---
+정규화 메모
+- 전체가 '고통·압박을 견디는' 주제의 지문 어휘군으로 보임
+- 표제어 정리:
+  wrenching → 형용사 wrenching (gut-/heart-wrenching)로 등록, 동사 wrench는 note
+  ached for → ache for
+  relinquished → relinquish
+  took some solace → solace (take solace in ~)
+  exert pressure → exert
+  subject to stress → be subject to
+  atrophied → atrophy
+  endure and persevere through → endure, persevere 두 항목으로 분리
+  indifferent totrench → 붙어 있지만 indifferent to + trench 두 항목으로 판단해 분리 등록
+- lip은 단독으로는 '입술'이지만 이 어휘군 맥락에서는 stiff upper lip(내색하지 않기)일 가능성이 커
+  관용구를 예문에 포함
+- from its own → 앞뒤가 잘려 있어 판단 불가. 등록 보류하고 사용자에게 원문 확인 요청

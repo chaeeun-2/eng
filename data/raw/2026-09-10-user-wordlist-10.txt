@@ -1,0 +1,88 @@
+2026-09-10 대화 중 질문 (사용자 단어 목록 — 스토아 문헌/역경 맥락)
+
+원본 그대로:
+mettle
+shabby
+scantly
+gird yourself for
+ravages
+erecting
+exhausting itself
+poverty
+no onger
+repossess
+toughen itself
+occasion
+flinch
+
+표기 정정:
+- scantly → 현대 영어에서 죽은 형태. 형용사 scant 또는 부사 scarcely/scantily로 등록
+- no onger → no longer 오타로 판단
+
+답변 요지:
+
+mettle /ˈmetl/ n — 기개, 근성, 배짱
+  어려움 앞에서 드러나는 뚝심. 항상 시험받는 맥락에서 나온다
+  The crisis tested the mettle of the new manager.
+  show/prove one's mettle, put someone on their mettle
+  metal과 동음. 원래 metal의 철자 변형(칼날의 강도 → 사람의 강도)이었다가 갈라졌다
+
+shabby /ˈʃæbi/ adj — ① 낡아빠진, 허름한 ② 비열한, 옹졸한
+  a shabby coat / That was shabby treatment.
+  not too shabby = 구어에서 "꽤 괜찮은데?"라는 반어적 칭찬
+
+scant /skænt/ adj — 부족한, 빠듯한
+  They paid scant attention to the warnings.
+  scant attention / scant regard / scant evidence가 고정된 짝
+  부사는 scantily (scantily clad). scantly는 사전에는 있으나 현대 영어에서 쓰지 않는다
+
+gird yourself for — ~에 대비해 마음을 단단히 먹다
+  gird = 허리에 띠를 두르다. 싸우러 나가기 전 갑옷 끈을 조이는 그림
+  Investors are girding themselves for another downturn.
+  gird your loins (성경 유래) — 지금은 농담조. 문어체 전용
+
+ravages /ˈrævɪdʒɪz/ n (복수) — 참화, 파괴가 남긴 상처
+  거의 항상 the ravages of ~ 형태. of time / war / disease
+  Her face showed the ravages of years of illness.
+  동사 ravage = 유린하다, 황폐화하다
+
+erect /ɪˈrekt/ v — 세우다, 건립하다 (adj 똑바로 선)
+  They erected a statue in the square.
+  erect barriers / a monument / a tent
+  build보다 격식 있고 기념물·구조물·장벽에 쓴다. erect barriers to trade처럼 추상적으로도
+
+exhaust itself — (기세가) 저절로 소진되다, 제풀에 다하다
+  exhaust ① 지치게 하다 ② 다 써버리다. 재귀형은 외부 개입 없이 스스로 힘이 빠지는 그림
+  The storm exhausted itself by morning.
+  exhaust all options / exhausting(지치게 하는) ↔ exhausted(지친)
+
+poverty /ˈpɒvəti/ n — 빈곤; 결핍, 빈약함
+  Millions still live in poverty.
+  a poverty of imagination — 돈 이외에도 쓴다
+  the poverty line. 형용사 poor, impoverished
+
+no longer — 더 이상 ~ 아니다
+  위치가 핵심: be동사·조동사 뒤, 일반동사 앞
+  He no longer works here. / She is no longer with us.
+  문두로 빼면 도치: No longer is silence an option.
+  not ~ anymore가 구어체 등가물. no longer가 문어체
+
+repossess /ˌriːpəˈzes/ v — (대금 미납으로) 압류하다, 회수하다
+  re-(다시) + possess(소유하다)
+  The bank repossessed their car.
+  명사 repossession, 줄여서 repo (a repo man)
+
+toughen /ˈtʌfn/ v — 단련시키다, 강해지다; (규정을) 강화하다
+  Hardship toughened him.
+  toughen itself = 스스로를 단련하다 / toughen up(구어) / toughen the rules
+
+occasion /əˈkeɪʒn/ n — ① 때, 경우 ② 특별한 행사 ③ (격식) 계기
+  on several occasions / on occasion(이따금) / a special occasion
+  rise to the occasion — 중요한 순간에 제 몫을 해내다
+  occasionally와 같은 뿌리. chance와 달리 "그 일이 일어난 특정 시점"
+
+flinch /flɪntʃ/ v — 움찔하다, 주춤하다; (~을) 피하다
+  He didn't flinch when the needle went in.
+  without flinching — 스토아 문헌에 자주 나오는 형태
+  flinch from a decision = 회피하다
+  구분: wince는 통증에 얼굴을 찡그리는 것, flinch는 몸이 움츠러드는 반사

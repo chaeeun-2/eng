@@ -1,0 +1,20 @@
+2026-08-20 사용자가 해석을 물어본 문장 조각
+
+because no harm can affect you
+
+(직전 질문: and what belongs to others as truly not yours — 에픽테토스 엥케이리디온 계열 문장)
+
+---
+정규화 메모
+- 문장 해석 요청이지만 핵심 어휘 두 개(affect, harm)가 아직 미등록이라 함께 등록
+- 배울 점: 영어는 부정 주어(no harm)를 쓰고, 한국어는 서술어를 부정한다
+  no harm can affect you = 어떤 해도 너에게 미칠 수 없다
+
+affect /əˈfekt/ 동사
+- 영향을 미치다 / (수동태로) 감동시키다 / ~인 척하다(격식)
+- effect(명사: 효과 / 동사: 초래하다 — effect change)와 혼동 1위
+
+harm /hɑːrm/ 명사·동사
+- 해, 피해 (불가산 — a harm (X))
+- no harm in ~ing, do more harm than good, out of harm's way
+- damage(사물 손상) / injury(신체 부상)와 달리 추상적·포괄적

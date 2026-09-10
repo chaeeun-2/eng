@@ -1,0 +1,27 @@
+출처: 사용자 제공 문장 (2026-08-04) — 링컨의 성품
+
+--- 원문 그대로 (오타 포함) ---
+lincoln was aloo the things he was - compassionate, deliberate, fair,
+open minded, and purposeful - while being a politician.
+
+--- 보정 ---
+- "aloo" → "also"
+- "open minded" → "open-minded" (형용사로 명사 앞·보어 자리에 쓸 때 하이픈)
+- 문두 대문자, 대시는 em dash로
+
+Lincoln was also the things he was — compassionate, deliberate, fair,
+open-minded, and purposeful — while being a politician.
+
+--- 해석 ---
+링컨은 정치인으로 살면서도, 동시에 그런 사람이기도 했다 — 인정 많고, 신중하고,
+공정하고, 열린 마음을 지녔으며, 목적의식이 뚜렷한 사람.
+
+--- 문법 포인트 ---
+1. the things (that) he was : 관계대명사 생략. 관계절 안에서 보어 자리가 비어 있고,
+   그 빈자리를 대시 뒤의 나열이 채운다
+2. also : "정치인이기만 한 게 아니라"는 뜻. 정치인이라는 직업과 저 자질들이
+   양립하기 어렵다는 전제가 깔림
+3. while being a politician : while + V-ing의 양보 용법 (~이면서도, ~인데도).
+   동시성 용법과 구분해야 함
+4. deliberate는 여기서 형용사 '신중한'. 발음 /dɪˈlɪbərət/
+   (동사 '숙고하다'는 /dɪˈlɪbəreɪt/)

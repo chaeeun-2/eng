@@ -1,0 +1,48 @@
+2026-08-20 대화 중 사용자가 물어본 목록 (원본 그대로)
+
+ought
+controversial
+wandered
+utterance
+tempt
+who does that serve?
+threatens
+superficial
+
+---
+정규화 메모
+- superficial → 2026-08-04에 이미 등록됨(superficial-adj, 예문 3개). 중복 생성하지 않음
+- wandered → 표제어 wander, threatens → 표제어 threaten (활용형은 예문으로 처리)
+- ought → 항상 to와 함께 쓰이므로 표제어는 ought to
+- who does that serve? → 이해관계를 되묻는 수사적 질문 패턴으로 등록
+
+ought to /ɔːt tuː/ 조동사
+- ~해야 한다 (도덕적 당위·상식에 근거한 권고) / ~일 것이다 (합리적 기대)
+- 부정 ought not to (oughtn't), 과거 후회 ought not to have + p.p.
+- should보다 격식적이고 to를 반드시 붙인다
+- 윤리학 지문에서는 명사처럼도 쓴다: the is/ought distinction (사실과 당위의 구분)
+
+controversial /ˌkɑːntrəˈvɜːrʃl/ 형용사
+- 논란이 많은, 논쟁을 부르는. highly/deeply controversial, a controversial figure
+- 명사 controversy(/ˈkɑːntrəvɜːrsi/), 유사 contentious, debatable
+
+wander /ˈwɑːndər/ 동사
+- 정처 없이 돌아다니다 / (생각이) 딴 데로 흐르다 (my mind wandered) / 벗어나다 (wander off)
+- wonder(궁금해하다, /ˈwʌndər/)와 철자·발음 혼동 1위
+
+utterance /ˈʌtərəns/ 명사
+- 발화, 입 밖에 낸 말 / 말하는 행위. give utterance to ~ = ~를 말로 표현하다
+- 동사 utter(입 밖에 내다) / 형용사 utter(완전한 — utter nonsense)
+
+tempt /tempt/ 동사
+- 유혹하다, ~하고 싶게 만들다. be tempted to do / tempt someone into -ing
+- Don't tempt fate = 운을 시험하지 마라. 명사 temptation, 형용사 tempting
+
+who does that serve?
+- 그게 누구에게 이득인가? / 누구를 위한 것인가? — 이해관계를 되묻는 수사적 질문
+- serve = ~의 이익에 부합하다. 격식 규범은 whom이지만 실사용은 who
+- 변형: Who benefits? / What purpose does that serve? / (라틴어) cui bono
+
+threaten /ˈθretn/ 동사
+- 협박하다 / (위험이) 위협하다, ~할 우려가 있다 / (날씨가) ~할 듯하다
+- threaten to do, threaten someone with ~. 명사 threat

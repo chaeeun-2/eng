@@ -1,0 +1,21 @@
+출처: 사용자 직접 붙여넣기 (2026-08-04, 네 번째 목록)
+뜻 없이 표제어만 전달 → 뜻·예문 모두 에이전트가 작성
+
+--- 원문 그대로 ---
+maneuver
+apply yourself
+eke out
+decent
+hunch
+defeatism
+get you anywhere
+all-nighter
+scrap of
+
+--- 정규화 시 보정 ---
+- "apply yourself" → 표제어를 "apply oneself"로 일반화 (인칭 비의존)
+- "get you anywhere" → 원문 그대로 유지. 거의 항상 부정문에서 쓰이는 관용구
+
+--- 메모 ---
+노력·끈기·자기 규율 계열 어휘. defeatism / apply oneself / all-nighter /
+eke out이 한 묶음으로 보임. 같은 날 등록한 침묵 지문과는 다른 출처로 추정.

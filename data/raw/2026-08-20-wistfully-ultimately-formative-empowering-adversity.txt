@@ -1,0 +1,22 @@
+2026-08-20 사용자가 물어본 단어 목록 (원본 그대로)
+
+wistfully
+ultimately
+formative
+empowering
+adversity
+take a bad turn
+뜻
+
+---
+정규화 메모
+- take a bad turn → 실제로도 쓰이지만 관용 표준형은 take a turn for the worse.
+  표제어는 표준형으로 등록하고 사용자가 적은 형태를 note에 남김
+- 여섯 개가 '역경 → 성장' 서사에 함께 등장하는 어휘군이라 tags를 공유시킴
+
+wistfully /ˈwɪstfəli/ 부사 — 아쉬운 듯이, 그리운 듯이 (이룰 수 없음을 아는 조용한 그리움)
+ultimately /ˈʌltɪmətli/ 부사 — 궁극적으로, 결국; 근본적으로 따지면
+formative /ˈfɔːrmətɪv/ 형용사 — 형성기의, 인격 형성에 영향을 준 (one's formative years)
+empowering /ɪmˈpaʊərɪŋ/ 형용사 — 스스로 할 수 있다는 힘·주체성을 주는 (동사 empower)
+adversity /ədˈvɜːrsəti/ 명사 — 역경, 고난 (in the face of adversity)
+take a turn for the worse — 상황이 악화되다 (반대: take a turn for the better)

@@ -1,0 +1,32 @@
+출처: 사용자 제공 문장 (2026-08-04) — 링컨 문단 두 번째 문장
+앞 문장(2026-08-04-lincoln-sentence.txt)에서 이어짐
+
+--- 원문 그대로 (오타 포함) ---
+he was what we admire in a profession we believe to befilled exclusively with
+the opposite of that type of person.
+
+--- 보정 ---
+- "befilled" → "be filled"
+He was what we admire in a profession we believe to be filled exclusively with
+the opposite of that type of person.
+
+--- 해석 ---
+그는 우리가 어떤 직업에서 존경해 마지않는 바로 그런 모습이었다. 하필 그런
+사람과는 정반대되는 부류만 가득하다고 우리가 믿는 그 직업에서 말이다.
+
+--- 문법 포인트 ---
+1. what we admire : 선행사를 포함한 관계대명사 what (= the thing that).
+   앞에 꾸밀 명사가 없다
+2. a profession (which) we believe to be filled ~ :
+   believe A to be B에서 목적어 A가 관계대명사로 빠져나간 구조.
+   관계대명사가 생략되어 두 절이 맞붙어 보인다.
+   think / consider / know도 같은 방식으로 쓰인다
+3. exclusively : 오로지 ~로만. '드물다'가 아니라 '아예 없다'는 뜻을 만든다
+4. that type of person = 앞 문장의 다섯 자질(compassionate, deliberate, fair,
+   open-minded, purposeful)을 지닌 사람
+5. a profession = 정치. 앞 문장의 politician을 받는다
+
+--- 논지 ---
+링컨은 정치인이면서 그 자질들을 지녔다(앞 문장).
+그런데 우리는 정치를 정확히 그 반대되는 인간들만 있는 곳으로 여긴다(이 문장).
+그래서 링컨이 놀랍다 — 두 문장의 대비가 글의 핵심.

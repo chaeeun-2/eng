@@ -1,0 +1,39 @@
+2026-09-08 사용자 단어 목록 (원본 그대로)
+
+deceived
+pompous
+scolding
+consequence
+instinct
+bemoaning
+wrath
+
+---
+답변 요지 (표제어는 기본형으로 정규화)
+
+deceive /dɪˈsiːv/ v — 속이다, 기만하다
+  be deceived by ~ 수동형이 흔함
+  We were deceived by his confident manner.
+  lie = 거짓말하는 행위 / deceive = 상대를 잘못 믿게 만드는 결과. 거짓말 없이도 속일 수 있음
+
+pompous /ˈpɒmpəs/ adj — 거들먹거리는, 젠체하는. 항상 부정적
+  He gave a long, pompous speech about his own achievements.
+
+scold /skəʊld/ v — 꾸짖다, 야단치다 (명사형 scolding = 꾸지람)
+  She gave the boy a scolding for lying.
+  scold = 감정적으로 야단 / criticize = 비판 / tell off = 구어체
+
+consequence /ˈkɒnsɪkwəns/ n — 결과, 결말; 중대성
+  단순 result가 아니라 어떤 행동에서 따라 나온 결과, 부정적인 경우가 많음
+  He didn't think about the consequences of his actions.
+  as a consequence of ~, face the consequences
+
+instinct /ˈɪnstɪŋkt/ n — 본능, 직감
+  My instinct told me not to trust him.
+
+bemoan /bɪˈməʊn/ v — 한탄하다, 푸념하다. 격식체 + 약간 비꼬는 뉘앙스
+  He spent the evening bemoaning his bad luck.
+
+wrath /rɒθ/ n — 진노, 격노. anger의 문어체·성경체 버전
+  He feared the wrath of his father.
+  incur/face someone's wrath

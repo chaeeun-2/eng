@@ -1,0 +1,19 @@
+2026-08-19 대화 중 사용자가 물어본 단어
+
+accomplishing
+
+---
+정규화 메모
+- 표제어는 accomplish (동사). accomplishing은 동명사·진행형 형태이므로 예문으로 처리.
+
+accomplish /əˈkɑːmplɪʃ/ (US) /əˈkʌmplɪʃ/ (UK) 동사
+- 뜻: (목표·과업을) 이루다, 완수하다, 해내다
+- 목적어는 goal, task, mission, objective 같은 '해내야 하는 것'
+- What did you accomplish today? / We accomplished nothing.
+- 동명사: without accomplishing anything / the satisfaction of accomplishing a goal
+- 파생: accomplishment(성취, 업적), accomplished(형용사: 기량이 뛰어난 — an accomplished pianist)
+- 헷갈림:
+  achieve — 거의 동의어. achieve는 결과·수준 도달(achieve success), accomplish는 정해진 과업의 완수
+  complete — 끝까지 마쳤다는 사실만. accomplish는 노력과 성취감이 함께 들어간다
+  finish — 가장 중립적·일상적
+  accomplice(공범)와 철자가 비슷하지만 무관

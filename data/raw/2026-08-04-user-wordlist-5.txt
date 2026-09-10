@@ -1,0 +1,23 @@
+출처: 사용자 직접 붙여넣기 (2026-08-04, 다섯 번째 목록)
+뜻 없이 표제어만 전달 → 뜻·예문 모두 에이전트가 작성
+
+--- 원문 그대로 ---
+pragmatic
+deman of
+pretend
+admire
+opposite
+deification
+gloss over
+at odd
+snake pit
+
+--- 정규화 시 보정 ---
+- "deman of" → "demands of" (오타). 같은 날 해석한 명상록 문장
+  "the demands of court"에서 나온 표현으로 보임
+- "at odd" → "at odds" (오타). odds의 s가 필수
+- "pragmatic" → 이미 등록됨(pragmatic-adj, 같은 날). 중복이라 건너뜀
+
+--- 메모 ---
+deification은 로마 황제 신격화 맥락. 명상록 독해와 이어짐.
+snake pit / gloss over / at odds는 조직·정치 갈등 계열.

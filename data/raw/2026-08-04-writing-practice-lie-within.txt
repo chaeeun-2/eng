@@ -1,0 +1,27 @@
+출처: 사용자 작문 연습 (2026-08-04)
+배운 단어를 스스로 재구성한 문장 → 첨삭 요청
+
+--- 사용자 원문 ---
+In spite of any distract, you just shift to what lies within your reasoned choice.
+
+--- 첨삭 ---
+1. [문법 오류] any distract → any distraction
+   distract는 동사. in spite of 뒤에는 명사가 와야 함.
+   distract(v) / distraction(n) / distracted(adj)
+2. [자연스러움] shift to → shift your attention to
+   무엇을 옮기는지 명시. 앞의 distraction과 attention이 짝을 이룸.
+3. [어투] just → simply
+   reasoned choice(격식체)와 just(구어체)의 톤 불일치.
+4. [뉘앙스] in spite of any ~ → whatever the ~
+   in spite of는 이미 일어난 특정 사실을 인정할 때 씀.
+   any(어떤 것이든)와는 어울리지 않음.
+
+--- 교정 문장 ---
+In spite of any distraction, you simply shift your attention to what lies within your reasoned choice.
+
+--- 더 자연스러운 버전 ---
+Whatever the distraction, simply shift your attention back to what lies within your reasoned choice.
+
+--- 메모 ---
+reasoned choice = 에픽테토스의 prohairesis 번역어.
+영어권 원전 번역에서는 the sphere of your reasoned choice 형태로도 자주 씀.

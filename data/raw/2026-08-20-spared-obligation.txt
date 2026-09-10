@@ -1,0 +1,27 @@
+2026-08-20 대화 중 사용자가 물어본 단어
+
+spared
+obligation
+
+---
+정규화 메모
+- spared → 표제어는 spare(동사). 수동태 be spared ~ 가 핵심 용법이라 예문 중심으로 처리
+
+spare /sper/ 동사·형용사
+- 뜻 1: (수고·고통을) 면하게 해주다 — spare someone the trouble/details
+       수동: be spared ~ = ~를 면하다, 겪지 않아도 되다
+- 뜻 2: (시간·돈을) 내주다, 할애하다 — Can you spare a minute?
+- 뜻 3: 목숨을 살려주다 — spare his life
+- 형용사: 여분의 — a spare key, spare time
+- 관용: to spare(남아도는 — with time to spare), no expense spared
+- spare A B (4형식) 형태에 주의: spare me the details = 자세한 얘기는 됐다
+
+obligation /ˌɑːblɪˈɡeɪʃn/ 명사
+- 의무, 책무 (외부에서 지워진 구속력)
+- have an obligation to do / be under an obligation to do
+- under no obligation = ~할 의무가 없다 (판매·안내문 상투구)
+- meet·fulfill one's obligations = 의무를 이행하다
+- a sense of obligation, out of obligation = 의무감에서
+- 헷갈림: duty(역할에서 나오는 본분, 더 내면적) / responsibility(결과에 대한 책임)
+  / commitment(스스로 한 약속·헌신)
+- 앞서 등록한 ought to, be required of와 같은 '당위' 계열

@@ -1,0 +1,19 @@
+2026-08-20 대화 중 사용자가 물어본 단어
+
+further
+retained
+
+---
+정규화 메모
+- retained → retain(동사)으로 2026-08-04 이미 등록됨. 중복 생성하지 않음
+  (다만 과거분사 retained의 형용사 용법 예문 1개를 기존 항목에 병합)
+- further만 신규 등록
+
+further /ˈfɜːrðər/ 부사·형용사·동사
+- 부사: 더 나아가, 더욱; (거리) 더 멀리
+- 형용사: 추가의, 더 이상의 — further information, until further notice
+- 동사(격식): 증진시키다, 촉진하다 — further one's career, further the cause
+- farther와 차이: 물리적 거리는 farther/further 둘 다, 추상적 정도는 further만
+  (미국식은 거리에 farther를 선호, 영국식은 further를 폭넓게 씀)
+- furthermore = 게다가(접속부사). further과 역할이 다름
+- 문두 Further, ~ 로 논지를 덧붙이는 문어체 용법도 있음

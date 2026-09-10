@@ -1,0 +1,21 @@
+2026-08-20 사용자가 해석을 물어본 문장
+
+"we can't do this life thing halfheartedly."
+
+---
+정규화 메모
+- 미등록 어휘 halfheartedly 등록
+- 구어 패턴 "this + 명사 + thing"(이 ~라는 거)도 별도 항목으로 등록 — 회화에서 매우 흔한 틀
+
+halfheartedly /ˌhæfˈhɑːrtɪdli/ 부사 (표기: halfheartedly / half-heartedly)
+- 마음 없이, 성의 없이, 건성으로
+- 형용사 halfhearted (a halfhearted apology/attempt/effort)
+- 반대: wholeheartedly (전심으로), give it your all
+- 헷갈림: reluctantly는 '내키지 않아 마지못해'(하기 싫은 마음이 핵심),
+  halfheartedly는 하긴 하되 '힘을 다 쏟지 않는' 태도
+
+this + 명사 + thing
+- 이 ~라는 거 / 이 ~라는 것 — 거창한 개념을 일부러 툭 던지듯 부르는 구어체
+- this life thing, this parenting thing, this whole dating thing
+- 대상을 가볍게 처리하면서 오히려 친근감·솔직함을 주는 어법
+- do this X thing 형태로 자주 쓴다

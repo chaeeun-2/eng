@@ -1,0 +1,40 @@
+2026-08-19 대화 중 사용자가 물어본 표현 (원본 그대로)
+
+vanity
+adds to our plate
+busy yourself sith
+wouldn't a better sayng be
+attempting
+
+---
+정규화 메모
+- busy yourself sith → with 오타. 표제어는 busy oneself with
+- wouldn't a better sayng be → saying 오타. 표제어는 saying(명사)으로 등록하고
+  "Wouldn't a better X be ~?" 수사적 제안 패턴을 note에 기록
+- adds to our plate → 표제어는 add to one's plate. 더 기본 표현인
+  have a lot on one's plate를 예문·confusables에 함께 넣음
+- attempting → 표제어는 attempt(동사). -ing는 예문으로 처리
+
+vanity /ˈvænəti/ 명사
+- 허영심, 자만 (외적인 것에 대한 과시욕) / 헛됨, 무익함 / (가구) 화장대
+- a vanity project = 자기 과시용 사업, vanity metrics = 실속 없는 허영 지표
+- pride는 자부심(긍정 가능), vanity는 부정적. 형용사 vain (허영심 강한 / 헛된 — in vain)
+
+add to one's plate
+- 이미 맡은 일 위에 할 일을 더 얹다. plate(접시)를 업무량에 비유
+- have a lot on one's plate = 할 일이 산더미다 (더 기본)
+
+busy oneself with ~
+- ~하며 시간을 보내다, ~에 몰두하다. 재귀대명사 필수
+- with + 명사 / 바로 -ing 둘 다 가능
+- 정작 중요한 일을 피하려고 사소한 일에 매달린다는 함의가 자주 붙는다
+
+saying /ˈseɪɪŋ/ 명사
+- 격언, 속담, 흔히 하는 말
+- as the saying goes = 속담에 있듯이
+- 패턴: Wouldn't a better saying be ~? = ~가 더 나은 말이 아닐까? (완곡한 반박·제안)
+- proverb(전승 속담) / quote(인용문) / motto(좌우명)와 구분
+
+attempt /əˈtempt/ 동사·명사
+- 시도하다 (격식). attempt to + 동사원형 / 명사는 an attempt at ~
+- try보다 격식적이며 실패 가능성을 함축 (attempted murder = 살인미수)

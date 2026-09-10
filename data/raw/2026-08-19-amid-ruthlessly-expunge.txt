@@ -1,0 +1,29 @@
+2026-08-19 대화 중 사용자가 물어본 단어
+
+amid
+accomplishing ruthlessly
+expunge
+
+---
+정규화 메모
+- accomplish는 2026-08-19에 이미 등록됨(accomplish-v). 새로 배울 것은 부사 ruthlessly이므로
+  ruthlessly를 별도 등록하고, "accomplishing ruthlessly" 조합은 accomplish-v의 예문으로 병합.
+
+amid /əˈmɪd/ 전치사 (변형: amidst)
+- ~ 가운데에, ~ 속에서 / ~하는 상황에서
+- amid the chaos, amid growing concerns, amid criticism, amid a pandemic
+- among과 차이: among은 셀 수 있는 개체들 사이(among the trees), amid는 상황·불가산 대상 속(amid the noise)
+- 뉴스 헤드라인에서 배경 상황을 압축할 때 아주 흔함
+- amidst는 같은 뜻의 문어체 변형
+
+ruthlessly /ˈruːθləsli/ 부사
+- 무자비하게, 냉혹하게 (부정적)
+- 가차 없이·철저하게 (중립·긍정: ruthlessly efficient, ruthlessly prioritize)
+- 형용사 ruthless, 명사 ruthlessness
+- 어원: ruth(연민) + less — 오늘날 ruth는 단독으로 거의 쓰이지 않는다
+
+expunge /ɪkˈspʌndʒ/ 동사 (격식·법률)
+- (기록에서) 완전히 삭제하다, 말소하다 / (기억에서) 지워 없애다
+- expunge a criminal record, expunge from the record, expunge from memory
+- delete는 중립적 삭제, expunge는 흔적조차 남기지 않는 공식적 말소
+- erase와 가깝지만 expunge는 공식 기록·법적 맥락이 기본

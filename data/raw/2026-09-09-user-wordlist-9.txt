@@ -1,0 +1,71 @@
+2026-09-09 대화 중 질문 (사용자 단어 목록 — 취임·정치 기사 맥락)
+
+predominate
+be sworn in
+inaugural
+ratified
+assert
+paralyze
+convert A into B
+pale in comparison to
+scramble to
+retreat
+advance
+
+답변 요지:
+
+predominate /prɪˈdɒmɪneɪt/ v — 우세하다, 지배적이다
+  pre-(앞) + domin-(지배) = 앞서서 지배하다
+  Older voters predominate in rural districts.
+  형용사 predominant / 부사 predominantly가 훨씬 자주 쓰인다 (predominantly white neighborhood)
+  구분: dominate = 힘으로 누르다(타동사). predominate = 수·비중에서 앞서다(주로 자동사)
+
+be sworn in phr — 취임 선서를 하고 취임하다
+  swear(맹세하다)의 수동. 선서를 받게 되는 쪽이라 항상 수동태
+  She was sworn in as the country's first female president.
+  짝: swear someone in, take the oath of office, swearing-in ceremony
+
+inaugural /ɪˈnɔːɡjərəl/ adj — 취임의; 첫 번째의, 개막의
+  his inaugural address / the inaugural season of the league
+  정치 밖에서도 "제1회"로 널리 쓴다. 명사형 inauguration
+
+ratify /ˈrætɪfaɪ/ v — (조약·합의를) 비준하다, 정식 승인하다
+  이미 서명된 것을 의회·기구가 공식 확정하는 단계
+  The senate ratified the treaty in March.
+  구분: sign은 서명, ratify는 그 뒤의 법적 확정. approve보다 격식·법률적
+
+assert /əˈsɜːt/ v — ① 단언하다 ② (권리·권위를) 행사하다
+  He asserted that the election was fair.
+  The court asserted its authority over the case.
+  assert oneself = 자기 주장을 분명히 하다
+  구분: claim보다 확신에 차 있고 근거를 대지 않는 뉘앙스
+
+paralyze /ˈpærəlaɪz/ v — 마비시키다 (신체·기능 둘 다)
+  The strike paralyzed the entire transit system.
+  paralyzed by fear. 영국식 철자 paralyse
+
+convert A into B — A를 B로 전환하다/개조하다
+  They converted the old factory into apartments.
+  into 대신 to도 가능(convert dollars to won). 형태가 크게 바뀌면 into
+  구분: change는 그냥 바꿈, convert는 다른 용도·형태로 바꿈
+
+pale in comparison to idiom — ~에 비하면 별것 아니다, 빛이 바래다
+  pale = 창백해지다. 옆에 두면 색이 죽는 그림
+  Last year's protests pale in comparison to this.
+  변형: pale beside, pale next to
+
+scramble to — 허둥지둥 서둘러 ~하려 하다
+  준비 없이 급하게 달려드는 그림. 부정적 뉘앙스
+  Officials scrambled to contain the fallout.
+  scramble for seats처럼 for + 명사로도 쓴다
+  구분: rush는 중립, scramble은 혼란스러움까지 포함
+
+retreat /rɪˈtriːt/ v, n — 후퇴하다, 물러나다; 후퇴; 수련회·은신처
+  The army retreated across the river.
+  He retreated from his earlier position. ← 정치 기사에서 흔한 비유
+  a weekend retreat
+
+advance /ədˈvɑːns/ v, n — 전진하다; 진전시키다; 진보; 선불
+  retreat의 반대
+  The troops advanced on the capital.
+  advance one's interests / in advance / an advance payment

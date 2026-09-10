@@ -1,0 +1,28 @@
+2026-08-12 사용자가 붙여넣은 단어 목록 (원본 그대로)
+
+prove
+concerned with
+tweak
+to one's liking
+be dismissed as
+virtue
+conduct
+whether
+being accustomed to
+anything goes
+pursuit
+exaggerated
+frustration
+begets
+have hangs-up
+
+추가
+
+---
+정규화 메모
+- pursuit, exaggerated, frustration → 2026-08-10에 이미 등록됨. 중복 생성하지 않음.
+- being accustomed to → 표제어는 be accustomed to (분사구문 형태는 예문으로 처리)
+- begets → 표제어는 beget (활용: beget-begot-begotten)
+- have hangs-up → 올바른 형태는 have hang-ups (about ~). 복수형은 hang-ups.
+- conduct → 명사(CON-duct)와 동사(con-DUCT)의 강세·뜻이 달라 별도 항목 2개로 등록
+- whether → 접속사지만 스키마 pos에 conj가 없어 phr로 등록, tags에 grammar/conjunction 표기

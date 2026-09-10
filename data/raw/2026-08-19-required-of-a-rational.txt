@@ -1,0 +1,25 @@
+2026-08-19 사용자가 물어본 표현 (문장 조각 그대로)
+
+required of a rational
+
+---
+정규화 메모
+- 조각 전체는 "... required of a rational being/agent/person" 형태의 일부로 보인다.
+  (칸트 계열 윤리학 지문에서 흔한 표현: what is required of a rational being)
+- 핵심 학습 포인트 두 개를 각각 등록:
+  1) be required of + 사람 = ~에게 요구되다 (required from 아님)
+  2) rational (형용사) = 이성적인, 합리적인
+
+be required of ~ /rɪˈkwaɪərd əv/
+- 요구가 향하는 대상을 of로 표시한다. 수동태로 쓰는 것이 기본
+- More is required of senior engineers. / Nothing more is required of you.
+- 같은 틀의 동사들: expected of, asked of, demanded of, expect too much of someone
+- required from (X에 가깝다) — from은 출처·자료를 받아낼 때 (documents required from the applicant)
+- 능동태로 풀면 require + 사람 + to부정사 (We require you to sign.)
+
+rational /ˈræʃnəl/ 형용사
+- 이성적인, 합리적인 / 이성을 가진 (a rational being = 이성적 존재)
+- rational decision, rational explanation, rational actor
+- 반대말 irrational
+- rationale(명사, /ˌræʃəˈnæl/) = 근거·논거 — 철자·발음 모두 다름. 혼동 주의
+- reasonable은 상식적·온당한(a reasonable price), rational은 논리·이성에 근거한

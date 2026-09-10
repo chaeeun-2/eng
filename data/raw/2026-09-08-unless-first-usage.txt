@@ -1,0 +1,33 @@
+2026-09-08 사용자 질문 — unless / first 용법
+
+질문: "No one is crushed by Fortune, unless they are first deceived by her"
+이 문장에서 unless / first 해석이 안 된다. 직역하면 "그녀에게 처음 농락당하지 않는 한"이 되는데
+어떻게 "결코 운명에게 짓밟히지 않는다"가 되는지?
+
+답변 요지:
+
+1. 문장 뼈대
+   [주절] No one is crushed by Fortune / [조건절] unless they are first deceived by her
+   '결코'는 unless가 아니라 No one(전체 부정)에서 나온 것
+
+2. unless = if ... not. 부정이 단어 안에 들어 있다
+   영어는 뒤 절이 긍정형인데 한국어로는 부정으로 뒤집힌다
+   unless they are deceived → "속는다면"(X) / "속지 않는 한"(O)
+
+3. first = "처음"이 아니라 "그에 앞서, 먼저". 두 사건의 순서를 못 박는 부사
+   ① 속는다(deceived) → ② 짓밟힌다(crushed). first는 ①이 ②보다 앞섬을 표시
+   "처음"으로 읽으면 횟수의 의미가 되어 문장이 어그러진다
+
+4. 어순 그대로의 직역
+   "먼저 그녀에게 속아 넘어가지 않는 한, 그 누구도 운명에게 짓밟히지 않는다."
+
+5. 한국어 어순 재배치 (앞서 준 번역)
+   조건절 → 주어를 꾸미는 말로 끌어올림 / No one → "결코 ~않는다"
+   "운명에게 먼저 속아 넘어가지 않은 사람은 결코 운명에게 짓밟히지 않는다."
+
+6. 논리: No one is P unless Q = Q는 P의 필요조건
+   속지 않았다 → 절대 안 짓밟힘 (이 문장이 보장하는 것)
+   속았다     → 짓밟힐 수 있음
+   세네카의 요지는 앞줄. 속지만 않으면 운명은 어쩌지 못한다
+
+7. they = No one을 받는 단수 they / her = 의인화된 운명의 여신

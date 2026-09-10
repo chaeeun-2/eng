@@ -1,0 +1,28 @@
+출처: 사용자 제공 지문 (2026-08-04) — 침묵/말수에 관한 문단
+같은 날 앞서 물어본 조각들(blow past, cause yourself suffering,
+The inexperienced and fearful talk to reassure themselves)의 원출처로 확인됨.
+
+--- 원문 그대로 ---
+"Silence is a lesson learned from the many sufferings of life."
+'The more you say,' Robert Greene has written, 'the more likely you are to say
+something foolish.' To that we add: the more you say, the more likely you are to
+blow past opportunities, ignore feedback, and cause yourself suffering.
+
+--- 해석 ---
+"침묵은 삶의 숱한 고통을 겪으며 배우는 교훈이다."
+로버트 그린은 이렇게 썼다. "말을 많이 할수록, 어리석은 말을 할 가능성도 커진다."
+여기에 한마디 덧붙이자면 — 말이 많아질수록 기회를 그냥 흘려보내고, 조언을
+흘려듣고, 스스로 고통을 자초하기 쉬워진다.
+
+--- 문법 포인트 ---
+1. a lesson learned from ~ : 과거분사 후치 수식
+2. sufferings (복수) : 개별 고난을 셀 때는 가산. 추상적 '고통'은 불가산
+3. 인용문 중간 삽입 — 'A,' 화자 has written, 'B.'
+4. To that we add : We add to that의 목적어 전치. 앞 논지를 이어받는 격식 구조
+5. the 비교급 ~, the 비교급 ~ : ~할수록 더 ~하다
+   the more likely you are to V  <- You are more likely to V 에서 비교급 덩어리 전치
+6. to blow past / ignore / cause : to는 처음 한 번만, 세 동사가 병렬
+
+--- 어휘 메모 ---
+blow past opportunities = 기회를 알아채지 못하고 스쳐 지나가다(놓치다).
+  기존 등록한 '수치를 훌쩍 뛰어넘다'와 달리 부정적 뜻.

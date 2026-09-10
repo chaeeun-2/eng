@@ -1,0 +1,26 @@
+2026-08-20 사용자가 해석을 물어본 문장 (원문 그대로)
+
+"Remember, then, if you deem what is by nature slavish to be free, and what is not your own to be yours, you will be shackled and miserable, blaming both gods and other people."
+
+(에픽테토스 엥케이리디온 1장. 직전 질문 and what belongs to others as truly not yours /
+ because no harm can affect you 와 같은 단락)
+
+---
+정규화 메모
+- 핵심 미등록 어휘 3개를 등록: deem, slavish, shackle
+- 문장 구조: deem A to be B (A를 B라고 여기다)를 두 번 반복 + 결과절 + 분사구문
+  A1 = what is by nature slavish  → B1 = free
+  A2 = what is not your own       → B2 = yours
+- blaming ~ = 결과를 부연하는 분사구문 (그리하여 ~를 탓하게 된다)
+
+deem /diːm/ 동사
+- (~라고) 여기다, 간주하다. 격식체. deem A (to be) B / deem it necessary to do
+- consider보다 격식적이고 판단·판정의 무게가 있다. 법률·공문서에 많다
+
+slavish /ˈsleɪvɪʃ/ 형용사
+- 노예 같은, 예속적인 / 맹종하는, 독창성 없는 (a slavish imitation)
+- slave(노예) + -ish. by nature slavish = 본래 예속된 처지인
+
+shackle /ˈʃækl/ 동사·명사
+- 명사: 족쇄, 차꼬 (보통 복수 shackles) / 비유적으로 속박
+- 동사: 족쇄를 채우다, 속박하다. be shackled by/to ~

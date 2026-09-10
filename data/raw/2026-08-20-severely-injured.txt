@@ -1,0 +1,29 @@
+2026-08-20 대화 중 사용자가 물어본 단어
+
+exclusively
+severely
+injured
+
+---
+정규화 메모
+- exclusively → 2026-08-04에 이미 등록됨(exclusively-adv, 링컨 문단 출처). 중복 생성하지 않음
+- injured → 표제어는 injure(동사). 형용사 용법(the injured, an injured knee)은 예문·노트로 처리
+- severely injured가 한 덩어리로 자주 쓰이므로 두 항목에 서로 연결
+
+severely /səˈvɪrli/ 부사
+- 심하게, 혹독하게, 엄격하게
+- severely injured / damaged / limited / criticized / punished
+- 형용사 severe (severe pain, a severe winter, severe criticism), 명사 severity
+- 헷갈림: seriously는 '심각하게'로 폭넓고 구어적 (seriously injured도 자연스러움)
+  badly는 구어적으로 정도를 강조 (badly hurt)
+  severely는 격식체이고 뉴스·의료 보고서에 많다
+  strictly는 규칙의 엄격함 (strictly prohibited)
+
+injure /ˈɪndʒər/ 동사
+- 다치게 하다, 부상을 입히다 (사고·충돌 등 물리적 부상)
+- be injured = 다치다 (수동태가 기본), injure oneself
+- the injured = 부상자들 (정관사 + 과거분사 = 집합 명사)
+- 명사 injury (a knee injury, injury time)
+- 헷갈림: wound는 무기에 의한 상처(총상·자상)에 주로, injure는 사고성 부상
+  hurt는 가장 일상적이고 아픔의 느낌까지 포함
+  damage는 사물에, injure는 사람·신체에 (damage one's reputation처럼 추상은 damage)

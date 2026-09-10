@@ -1,0 +1,19 @@
+출처: 사용자 직접 붙여넣기 (2026-08-04)
+요청: 위 단어들 추가 + 모든 단어에 연습용 예문 생성해서 붙일 것
+
+--- 원문 그대로 ---
+Lie within : ~범위 안에 있다
+assert his will : 자신의 의즈를 관철시키다, 주장하다
+stay in shape : 건강을 유지하다
+retain : 유지하다
+avoidance : 기피, 회피
+in spite of that : 그럼에도 불구하고
+dignity : 위엄
+claim as aweel : ~까지도 주장하다
+distract : 주의를 빼앗다. 집중을 방해하다
+
+--- 정규화 시 보정 ---
+- "의즈" → "의지" (오타)
+- "claim as aweel" → "claim as well" (오타)
+- "assert his will" → 표제어를 "assert one's will"로 일반화
+- 예문은 사용자 요청에 따라 에이전트가 생성 (원문에 예문 없음)
