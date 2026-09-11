@@ -56,10 +56,18 @@ body{
 #quiz[aria-pressed="true"]{background:var(--clay);border-color:var(--clay);color:#fff}
 .chip:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}
 .count{margin-left:auto;font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-2)}
-/* 카드 덱의 현재 위치 (12 / 238) — 모바일에서만 나온다 */
-.pos{display:none;margin-left:auto;font-family:"IBM Plex Mono",monospace;
-  font-size:11.5px;color:var(--indigo);font-variant-numeric:tabular-nums}
-.m-only{display:none}
+/* ── 하단 이동 바 (모바일 전용) ───────────────── */
+.deck{display:none}
+.nav{width:46px;height:46px;flex:0 0 auto;border-radius:99px;
+  border:1px solid var(--rule-2);background:var(--card);color:var(--indigo);
+  font-family:"IBM Plex Sans",sans-serif;font-size:24px;line-height:1;cursor:pointer;
+  display:inline-flex;align-items:center;justify-content:center;
+  transition:background .12s,color .12s,border-color .12s}
+.nav:disabled{opacity:.3;cursor:default}
+.nav:not(:disabled):active{background:var(--indigo);border-color:var(--indigo);color:#fff}
+.nav:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}
+.deck .pos{min-width:96px;text-align:center;font-family:"IBM Plex Mono",monospace;
+  font-size:13px;color:var(--ink-2);font-variant-numeric:tabular-nums}
 
 /* ── 정렬 세그먼트 ────────────────────────────── */
 .seg{display:inline-flex;border:1px solid var(--rule-2);border-radius:99px;
@@ -163,22 +171,19 @@ tbody.hide{display:none}
   thead,col{display:none}
   table,tbody,tr,td,tbody th{display:block;width:auto}
 
-  /* 카드 덱 — 한 화면에 한 단어, 좌우로 밀어 넘긴다.
-     다음 카드가 살짝 보이게 88%로 잘라 밀 수 있다는 신호를 준다. */
-  table{display:flex;gap:12px;border:none;background:transparent;margin-top:14px;
-    padding:0 12% 4px 0;
-    overflow-x:auto;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch;
-    scroll-snap-type:x mandatory;scrollbar-width:none}
-  table::-webkit-scrollbar{display:none}
-  tbody{flex:0 0 88%;scroll-snap-align:start;scroll-snap-stop:always;
-    max-height:calc(100svh - 240px);min-height:300px;
+  /* 앱 화면처럼 카드 한 장이 화면을 채운다. 이동은 하단 화살표로만 한다 */
+  table{display:block;border:none;background:transparent;margin-top:12px;padding:0}
+  tbody{display:none}
+  tbody.cur{display:block;
+    height:calc(100svh - 224px - env(safe-area-inset-bottom));
     overflow-y:auto;overscroll-behavior-y:contain;scrollbar-width:none;
-    background:var(--card);border:1px solid var(--rule-2);border-radius:9px;
+    background:var(--card);border:1px solid var(--rule-2);border-radius:10px;
     box-shadow:0 1px 3px rgba(19,26,24,.07);margin:0}
+  tbody.hide{display:none}
   tbody::-webkit-scrollbar{display:none}
   /* 카드가 길어 안에서 스크롤할 때도 표제어는 머리에 붙어 있는다 */
   tbody th.w{position:sticky;top:0;z-index:1;background:var(--card);
-    border-bottom:1px solid var(--rule);border-radius:9px 9px 0 0}
+    border-bottom:1px solid var(--rule);border-radius:10px 10px 0 0}
   tr.cf.open{display:block}
 
   td,tbody th{border-top:1px solid var(--rule)}
@@ -186,16 +191,15 @@ tbody.hide{display:none}
   td::before{content:attr(data-l);display:block;margin-bottom:4px;
     font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.14em;
     text-transform:uppercase;color:var(--ink-2)}
-  .masthead{padding-bottom:12px}
+  .masthead{padding-bottom:10px}
   .masthead h1{font-size:21px}
-  .stat{margin-left:0;width:100%}
+  .stat{display:none}           /* 개수는 하단 바의 위치 표시가 대신한다 */
+  .hint{display:none}           /* 키보드 안내는 폰에서 쓸 일이 없다 */
 
   /* 툴바 2줄 고정 — 1줄은 검색, 2줄은 옆으로 미는 도구 띠.
      칩이 10개라 그냥 두면 sticky 툴바가 화면 절반을 먹는다. */
   .toolbar{gap:8px;padding:10px 0}
-  /* 1줄: 검색 + 위치 표시. 위치는 도구 띠 안에 두면 밀려서 안 보인다 */
-  #q{flex:1 1 auto;max-width:none;min-width:0}
-  .pos{flex:0 0 auto;margin-left:0}
+  #q{flex:1 1 100%;max-width:none;min-width:0}
   .tools{flex-wrap:nowrap;overflow-x:auto;overscroll-behavior-x:contain;
     -webkit-overflow-scrolling:touch;scrollbar-width:none;
     margin:0 calc(-1 * (14px + env(safe-area-inset-left)));
@@ -203,9 +207,13 @@ tbody.hide{display:none}
   .tools::-webkit-scrollbar{display:none}
   .tools>*{flex:0 0 auto}
   .chips{flex-wrap:nowrap}
-  .count{display:none}          /* 카드 덱에서는 위치 표시가 개수를 겸한다 */
-  .pos{display:inline}
-  .m-only{display:inline}
+  .count{display:none}          /* 카드 모드에서는 하단 바의 위치 표시가 개수를 겸한다 */
+
+  /* 하단 이동 바 — 화살표로만 앞뒤 카드로 넘어간다 */
+  .deck{display:flex;align-items:center;justify-content:center;gap:20px;
+    position:fixed;left:0;right:0;bottom:0;z-index:6;
+    padding:9px 14px calc(9px + env(safe-area-inset-bottom));
+    background:var(--paper);border-top:1px solid var(--rule-2)}
 }
 
 /* 손가락용 — 22px 버튼은 터치 타깃으로 너무 작다 */
@@ -239,29 +247,45 @@ function apply(){
   }
   cnt.textContent = n===groups.length ? groups.length+'개' : n+' / '+groups.length+'개';
   empty.classList.toggle('on', n===0);
-  if(deckMq.matches){ table.scrollLeft=0; posEl.textContent = n ? '1 / '+n : '0'; }
+  if(deckMq.matches) showCard(0);   /* 목록이 바뀌면 첫 카드부터 */
 }
 q.addEventListener('input',apply);
 
-/* ── 모바일 카드 덱 — 지금 몇 번째 카드인지 표시 ── */
-const deckMq=matchMedia('(max-width:780px)');
-let deckIO=null;
+/* ── 모바일 카드 모드 — 한 장씩 보여주고 화살표로 넘긴다 ── */
+const deckMq=matchMedia('(max-width:780px)'),
+      prevBtn=document.getElementById('prev'),
+      nextBtn=document.getElementById('next');
+let idx=0;
 
-const visible=()=>groups.filter(g=>!g.classList.contains('hide'));
+/* groups는 로드 시점 순서로 굳어 있다. 카드 차례는 정렬된 DOM 순서를 따라야 하므로
+   여기서는 매번 표에서 다시 읽는다. */
+const visible=()=>[...table.querySelectorAll('tbody[data-word]:not(.hide)')];
+
+/* i번째 카드만 남긴다. 범위를 벗어난 i는 양 끝으로 붙인다. */
+function showCard(i){
+  if(!deckMq.matches) return;
+  const vis=visible();
+  groups.forEach(g=>g.classList.remove('cur'));
+  if(!vis.length){
+    idx=0; posEl.textContent='0';
+    prevBtn.disabled=nextBtn.disabled=true;
+    return;
+  }
+  idx=Math.max(0,Math.min(i,vis.length-1));
+  const cur=vis[idx];
+  cur.classList.add('cur');
+  cur.scrollTop=0;                      /* 새 카드는 늘 맨 위부터 */
+  posEl.textContent=(idx+1)+' / '+vis.length;
+  prevBtn.disabled = idx===0;
+  nextBtn.disabled = idx===vis.length-1;
+}
 
 function initDeck(){
-  if(deckIO){ deckIO.disconnect(); deckIO=null; }
-  if(!deckMq.matches){ posEl.textContent=''; return; }
-  /* 스냅으로 멈춘 카드는 뷰포트의 대부분을 차지한다 — 가장 많이 보이는 것이 현재 카드 */
-  deckIO=new IntersectionObserver(es=>{
-    const hit=es.filter(e=>e.isIntersecting)
-                .sort((a,b)=>b.intersectionRatio-a.intersectionRatio)[0];
-    if(!hit) return;
-    const vis=visible(), i=vis.indexOf(hit.target);
-    if(i>=0) posEl.textContent=(i+1)+' / '+vis.length;
-  },{root:table,threshold:.6});
-  groups.forEach(g=>deckIO.observe(g));
+  if(deckMq.matches){ showCard(idx); }
+  else { groups.forEach(g=>g.classList.remove('cur')); posEl.textContent=''; }
 }
+prevBtn.addEventListener('click',()=>showCard(idx-1));
+nextBtn.addEventListener('click',()=>showCard(idx+1));
 deckMq.addEventListener('change',initDeck);
 initDeck();
 
@@ -277,7 +301,7 @@ function sortBy(key,save){
   [...groups].sort((a,b)=>a.dataset[KEY[key]]-b.dataset[KEY[key]])
              .forEach(g=>frag.appendChild(g));
   table.appendChild(frag);
-  if(deckMq.matches){ table.scrollLeft=0; }
+  if(deckMq.matches) showCard(0);
   if(save) localStorage.setItem('eng-sort',key);
 }
 sortBtns.forEach(b=>b.addEventListener('click',()=>sortBy(b.dataset.sort,true)));
@@ -558,7 +582,6 @@ def main():
 
 <div class="toolbar">
   <input id="q" type="search" placeholder="단어 · 뜻 · 예문 검색" aria-label="검색">
-  <span class="pos" id="pos" aria-live="polite"></span>
   <div class="tools">
     <div class="seg" role="group" aria-label="정렬">
       <button class="chip" data-sort="abc" aria-pressed="true">abc순</button>
@@ -580,10 +603,15 @@ def main():
 </table>
 <p class="empty" id="empty">일치하는 단어 없음</p>
 
+<nav class="deck" id="deck" aria-label="카드 이동">
+  <button class="nav" id="prev" aria-label="이전 단어">&lsaquo;</button>
+  <span class="pos" id="pos" aria-live="polite"></span>
+  <button class="nav" id="next" aria-label="다음 단어">&rsaquo;</button>
+</nav>
+
 <p class="hint"><kbd>/</kbd> 검색 · <kbd>h</kbd> 뜻 가리기 · <kbd>s</kbd> 정렬 전환 ·
 <kbd>Esc</kbd> 읽기 중지 · 가린 상태에서 칸을 누르면 한 칸만 열림 ·
-표제어·예문 옆 스피커를 누르면 읽어줌 · 최근순에서는 표제어 아래 등록일이 보임
-<span class="m-only">· 카드를 좌우로 밀어 다음 단어로 넘어감</span></p>
+표제어·예문 옆 스피커를 누르면 읽어줌 · 최근순에서는 표제어 아래 등록일이 보임</p>
 
 </div>
 <script>{JS}</script>
