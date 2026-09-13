@@ -1,0 +1,78 @@
+2026-09-14 대화 중 질문 (사용자 단어 목록)
+
+원본 그대로:
+connotation
+no one in particular
+fortitude
+revealing in
+
+get rid of
+crave
+demise
+sit on the edge of our seat
+yearning for
+divine intervention
+
+표기 메모:
+- "revealing in" — 두 갈래로 읽힌다. ① revealing in ~ (~한 점에서 드러내는 바가 많은)
+  ② reveling in ~ (~을 만끽하다)의 오타. 둘 다 등록했다.
+- "sit on the edge of our seat" — 관용구 표제어는 on the edge of one's seat로 정규화
+
+답변 요지:
+
+connotation /ˌkɒnəˈteɪʃn/ n — 함축, 내포된 뉘앙스
+  사전적 뜻이 아니라 단어에 따라붙는 느낌
+  The word "cheap" has negative connotations.
+  denotation(명시적 의미) ↔ connotation(함축적 의미) 짝으로 외운다
+  보통 복수. carry connotations of ~
+
+no one in particular — 딱히 누구랄 것 없이
+  in particular(특별히) + no one
+  He said it to no one in particular.
+  허공에 혼잣말하듯 말하는 장면. nothing in particular, no reason in particular도 같은 틀
+
+fortitude /ˈfɔːtɪtjuːd/ n — 꿋꿋함, 역경을 견디는 용기
+  라틴어 fortis(강한). fort, force와 한 뿌리
+  She bore the illness with great fortitude.
+  with fortitude가 고정된 짝
+  구분: courage는 위험에 맞서는 순간의 용기, fortitude는 오래 버티는 인내
+
+revealing /rɪˈviːlɪŋ/ adj — 많은 것을 드러내는, 시사적인
+  revealing in ~ = ~한 점에서 드러내는 바가 많다
+  The interview was revealing in its candor.
+  주의: revel in(만끽하다)과 철자가 비슷하나 전혀 다르다
+
+revel in — 만끽하다, 한껏 즐기다
+  He reveled in the attention.
+
+get rid of — 없애다, 처분하다, 쫓아내다
+  We need to get rid of these old files.
+  물건·상태·사람 모두 목적어로 가능 (get rid of a cold)
+  rid는 rid-rid-rid 불변. be rid of(벗어난 상태)도 함께
+
+crave /kreɪv/ v — 갈망하다, 몹시 원하다
+  몸이 당기는 욕구에 특히 잘 쓴다
+  I'm craving something sweet.
+  crave attention/affection — 추상적 용법도 흔하다
+  명사 craving. want보다 훨씬 강하고 참기 어렵다는 뉘앙스
+
+demise /dɪˈmaɪz/ n — 죽음(격식, 완곡); 종말, 몰락
+  since his demise
+  the demise of print media — 요즘은 사물·제도의 종말에 쓰는 일이 더 많다
+  reports of its demise were premature
+
+on the edge of one's seat idiom — 손에 땀을 쥐고, 몰입해 조마조마한
+  의자 끝에 걸터앉아 몸을 앞으로 내민 자세
+  The ending had us on the edge of our seats.
+  have someone on the edge of their seat — 영화·책 평의 상투구
+  긴장 + 재미가 같이 있는 긍정적인 말
+
+yearn for /jɜːn/ v — 간절히 그리워하다, 동경하다
+  She yearned for the life she had left behind.
+  구분: crave는 몸의 욕구, yearn은 마음 깊은 그리움. 닿을 수 없는 것에 대한 애틋함
+  명사 yearning. a yearning for home
+
+divine intervention — 신의 개입, 하늘이 도운 일
+  It would take divine intervention to fix this.
+  가망 없는 상황을 농담조로 말할 때 자주 쓴다
+  short of divine intervention — 기적이 아니고서야

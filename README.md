@@ -112,8 +112,11 @@ git push                            # 1~2분 뒤 반영
 
 ## 현재 상태
 
-- 등록 단어: 278개
-- 마지막 갱신: 2026-09-14 (다른 세션 학습 목록 40개 — Tuesdays with Morrie 추정.
+- 등록 단어: 289개
+- 마지막 갱신: 2026-09-14 (대화 중 질문 11개 — connotation·fortitude·demise 등.
+  "revealing in"은 revealing(시사적인)과 revel in(만끽하다) 두 갈래로 읽혀 둘 다 등록.
+  "sit on the edge of our seat"은 on the edge of one's seat로 정규화)
+- 같은 날 앞서: 다른 세션 학습 목록 40개 — Tuesdays with Morrie 추정.
   문장 표에서 14개(in lieu of·of sorts·take no notice 등), 단어 표에서 26개.
   lieu는 `in lieu of`로, injected/stumbled/zapped/hobbled는 기본형으로 등록.
   긴 치아 묘사 문장은 crooked 예문으로 보관. further·no longer는 기존 항목이라 건너뜀.

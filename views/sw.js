@@ -1,5 +1,5 @@
 /* 자동 생성 — scripts/build_pwa.py. 직접 고치지 말 것. */
-const V = 'eng-8156b09f32';
+const V = 'eng-ab3e686927';
 const SHELL = ["./", "./wordlist.html", "./manifest.webmanifest", "./icons/icon-180.png", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/icon-maskable-512.png"];
 const FONTS = /fonts\.(googleapis|gstatic)\.com/;
 

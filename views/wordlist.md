@@ -1,4 +1,4 @@
-# 단어장 (총 278개)
+# 단어장 (총 289개)
 
 `data/vocab.jsonl`에서 자동 생성. 직접 수정 금지.
 
@@ -1749,6 +1749,36 @@
 
 ---
 
+### connotation
+
+*명사* · C1 · formal · /ˌkɒnəˈteɪʃn/
+
+**함축, 내포된 뉘앙스 (단어에 따라붙는 느낌)**
+
+> an idea or feeling a word suggests beyond its literal meaning
+
+- The word "cheap" has negative connotations.
+  - cheap이라는 말에는 부정적인 뉘앙스가 있다.
+  - 💡 보통 복수형으로 쓴다. have/carry negative connotations가 기본 틀
+- "Home" carries connotations of warmth and safety.
+  - home이라는 말에는 따뜻함과 안전함의 느낌이 배어 있다.
+  - 💡 carry connotations of + 명사
+- Be careful with that phrase-it has political connotations here.
+  - 그 표현은 조심해서 써라. 여기서는 정치적 함의가 있다.
+  - 💡 번역·카피 작업에서 자주 하게 되는 말
+
+**연어**: negative connotations, carry connotations of, political connotations, have connotations
+
+**유의어**: overtone, undertone, nuance, implication
+
+**구분**:
+- denotation — 사전에 적힌 명시적 의미. connotation은 그 위에 얹힌 느낌. 짝으로 외운다
+- con-(함께) + notare(표시하다) = '뜻과 함께 딸려오는 것'
+- implication — 말하는 사람이 넌지시 담은 뜻. connotation은 단어 자체에 사회적으로 붙어 있는 느낌이라 화자 의도와 무관하다
+- 동사는 connote. 형용사는 connotative
+
+---
+
 ### consequence
 
 *명사* · B2 · /ˈkɒnsɪkwəns/
@@ -1943,6 +1973,35 @@
 - 문맥으로 갈린다 — 왕/황제가 나오면 궁정, 사건/판사가 나오면 법정, 경기면 코트
 - courtesy(예의) · courtier(신하) 모두 court에서 나온 말
 - court disaster — 화를 자초하다. 동사의 관용 용법
+
+---
+
+### crave
+
+*동사* · B2 · /kreɪv/
+
+**갈망하다, 몹시 당기다, 간절히 원하다**
+
+> to have a very strong desire for something
+
+- I'm craving something sweet.
+  - 단 게 몹시 당긴다.
+  - 💡 음식·담배처럼 몸이 당기는 욕구에 가장 잘 어울린다
+- Children crave attention from their parents.
+  - 아이들은 부모의 관심을 갈구한다.
+  - 💡 추상적 대상(attention, approval, affection)에도 흔히 쓴다
+- After months indoors, she craved open air.
+  - 몇 달을 실내에 있다 보니 그는 바깥 공기가 간절했다.
+
+**연어**: crave attention, crave sugar, craving for
+
+**유의어**: long for, hunger for, desire, itch for
+
+**구분**:
+- want보다 훨씬 강하고 '참기 어렵다'는 결이 핵심이다. 가볍게 쓰면 과장으로 들린다
+- [[yearn-for-phrasal_verb]] — 마음 깊은 그리움. crave는 몸이 당기는 욕구 쪽이라 대상이 구체적인 경우가 많다
+- 명사는 craving(갈망). have a craving for chocolate처럼 쓴다
+- 임신 중 입덧으로 당기는 음식도 cravings라고 한다
 
 ---
 
@@ -2269,6 +2328,36 @@
 
 ---
 
+### demise
+
+*명사* · C1 · formal · /dɪˈmaɪz/
+
+**죽음 (격식·완곡); (제도·회사의) 종말, 몰락**
+
+> a person's death; the end of something that was once successful
+
+- The company was sold shortly after his demise.
+  - 그가 세상을 떠난 직후 회사는 매각되었다.
+  - 💡 death보다 격식 있고 완곡하다
+- Everyone predicted the demise of print media.
+  - 모두가 인쇄 매체의 몰락을 예견했다.
+  - 💡 요즘은 사물·제도·산업의 종말에 쓰는 일이 더 많다
+- Reports of its demise were premature.
+  - 그것이 끝났다는 이야기는 성급했다.
+  - 💡 자주 인용되는 관용적 표현
+
+**연어**: the demise of, untimely demise, predict the demise, since his demise
+
+**유의어**: death, passing, downfall, collapse
+
+**구분**:
+- passing — 가장 부드러운 완곡어(I'm sorry to hear about his passing). demise는 격식은 있지만 따뜻하지는 않아 조문에는 덜 쓴다
+- 사물에 쓰면 조롱이나 아쉬움이 섞이기 쉽다 — the demise of the office necktie
+- 동사로도 쓰이지만(법률상 양도하다) 현대 영어에서는 명사로만 만난다고 봐도 된다
+- 발음 주의 — /dɪˈmaɪz/로 뒤 음절에 강세, -mise는 '마이즈'
+
+---
+
 ### determine
 
 *동사* · B2 · formal · /dɪˈtɜːrmɪn/
@@ -2407,6 +2496,36 @@
 **구분**:
 - disturb — 방해해서 불편하게 함(소음·수면). distract는 '집중'을 깨뜨림
 - 파생형 함께: distracted(형) 산만한 / distraction(명) 주의를 빼앗는 것
+
+---
+
+### divine intervention
+
+*구문* · C1 · /dɪˌvaɪn ˌɪntəˈvenʃn/
+
+**신의 개입, 하늘이 도운 일, 기적**
+
+> the involvement of a god in human affairs; a miraculous rescue from a hopeless situation
+
+- It would take divine intervention to fix this.
+  - 이걸 고치려면 기적이라도 일어나야 한다.
+  - 💡 가망 없는 상황을 농담조로 과장할 때 흔히 쓴다
+- Short of divine intervention, the project is finished.
+  - 기적이 아니고서야 그 프로젝트는 끝났다.
+  - 💡 short of ~ = ~이 아닌 한
+- She credited her recovery to divine intervention.
+  - 그는 자신의 회복을 신의 개입 덕으로 돌렸다.
+  - 💡 실제 종교적 맥락에서의 용법
+
+**연어**: take divine intervention, short of divine intervention, an act of divine intervention
+
+**유의어**: a miracle, an act of God, providence
+
+**구분**:
+- divine = 신의·신성한 / intervention = 개입. 두 단어 모두 따로도 많이 쓴다
+- an act of God — 보험·계약서의 법률 용어로 천재지변을 가리킨다. divine intervention은 구원의 뉘앙스라 방향이 반대다
+- 일상 대화에서는 대개 농담이다. 진지한 종교적 발언으로 오해되지 않게 문맥을 살필 것
+- 동사 intervene(개입하다) — intervene in a dispute
 
 ---
 
@@ -2886,6 +3005,35 @@
 
 ---
 
+### fortitude
+
+*명사* · C1 · formal · /ˈfɔːtɪtjuːd/
+
+**꿋꿋함, 역경을 견디는 용기, 불굴의 인내**
+
+> courage and strength of mind in facing pain or difficulty over time
+
+- She bore the illness with great fortitude.
+  - 그는 그 병을 아주 꿋꿋하게 견뎌냈다.
+  - 💡 with fortitude — 거의 고정된 짝. bear/endure와 붙어 다닌다
+- It took considerable fortitude to keep going.
+  - 계속 나아가는 데에는 상당한 인내가 필요했다.
+- He showed remarkable fortitude in the face of loss.
+  - 그는 상실 앞에서 놀라운 꿋꿋함을 보였다.
+  - 💡 in the face of ~ = ~에 맞서서
+
+**연어**: with fortitude, show fortitude, moral fortitude, intestinal fortitude
+
+**유의어**: resilience, grit, endurance, stoicism
+
+**구분**:
+- 라틴어 fortis(강한)에서 왔다. fort(요새), force, comfort가 한 뿌리
+- courage — 위험 앞에서 한 번 내는 용기. fortitude는 고통을 오래 버티는 인내라 시간 축이 다르다
+- [[mettle-n]] — 시험대에서 드러나는 기질. [[endure-v]]와 함께 묶어 외우면 좋다
+- intestinal fortitude — '배짱'을 뜻하는 미국식 농담 표현이다
+
+---
+
 ### frustration
 
 *명사* · B2 · /frʌˈstreɪʃn/
@@ -2968,6 +3116,36 @@
 **구분**:
 - carry away(실어 가다)의 수동형 — 감정이 나를 '데려가 버린' 이미지
 - get out of hand — 상황이 통제를 벗어남(상황 주어). get carried away는 사람이 도를 넘음
+
+---
+
+### get rid of
+
+*구문* · B1 · /ɡet ˈrɪd əv/
+
+**없애다, 처분하다, 떨쳐내다; (사람을) 쫓아내다**
+
+> to remove or throw away something unwanted
+
+- We need to get rid of these old files.
+  - 이 낡은 파일들을 없애야 한다.
+  - 💡 물건을 버린다는 가장 기본 용법
+- I can't get rid of this cough.
+  - 이 기침이 도무지 떨어지지 않는다.
+  - 💡 증상·습관처럼 달라붙은 상태에도 쓴다
+- They got rid of him after the scandal.
+  - 그들은 그 스캔들 이후 그를 내보냈다.
+  - 💡 사람이 목적어면 '해고하다·쫓아내다'가 되어 꽤 냉정하게 들린다
+
+**연어**: get rid of the clutter, get rid of a habit, hard to get rid of
+
+**유의어**: dispose of, throw away, eliminate, do away with
+
+**구분**:
+- rid는 불규칙이지만 형태가 변하지 않는다 — rid / rid / rid
+- be rid of — 이미 벗어난 '상태'를 말한다(I'm finally rid of it). get rid of는 벗어나는 '행위'
+- dispose of — 격식체·문서용. get rid of는 일상 회화
+- 사람에게 쓰면 무례하게 들릴 수 있으니 업무 문서에서는 let go나 replace를 쓴다
 
 ---
 
@@ -4389,6 +4567,33 @@
 
 ---
 
+### no one in particular
+
+*구문* · B2 · /nəʊ wʌn ɪn pəˈtɪkjələ/
+
+**딱히 누구랄 것 없이, 특정한 누구도 아닌**
+
+> not any specific person
+
+- He said it to no one in particular.
+  - 그는 딱히 누구에게랄 것 없이 그 말을 했다.
+  - 💡 허공에 혼잣말하듯 던지는 장면에서 자주 나온다
+- She was staring at no one in particular.
+  - 그는 딱히 누구를 보는 것도 아닌 채 멍하니 있었다.
+- "Anyone hungry?" he asked no one in particular.
+  - "배고픈 사람?" 그는 누구에게랄 것 없이 물었다.
+
+**연어**: to no one in particular, nothing in particular, no reason in particular
+
+**유의어**: to nobody specifically, into the air
+
+**구분**:
+- in particular = 특별히, 특정하여. 앞에 붙는 말만 바꾸면 그대로 응용된다 — nothing in particular(딱히 별거 아닌), no reason in particular(특별한 이유 없이)
+- particularly(특히)는 부사라 자리가 다르다. in particular는 명사 뒤에 붙는다
+- anyone in particular? = 딱히 정해둔 사람 있어? 로 의문문에도 쓴다
+
+---
+
 ### notion
 
 *명사* · B2 · formal · /ˈnoʊʃn/
@@ -4700,6 +4905,36 @@
 - offense/offence(명사) = 위반, 또는 기분 상함 — take offense at ~(~에 기분이 상하다)
 - defensive — 반대말. on the defensive = 수세에 몰린
 - [[obscene-adj]]보다 넓은 개념 — 성적 함의 없이도 offensive할 수 있다
+
+---
+
+### on the edge of one's seat
+
+*관용구* · B2 · /ɒn ði edʒ əv wʌnz siːt/
+
+**손에 땀을 쥐고, 몰입해서 조마조마한**
+
+> very excited and eager to know what happens next
+
+- The ending had us on the edge of our seats.
+  - 결말은 우리를 손에 땀 쥐게 했다.
+  - 💡 have someone on the edge of their seat — 영화·책 평의 상투구
+- We sat on the edge of our seats for the last ten minutes.
+  - 마지막 10분 동안 우리는 손에 땀을 쥐고 앉아 있었다.
+  - 💡 주어에 맞춰 our/his/their로 바꾼다
+- It's a thriller that keeps you on the edge of your seat.
+  - 보는 내내 조마조마하게 만드는 스릴러다.
+  - 💡 keep someone on the edge of their seat도 같은 틀
+
+**연어**: have someone on the edge of their seat, keep you on the edge of your seat, sit on the edge of one's seat
+
+**유의어**: gripping, spellbound, riveted
+
+**구분**:
+- 의자 끝에 걸터앉아 몸을 앞으로 내민 자세에서 나온 그림이다
+- 긴장되면서도 재미있다는 긍정적인 말이다. 불안·공포만 있을 때는 쓰지 않는다
+- on edge(신경이 곤두선)와 전혀 다르다 — 이쪽은 예민하고 짜증난 상태다. the가 있고 없고로 갈린다
+- 소유격은 주어에 맞춘다 — our seats처럼 복수면 seat도 복수로 쓰는 것이 자연스럽다
 
 ---
 
@@ -5763,6 +5998,63 @@
 - [[advance-v]]의 반대말. 기사에서 두 단어가 한 문단에 같이 나오는 일이 많다
 - back down — 논쟁에서 물러서다(구어체). retreat는 군사·비유 양쪽 다 되고 더 격식 있다
 - 명사 retreat는 '후퇴'와 '수련회/휴양지' 두 뜻. 문맥으로만 구분된다
+
+---
+
+### revealing
+
+*형용사* · C1 · /rɪˈviːlɪŋ/
+
+**많은 것을 드러내는, 시사하는 바가 큰; (옷이) 노출이 심한**
+
+> showing something that was hidden, especially something significant
+
+- The interview was revealing in its candor.
+  - 그 인터뷰는 솔직함이라는 점에서 드러내는 바가 많았다.
+  - 💡 revealing in + 명사 = ~한 면에서 시사적이다
+- His silence was more revealing than any answer.
+  - 그의 침묵은 어떤 대답보다도 많은 것을 말해주었다.
+- It is revealing that no one objected.
+  - 아무도 반대하지 않았다는 점이 시사적이다.
+  - 💡 It is revealing that + 절 — 논평에서 쓰기 좋은 틀
+
+**연어**: deeply revealing, revealing in, it is revealing that, a revealing comment
+
+**유의어**: telling, illuminating, instructive
+
+**구분**:
+- revel in(만끽하다)과 철자가 비슷해 자주 헷갈린다. 뜻은 전혀 다르니 [[revel-in-phrasal_verb]]와 나란히 확인할 것
+- telling — 거의 같은 뜻이고 더 짧아 쓰기 편하다(a telling detail)
+- 옷에 쓰면 '노출이 심한'이 된다(a revealing dress). 사람 옷차림에 쓸 때는 조심할 것
+- 동사 reveal(드러내다) / 명사 revelation(폭로, 깨달음)
+
+---
+
+### revel in
+
+*구동사* · C1 · /ˈrevl ɪn/
+
+**~을 만끽하다, 한껏 즐기다, 신나게 누리다**
+
+> to enjoy something very much, often openly
+
+- He reveled in the attention.
+  - 그는 그 관심을 한껏 즐겼다.
+  - 💡 남들이 보기에 지나칠 만큼 즐긴다는 뉘앙스가 섞이기도 한다
+- She revels in a good argument.
+  - 그는 제대로 된 논쟁을 아주 즐긴다.
+- They reveled in their unexpected freedom.
+  - 그들은 뜻밖에 얻은 자유를 만끽했다.
+
+**연어**: revel in attention, revel in the moment, revel in someone's misfortune
+
+**유의어**: bask in, relish, delight in, savor
+
+**구분**:
+- [[revealing-adj]]와 철자가 비슷하지만 남남이다. revel은 '흥청거리다', reveal은 '드러내다'
+- bask in — 햇볕을 쬐듯 여유롭게 누리다. revel in은 더 들뜨고 적극적이다
+- 영국식 철자는 revelling/revelled로 l을 겹친다. 미국식은 reveling/reveled
+- 명사 revelry = 흥청망청한 잔치
 
 ---
 
@@ -7668,6 +7960,36 @@
 
 **구분**:
 - slump — 부진·침체 전반(실적·기분에도 씀). writer's block은 글쓰기에 한정
+
+---
+
+### yearn for
+
+*구동사* · C1 · formal · /jɜːn fɔː/
+
+**간절히 그리워하다, 애타게 동경하다**
+
+> to want something very much, especially something you cannot have
+
+- She yearned for the life she had left behind.
+  - 그는 두고 온 삶을 간절히 그리워했다.
+  - 💡 닿을 수 없는 것에 대한 애틋함이 핵심이다
+- He yearned to be taken seriously.
+  - 그는 진지하게 받아들여지기를 간절히 바랐다.
+  - 💡 yearn to + 동사원형도 가능하다
+- There was a yearning in her voice.
+  - 그의 목소리에는 그리움이 배어 있었다.
+  - 💡 명사 yearning
+
+**연어**: yearn for home, a yearning for, yearn to do
+
+**유의어**: long for, pine for, ache for, hanker after
+
+**구분**:
+- [[crave-v]] — 몸이 당기는 구체적 욕구. yearn은 마음 깊은 곳의 그리움이라 더 서정적이고 문어적이다
+- [[ache-for-phr]] — 이미 등록된 표현으로 뜻이 거의 같다. ache 쪽이 몸으로 느끼는 아픔에 가깝다
+- long for — 가장 중립적이고 쓰기 쉽다. yearn은 문학적인 자리에 어울린다
+- 발음 주의 — /jɜːn/으로 '연'에 가깝다. year(/jɪə/)와 다르다
 
 ---
 
