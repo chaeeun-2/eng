@@ -1,4 +1,4 @@
-# 단어장 (총 238개)
+# 단어장 (총 278개)
 
 `data/vocab.jsonl`에서 자동 생성. 직접 수정 금지.
 
@@ -121,6 +121,35 @@
 - long for / yearn for — 거의 같은 뜻. ache for는 신체적 통증의 비유라 더 절실하다
 - ache는 둔통(a dull ache), pain은 통증 전반, sore는 만지면 아픈 상태
 - headache, stomachache처럼 합성어로도 쓴다
+
+---
+
+### acknowledge
+
+*동사* · B2 · formal · /əkˈnɒlɪdʒ/
+
+**인정하다; (받았음을) 알리다; 아는 척하다**
+
+> to admit that something is true; to confirm receipt; to show you have noticed someone
+
+- He acknowledged that he had been wrong.
+  - 그는 자기가 틀렸다는 것을 인정했다.
+  - 💡 acknowledge that + 절 — 가장 흔한 형태
+- Please acknowledge receipt of this email.
+  - 이 메일을 받으셨으면 회신 부탁드립니다.
+  - 💡 업무 메일의 굳은 표현. acknowledge receipt = 수신 확인
+- She walked past without acknowledging me.
+  - 그는 나를 아는 척도 하지 않고 지나쳤다.
+  - 💡 사람을 목적어로 두면 '알아보고 인사하다'
+
+**연어**: acknowledge that, acknowledge receipt, widely acknowledged, acknowledge a mistake
+
+**유의어**: admit, concede, recognize
+
+**구분**:
+- admit — 잘못·죄를 마지못해 인정. acknowledge는 중립적이고 사실을 담담히 받아들이는 쪽이라 더 점잖다
+- recognize — 알아보다/공식 인정하다. acknowledge는 '있다는 걸 인정한다'는 태도에 무게가 있다
+- 명사는 acknowledgement(인정, 감사의 글). 책 앞의 감사의 말도 Acknowledgements다
 
 ---
 
@@ -623,6 +652,36 @@
 
 ---
 
+### assume
+
+*동사* · B2 · /əˈsjuːm/
+
+**추정하다, 당연하게 여기다; (역할·책임을) 맡다; (태도를) 취하다**
+
+> to think something is true without proof; to take on a role or responsibility
+
+- I assumed he was still asleep.
+  - 나는 그가 아직 자고 있으려니 생각했다.
+  - 💡 assume (that) + 절 — 근거 없이 그러려니 하는 것
+- She assumed responsibility for the whole project.
+  - 그는 프로젝트 전체의 책임을 맡았다.
+  - 💡 둘째 뜻 — assume responsibility/control/office
+- Let's assume for a moment that he was right.
+  - 잠시 그가 옳았다고 가정해봅시다.
+  - 💡 논의를 위한 가정. 회의에서 유용하다
+
+**연어**: assume that, assume responsibility, assume control, assume office, assuming that
+
+**유의어**: presume, suppose, take on, undertake
+
+**구분**:
+- presume — 근거가 조금은 있는 추정. assume은 근거 없이 그냥 그러려니 하는 쪽이라 더 위험하다
+- 명사가 둘로 갈린다 — assumption(가정)과 assumption of office(취임). 뜻에 따라 쓰임이 다르다
+- 형용사 assuming은 '건방진'이라는 뜻이 따로 있다. 접속사 assuming (that)은 '~라고 치면'
+- [[acknowledge-v]]와 대비 — acknowledge는 사실을 확인해 인정하는 것, assume은 확인 없이 넘겨짚는 것
+
+---
+
 ### assumption
 
 *명사* · B2 · formal · /əˈsʌmpʃn/
@@ -784,6 +843,35 @@
 **구분**:
 - evasion — 의무·법을 교묘히 빠져나감(부정적·불법 뉘앙스). avoidance는 중립적
 - aversion — 싫어하는 '감정' 자체. avoidance는 피하는 '행동'
+
+---
+
+### barely
+
+*부사* · B2 · /ˈbeəli/
+
+**간신히, 가까스로; 거의 ~않다**
+
+> only just; almost not
+
+- By this point he could barely walk.
+  - 이 무렵 그는 거의 걷지 못했다.
+  - 💡 부정어가 이미 들어 있으니 not을 또 붙이지 않는다
+- She barely spoke during the meal.
+  - 그는 식사 내내 거의 말이 없었다.
+- Barely had he sat down when the phone rang.
+  - 그가 앉자마자 전화가 울렸다.
+  - 💡 문두에 놓으면 도치된다 — barely + 조동사 + 주어
+
+**연어**: barely enough, barely visible, can barely, barely audible
+
+**유의어**: hardly, scarcely, only just
+
+**구분**:
+- 이미 부정의 뜻이라 not과 함께 쓰면 이중부정이 된다 — He can't barely walk ✗
+- hardly/scarcely와 뜻이 거의 같다. barely가 '가까스로 해냈다'는 긍정 쪽으로도 기울 수 있는 반면 hardly는 부정 쪽이 강하다
+- [[scant-adj]]와 같은 자리 — scant attention을 부사로 옮기면 barely/scarcely가 된다
+- 문두에 오면 도치가 필수다
 
 ---
 
@@ -1086,6 +1174,33 @@
 
 ---
 
+### beg to be done
+
+*구문* · C1 · /beɡ tə bi ˈdʌn/
+
+**(사물이) ~해달라고 조르는 듯하다, 꼭 ~해야 할 것 같다**
+
+> used of a thing that seems to invite or demand a particular treatment
+
+- The book begs to be read aloud.
+  - 그 책은 소리 내어 읽어달라고 조르는 것 같다.
+  - 💡 무생물 주어 + beg to be + 과거분사. 서평에서 흔한 칭찬
+- That last sentence begs to be quoted.
+  - 그 마지막 문장은 인용해달라고 조르는 것 같다.
+- The empty wall begs to be painted.
+  - 그 빈 벽은 칠해달라고 하는 것 같다.
+
+**연어**: begs to be read, begs to be quoted, begs to be told
+
+**유의어**: cry out to be, invite, demand
+
+**구분**:
+- beg the question — 완전히 다른 관용구. 원뜻은 '논점을 회피하다'이고 요즘은 '~라는 의문을 부른다'로도 쓴다
+- 사람이 주어면 그냥 '애원하다'가 된다(He begged to be let in). 이 표현은 무생물 주어일 때의 비유
+- cry out to be + p.p. — 거의 같은 뜻이고 더 절박한 느낌
+
+---
+
 ### beget
 
 *동사* · C2 · formal · /bɪˈɡet/
@@ -1361,6 +1476,35 @@
 
 ---
 
+### by this point
+
+*구문* · B2 · /baɪ ðɪs ˈpɔɪnt/
+
+**이 무렵에는, 이 시점에 이르러서는**
+
+> by the time this stage was reached
+
+- By this point he could barely walk.
+  - 이 무렵 그는 거의 걷지 못했다.
+  - 💡 이야기가 진행된 결과 어떤 상태가 됐음을 알린다
+- By this point in the negotiation, both sides were exhausted.
+  - 협상이 이 시점에 이르렀을 때 양측 모두 지쳐 있었다.
+  - 💡 by this point in + 명사로 범위를 좁힐 수 있다
+- By that point it was too late to turn back.
+  - 그 시점에는 이미 돌이키기에 너무 늦어 있었다.
+  - 💡 지난 일을 서술할 때는 by that point
+
+**연어**: by this point, by that point, at this point, up to this point
+
+**유의어**: by now, by then, at this stage
+
+**구분**:
+- at this point — '지금 이 순간'에 가깝고, by this point는 '여기까지 오는 동안 쌓인 결과'를 가리킨다
+- 현재 이야기는 by this point, 과거 서술은 by that point로 갈린다
+- by now(지금쯤이면) / by then(그때쯤이면)과 같은 계열
+
+---
+
 ### can't afford
 
 *구문* · B1 · /kænt əˈfɔːrd/
@@ -1441,6 +1585,63 @@
 
 ---
 
+### clarity
+
+*명사* · B2 · /ˈklærəti/
+
+**명료함, 선명함; (생각의) 또렷함**
+
+> the quality of being easy to understand, see, or hear
+
+- He spoke with surprising clarity about his own death.
+  - 그는 자신의 죽음에 대해 놀랄 만큼 또렷하게 말했다.
+  - 💡 with clarity — 부사구로 자주 쓴다
+- The report lacks clarity.
+  - 그 보고서는 명료하지 않다.
+  - 💡 lack clarity — 완곡한 비판으로 회의에서 쓰기 좋다
+- For clarity, let me restate the question.
+  - 명확히 하기 위해 질문을 다시 말하겠습니다.
+  - 💡 for clarity — 발표·문서에서 굳은 표현
+
+**연어**: with clarity, lack clarity, for clarity, clarity of thought
+
+**유의어**: lucidity, transparency, precision
+
+**구분**:
+- 동사는 clarify(명확히 하다). 형용사는 clear
+- transparency — 숨기지 않는다는 '투명성'(윤리적). clarity는 알아듣기 쉽다는 '명료성'
+- clearness는 문법적으로 맞지만 거의 쓰지 않는다. 추상적 뜻에는 clarity를 쓴다
+
+---
+
+### commandeer
+
+*동사* · C1 · formal · /ˌkɒmənˈdɪə/
+
+**(강제로) 징발하다, 마음대로 차지하다**
+
+> to take something for military or official use; to take control of something without permission
+
+- The army commandeered every truck in the village.
+  - 군대는 마을의 모든 트럭을 징발했다.
+  - 💡 원래 뜻 — 군이 공적 권한으로 가져간다
+- He commandeered the biggest table in the cafe.
+  - 그는 카페에서 제일 큰 테이블을 차지해버렸다.
+  - 💡 일상에서는 이렇게 농담조로 '점령하다'로 쓴다
+- Their meeting was commandeered by one loud voice.
+  - 그들의 회의는 목소리 큰 한 사람에게 점령당했다.
+
+**연어**: commandeer a vehicle, commandeer a room
+
+**유의어**: requisition, seize, appropriate, take over
+
+**구분**:
+- command(명령하다)와 뿌리는 같지만 뜻이 다르다 — commandeer는 '명령으로 빼앗아 쓰다'
+- requisition — 절차를 밟은 공식 징발(서류가 있다). commandeer는 그 자리에서 가져가는 쪽
+- 일상 대화에서 쓰면 대개 과장된 농담이다. 진지하게 쓰면 강탈에 가깝게 들린다
+
+---
+
 ### compassionate
 
 *형용사* · B2 · /kəmˈpæʃənət/
@@ -1517,6 +1718,34 @@
 **구분**:
 - 동사는 con-DUCT(뒤 강세), 명사는 CON-duct(앞 강세)
 - carry out — 같은 뜻의 더 일상적인 표현. conduct는 보고서·공문에 어울린다
+
+---
+
+### conductor
+
+*명사* · B2 · /kənˈdʌktə/
+
+**지휘자; (기차·버스의) 차장; (전기·열의) 전도체**
+
+> a person who directs an orchestra; a person who collects fares on a train; a material that carries electricity
+
+- The conductor raised his baton and the hall went silent.
+  - 지휘자가 지휘봉을 들자 홀이 조용해졌다.
+- The conductor came through checking tickets.
+  - 차장이 표를 확인하며 지나갔다.
+  - 💡 영국은 기차 승무원, 미국은 주로 열차 차장
+- Copper is an excellent conductor of heat.
+  - 구리는 열을 아주 잘 전달하는 물질이다.
+  - 💡 과학 용법 — a conductor of heat/electricity
+
+**연어**: orchestra conductor, a good conductor of heat, bus conductor
+
+**유의어**: maestro, ticket inspector
+
+**구분**:
+- 동사 conduct(수행하다·지휘하다)에서 왔다. 셋 다 '이끌고 간다'는 뿌리를 공유한다
+- 명사 conduct(행실)와 동사 conduct(수행하다)는 강세가 다르다 — CON-duct / con-DUCT
+- director는 조직의 책임자. 오케스트라를 이끄는 사람은 conductor다
 
 ---
 
@@ -1714,6 +1943,36 @@
 - 문맥으로 갈린다 — 왕/황제가 나오면 궁정, 사건/판사가 나오면 법정, 경기면 코트
 - courtesy(예의) · courtier(신하) 모두 court에서 나온 말
 - court disaster — 화를 자초하다. 동사의 관용 용법
+
+---
+
+### crooked
+
+*형용사* · B2 · /ˈkrʊkɪd/
+
+**삐뚤어진, 비뚤비뚤한, 굽은; 부정직한**
+
+> bent or twisted out of shape; dishonest
+
+- Although his teeth are crooked and his lower ones are slanted back-as if someone had once punched them in-when he smiles it's as if you'd just told him the first joke on earth.
+  - 비록 그의 이는 삐뚤삐뚤하고 아랫니는 마치 누군가 한 대 쳐서 밀어 넣기라도 한 것처럼 안쪽으로 기울어져 있지만, 그가 웃을 때면 마치 당신이 그에게 세상 최초의 농담을 방금 들려준 것 같은 표정이 된다.
+  - 💡 as if + 과거완료(had punched) = 실제로는 없었던 일을 가정. 뒤의 as if you'd just told도 같은 구조
+- The picture on the wall is crooked.
+  - 벽에 걸린 그림이 비뚤어져 있다.
+  - 💡 가장 흔한 일상 용법 — 똑바르지 않다
+- They accused the mayor of crooked dealings.
+  - 그들은 시장이 부정한 거래를 했다고 비난했다.
+  - 💡 둘째 뜻 — 부정직한. crooked politician이 대표적인 짝
+
+**연어**: crooked teeth, a crooked smile, hang crooked, a crooked politician
+
+**유의어**: bent, askew, lopsided, dishonest
+
+**구분**:
+- 발음 주의 — 형용사는 2음절 /ˈkrʊkɪd/(크루키드). 동사 crook의 과거형 crooked는 1음절 /krʊkt/
+- slanted — 한쪽으로 기울어진(방향성). crooked는 그냥 똑바르지 않다는 쪽
+- a crooked smile은 부정직한 웃음이 아니라 '한쪽만 올라간 웃음'이라 오히려 매력적이라는 뉘앙스
+- straight의 반대말이 crooked — 정직/부정직의 대비에서도 같은 짝이 된다
 
 ---
 
@@ -2930,6 +3189,34 @@
 
 ---
 
+### hesitation
+
+*명사* · B2 · /ˌhezɪˈteɪʃn/
+
+**망설임, 주저**
+
+> the act of pausing before doing or saying something
+
+- He answered without hesitation.
+  - 그는 망설임 없이 대답했다.
+  - 💡 without hesitation — 가장 흔한 형태
+- There was a slight hesitation in her voice.
+  - 그의 목소리에 약간의 망설임이 있었다.
+- I have no hesitation in recommending her.
+  - 주저 없이 그를 추천합니다.
+  - 💡 추천서의 굳은 표현 — have no hesitation in + -ing
+
+**연어**: without hesitation, a moment's hesitation, have no hesitation in
+
+**유의어**: reluctance, pause, wavering
+
+**구분**:
+- 동사는 hesitate. hesitate to do = ~하기를 망설이다
+- Don't hesitate to ask — '언제든 물어보세요'라는 정중한 상투구
+- reluctance — 하기 싫은 마음(내키지 않음). hesitation은 결정을 못 내리고 멈칫하는 순간
+
+---
+
 ### hew to
 
 *구문* · C2 · formal · /hjuː tuː/
@@ -2953,6 +3240,62 @@
 - 원뜻은 도끼로 찍어 다듬다 — 선을 따라 정확히 자른다는 이미지에서 왔다
 - 활용은 hew - hewed - hewn/hewed
 - [[toe-the-line-idiom]]과 섞어 hew the line이라고 쓰지 않는다. hew는 to가 필요하다
+
+---
+
+### hobble
+
+*동사* · C1 · /ˈhɒbl/
+
+**절뚝거리며 걷다; (활동을) 방해하다**
+
+> to walk with difficulty, especially because of pain; to hold something back
+
+- He hobbled to the door with his new cane.
+  - 그는 새로 산 지팡이를 짚고 절뚝이며 문으로 갔다.
+  - 💡 hobble to/across/down — 이동 방향과 함께 쓴다
+- She hobbled around for weeks after the surgery.
+  - 그는 수술 후 몇 주 동안 절뚝이며 지냈다.
+- Sanctions hobbled the country's economy.
+  - 제재가 그 나라 경제의 발을 묶었다.
+  - 💡 비유 용법 — 제 기능을 못 하게 만들다
+
+**연어**: hobble to, hobble around, hobble along
+
+**유의어**: limp, shuffle, hamper, cripple
+
+**구분**:
+- limp — 한쪽 다리를 절다. hobble은 양쪽이 다 불편해 발을 짧게 떼며 뒤뚱거리는 그림이라 더 힘겹다
+- 원래 말의 다리를 묶어두는 hobble(족쇄)에서 왔다. 그래서 '발을 묶다'라는 비유가 자연스럽다
+- shuffle — 발을 바닥에 끌며 걷다. 통증보다는 기력 없음이나 슬리퍼 때문일 수 있다
+
+---
+
+### humid
+
+*형용사* · B1 · /ˈhjuːmɪd/
+
+**습한, 눅눅한, 후텁지근한**
+
+> having a lot of water vapor in the air, usually making it feel hot and uncomfortable
+
+- It was a humid afternoon in late August.
+  - 8월 말의 후텁지근한 오후였다.
+- The air was so humid that the windows fogged up.
+  - 공기가 어찌나 습한지 창문에 김이 서렸다.
+- Seoul summers are hot and humid.
+  - 서울의 여름은 덥고 습하다.
+  - 💡 hot and humid — 거의 한 덩어리로 붙어 다닌다
+
+**연어**: hot and humid, humid air, humid climate
+
+**유의어**: muggy, sticky, clammy
+
+**구분**:
+- 명사는 humidity(습도). 일기예보에서 매일 나온다
+- muggy — 더 구어적이고 불쾌감이 강하다. humid는 중립적 기술
+- damp — 물기가 밴 표면·공간(a damp towel). humid는 공기에만 쓴다
+- humidifier(가습기)와 dehumidifier(제습기)를 함께 외워두면 좋다
 
 ---
 
@@ -3095,6 +3438,35 @@
 
 ---
 
+### in lieu of
+
+*구문* · C1 · formal · /ɪn ˈluː əv/
+
+**~ 대신에, ~를 갈음하여**
+
+> instead of; in place of
+
+- A funeral was held in lieu of graduation.
+  - 졸업식 대신 장례식이 열렸다.
+  - 💡 held in lieu of ~ = ~ 대신 거행된
+- She was given two weeks' pay in lieu of notice.
+  - 그는 해고 예고 대신 2주치 급여를 받았다.
+  - 💡 pay in lieu of notice — 노무·계약 문서의 굳은 표현
+- They asked for donations in lieu of flowers.
+  - 그들은 조화 대신 기부를 청했다.
+  - 💡 부고에서 관용적으로 쓰는 문장
+
+**연어**: in lieu of notice, in lieu of flowers, held in lieu of, time off in lieu
+
+**유의어**: instead of, in place of, as a substitute for
+
+**구분**:
+- lieu는 단독으로 쓰지 않는다 — 사실상 in lieu of 형태로만 산다. 프랑스어 lieu(장소)에서 왔다
+- instead of — 일상적. in lieu of는 법률·계약·부고 같은 격식 있는 자리에 쓴다
+- in view of(~을 고려하여)와 철자가 비슷해 헷갈리기 쉽다. 뜻은 전혀 다르다
+
+---
+
 ### in spite of that
 
 *구문* · B1 · /ɪn spaɪt əv ðæt/
@@ -3207,6 +3579,34 @@
 
 ---
 
+### inexplicably
+
+*부사* · C1 · formal · /ˌɪnɪkˈsplɪkəbli/
+
+**설명할 수 없게, 영문도 모르게, 까닭 없이**
+
+> in a way that cannot be explained or understood
+
+- He inexplicably began to laugh.
+  - 그는 영문 모르게 웃기 시작했다.
+  - 💡 동사 앞에 놓아 '왜 그랬는지 모르겠다'를 얹는다
+- The file had inexplicably disappeared.
+  - 그 파일은 영문 모르게 사라져 있었다.
+- Inexplicably, no one had thought to ask her.
+  - 이상하게도 아무도 그에게 물어볼 생각을 하지 않았다.
+  - 💡 문두에 쉼표와 함께 놓으면 문장 전체를 평한다
+
+**연어**: inexplicably absent, inexplicably delayed, quite inexplicably
+
+**유의어**: mysteriously, unaccountably, for no apparent reason
+
+**구분**:
+- in-(부정) + explicable(설명 가능한). 형용사 inexplicable도 같이 외워두면 좋다
+- 발음 강세가 어렵다 — /ˌɪnɪkˈsplɪkəbli/로 splic에 힘을 준다
+- unexplained — 아직 설명되지 않은(나중에 밝혀질 수도). inexplicable은 설명 자체가 불가능하다는 쪽
+
+---
+
 ### inflict on
 
 *구문* · C1 · formal · /ɪnˈflɪkt ɑːn/
@@ -3233,6 +3633,35 @@
 - impose A on B — 규칙·세금을 부과하다. inflict는 고통·피해에 쓴다
 - afflict — 병·고통이 사람을 괴롭히다. 보통 수동 (be afflicted with)
 - 목적어에 긍정적인 것을 두지 않는다는 점이 핵심
+
+---
+
+### inject
+
+*동사* · B2 · /ɪnˈdʒekt/
+
+**주사하다, 주입하다; (활력·자금을) 불어넣다**
+
+> to put a liquid into the body with a needle; to add something new to a situation
+
+- The nurse injected the drug into his arm.
+  - 간호사가 그의 팔에 약을 주사했다.
+  - 💡 inject A into B — 기본 틀
+- He was injected with a sedative.
+  - 그는 진정제를 맞았다.
+  - 💡 사람이 주어면 be injected with + 약물
+- She injected some humor into a grim conversation.
+  - 그는 침울한 대화에 유머를 불어넣었다.
+  - 💡 비유 용법 — 분위기·자금에도 쓴다
+
+**연어**: inject into, be injected with, inject capital, inject humor
+
+**유의어**: administer, instill, infuse
+
+**구분**:
+- 명사는 injection. get an injection = 주사를 맞다
+- 방향에 주의 — 약을 넣는 곳이 into, 사람이 주어일 땐 with를 쓴다
+- inject와 infuse — infuse는 천천히 스며들게 하는 쪽(수액·차). inject는 한 번에 찔러 넣는다
 
 ---
 
@@ -3345,6 +3774,34 @@
 
 ---
 
+### intestine
+
+*명사* · B2 · /ɪnˈtestɪn/
+
+**장, 창자**
+
+> the long tube in the body through which food passes after the stomach
+
+- The scan showed a blockage in his small intestine.
+  - 검사에서 그의 소장에 막힌 곳이 보였다.
+  - 💡 small intestine 소장 / large intestine 대장
+- The doctors wanted to look at his intestine.
+  - 의사들은 그의 장을 살펴보고 싶어 했다.
+- Bacteria in the intestines help digest food.
+  - 장내 세균은 음식을 소화하는 데 도움을 준다.
+  - 💡 장 전체를 뭉뚱그릴 때는 복수 intestines
+
+**연어**: small intestine, large intestine, intestinal problems
+
+**유의어**: bowel, gut
+
+**구분**:
+- gut — 일상어이자 비유(gut feeling 직감). intestine은 해부학적·중립적
+- bowel — 의료 현장에서 주로 대장을 가리키며 bowel movement(배변)처럼 쓴다
+- 형용사는 intestinal /ɪnˈtestɪnl/
+
+---
+
 ### invincible
 
 *형용사* · C1 · /ɪnˈvɪnsəbl/
@@ -3432,6 +3889,34 @@
 
 ---
 
+### labored
+
+*형용사* · C1 · /ˈleɪbəd/
+
+**(호흡이) 힘겨운, 가쁜; (글·농담이) 억지스러운**
+
+> done with great effort and difficulty; lacking natural ease
+
+- His breathing had become labored.
+  - 그의 호흡은 가빠져 있었다.
+  - 💡 labored breathing — 의학·문학에서 굳어진 짝
+- She climbed the stairs with labored steps.
+  - 그는 힘겨운 발걸음으로 계단을 올랐다.
+- The joke felt labored.
+  - 그 농담은 억지스러웠다.
+  - 💡 둘째 뜻 — 애쓴 티가 나서 자연스럽지 않다
+
+**연어**: labored breathing, labored steps, a labored joke, labored prose
+
+**유의어**: strained, forced, heavy, stilted
+
+**구분**:
+- 영국식 철자는 laboured. 미국식이 labored
+- 동사 labor(애써 일하다)의 과거분사에서 왔다. '애쓴 흔적이 보인다'가 두 뜻을 잇는 공통점
+- 효율적으로 잘 해낸 것은 labored라고 하지 않는다 — 늘 부정적인 평가가 섞인다
+
+---
+
 ### leisure
 
 *명사* · B2 · /ˈliːʒər/
@@ -3515,6 +4000,32 @@
 
 ---
 
+### lindy
+
+*동사* · C2 · informal · /ˈlɪndi/
+
+**린디합을 추다 (1930~40년대 유행한 스윙 춤)**
+
+> to dance the Lindy Hop, a swing dance popular in the 1930s and 40s
+
+- He used to lindy to the big bands every Saturday night.
+  - 그는 토요일 밤마다 빅밴드 음악에 맞춰 린디를 추곤 했다.
+  - 💡 lindy to + 음악·밴드 — 무엇에 맞춰 추는지를 to로 잇는다
+- They lindied until the band packed up.
+  - 그들은 밴드가 짐을 쌀 때까지 린디를 췄다.
+  - 💡 과거형 lindied
+
+**연어**: lindy to the music, the Lindy Hop
+
+**유의어**: jitterbug, swing dance
+
+**구분**:
+- Charles Lindbergh의 애칭 Lindy에서 왔다 — 그의 대서양 횡단 비행(hop)을 딴 이름
+- 지금은 거의 쓰지 않는 옛말이라, 현대 글에서 보이면 1930~40년대를 회상하는 장면이다
+- 명사로는 the Lindy Hop. 동사로 쓰는 용법이 이 표현의 핵심
+
+---
+
 ### lip
 
 *명사* · A2 · /lɪp/
@@ -3566,6 +4077,34 @@
 **구분**:
 - make a living — 생계를 꾸리다(돈벌이). live well은 삶의 질·방식
 - live wellness ✗ — well은 부사. live good ✗ 도 틀림
+
+---
+
+### long before
+
+*구문* · B2 · /lɒŋ bɪˈfɔː/
+
+**훨씬 전에, 한참 전부터**
+
+> a long time before something else happened
+
+- It was coming long before that.
+  - 그것은 그보다 훨씬 전부터 다가오고 있었다.
+  - 💡 long before that — 앞서 말한 시점보다 한참 앞이라는 뜻
+- She knew something was wrong long before the diagnosis.
+  - 그는 진단이 나오기 훨씬 전부터 뭔가 잘못됐다는 걸 알고 있었다.
+  - 💡 long before + 절/명사 둘 다 가능
+- Long before dawn, the house was already awake.
+  - 동트기 한참 전에 이미 집은 깨어 있었다.
+
+**연어**: long before that, long before then, long after
+
+**유의어**: well before, far earlier than
+
+**구분**:
+- long after — 반대말, '훨씬 뒤에'
+- before long — 글자는 비슷한데 뜻이 '머지않아'라 정반대 방향이다. 가장 흔한 함정
+- well before도 같은 뜻이고 조금 더 담담하다
 
 ---
 
@@ -3655,6 +4194,35 @@
 
 ---
 
+### meanwhile
+
+*부사* · B1 · /ˈmiːnwaɪl/
+
+**그동안에, 그러는 사이; 한편**
+
+> at the same time as something else; used to introduce a contrasting fact
+
+- Meanwhile, his body kept failing him.
+  - 그러는 사이 그의 몸은 계속 무너져 갔다.
+  - 💡 문두 + 쉼표가 가장 흔하다
+- I'll call the doctor. Meanwhile, try to keep him warm.
+  - 내가 의사를 부를게. 그동안 그를 따뜻하게 해줘.
+  - 💡 두 일이 동시에 진행됨
+- Sales rose sharply. Meanwhile, costs stayed flat.
+  - 매출은 급등했다. 한편 비용은 그대로였다.
+  - 💡 대조를 드러내는 '한편' — 보고서에서 유용하다
+
+**연어**: in the meanwhile, meanwhile back at, for the meanwhile
+
+**유의어**: in the meantime, at the same time, whereas
+
+**구분**:
+- meantime과 거의 같다. 다만 in the meantime이 훨씬 흔하고, meanwhile은 부사로 단독으로 쓴다
+- 접속사가 아니라 부사다 — 두 문장을 쉼표로 이으면 틀린다. 마침표나 세미콜론으로 끊어야 한다
+- 대조의 '한편'으로 쓸 때는 while/whereas로 바꿔 쓸 수 있다
+
+---
+
 ### mettle
 
 *명사* · C1 · formal · /ˈmetl/
@@ -3711,6 +4279,34 @@
 
 ---
 
+### multitude
+
+*명사* · C1 · formal · /ˈmʌltɪtjuːd/
+
+**다수, 수많은 것들; 군중**
+
+> a very large number of people or things
+
+- A multitude of small decisions had brought him here.
+  - 수많은 작은 결정들이 그를 여기까지 데려왔다.
+  - 💡 a multitude of + 복수명사 — 가장 흔한 틀
+- The hall was filled with a multitude of voices.
+  - 홀은 수많은 목소리로 가득했다.
+- Good design hides a multitude of compromises.
+  - 좋은 디자인은 수많은 타협을 감춘다.
+  - 💡 cover a multitude of sins(온갖 결점을 덮다)를 비튼 형태
+
+**연어**: a multitude of, cover a multitude of sins, the multitude
+
+**유의어**: a host of, a myriad of, throng
+
+**구분**:
+- a multitude of 뒤에는 복수명사가 온다. 동사는 보통 복수로 받는다
+- cover a multitude of sins — 성경에서 온 관용구로 '온갖 허물을 덮어준다'
+- myriad — 더 문어적이고 a myriad of / myriad 둘 다 쓴다. multitude는 '떼지어 많다'는 그림이 강하다
+
+---
+
 ### must be able to
 
 *구문* · B1 · /mʌst bi ˈeɪbl tuː/
@@ -3733,6 +4329,34 @@
 **구분**:
 - must + 동사원형 — 그 행위를 반드시 해야 한다 (행위 의무)
 - should be able to — ~할 수 있어야 마땅하다 (당위, must보다 약함)
+
+---
+
+### neurological
+
+*형용사* · C1 · formal · /ˌnjʊərəˈlɒdʒɪkl/
+
+**신경학적인, 신경계의**
+
+> relating to the nerves and the nervous system
+
+- The symptoms pointed to a neurological disorder.
+  - 증상들은 신경계 질환을 가리키고 있었다.
+  - 💡 neurological disorder/condition — 굳어진 짝
+- He was referred to a neurologist for further tests.
+  - 그는 추가 검사를 위해 신경과 전문의에게 보내졌다.
+  - 💡 의사는 neurologist, 진료과는 neurology
+- There was no neurological damage.
+  - 신경학적 손상은 없었다.
+
+**연어**: neurological disorder, neurological damage, neurological exam
+
+**유의어**: nerve-related
+
+**구분**:
+- neuro-(신경) + logic + -al. neurologist(신경과 의사), neurology(신경학), neuron(신경세포)이 한 식구
+- psychological(심리적)과 헷갈리기 쉽다 — 신경계 구조의 문제냐, 마음의 문제냐로 갈린다
+- ALS·파킨슨병·다발성경화증이 대표적인 neurological disease다
 
 ---
 
@@ -3791,6 +4415,63 @@
 - idea — 중립적이고 일상적. notion은 근거가 약한 관념이라는 뉘앙스가 붙기 쉽다
 - concept — 체계적으로 정의된 개념. notion은 더 느슨하다
 - dispute/reject/challenge the notion that ~ 형태로 반박문에 자주 등장한다
+
+---
+
+### nourishing
+
+*형용사* · B2 · /ˈnʌrɪʃɪŋ/
+
+**영양이 풍부한, 몸에 좋은; (마음을) 살찌우는**
+
+> providing what is needed for health and growth
+
+- Her prose is as sweet and nourishing as fresh summer corn.
+  - 그의 문장은 갓 딴 여름 옥수수처럼 달콤하고 영양이 풍부하다.
+  - 💡 as A as B 직유. 글을 음식에 빗대는 서평 상투구
+- He made a simple, nourishing soup.
+  - 그는 소박하고 몸에 좋은 수프를 끓였다.
+- Their friendship was nourishing in a way nothing else was.
+  - 그들의 우정은 다른 무엇도 대신할 수 없는 방식으로 마음을 살찌웠다.
+  - 💡 비유 용법 — 정서적으로 채워준다
+
+**연어**: nourishing food, a nourishing meal, deeply nourishing
+
+**유의어**: wholesome, sustaining, nutritious
+
+**구분**:
+- nutritious — 영양소 함량에 초점(과학적). nourishing은 '먹고 나면 든든하다'는 체감에 가깝다
+- 동사 nourish = 기르다·자양분을 주다. 명사 nourishment = 자양분
+- nurturing — 사람을 보살펴 키우는 쪽. nourishing은 먹여 채우는 쪽
+
+---
+
+### now and then
+
+*관용구* · B1 · /naʊ ən ˈðen/
+
+**가끔, 이따금, 때때로**
+
+> occasionally; from time to time
+
+- We still meet now and then.
+  - 우리는 아직도 가끔 만난다.
+  - 💡 빈도부사 자리 또는 문미. 문두도 가능하다
+- Every now and then he would stop and catch his breath.
+  - 이따금 그는 멈춰 서서 숨을 골랐다.
+  - 💡 every now and then이 더 흔하고 강조된 형태
+- Now and then I wonder what became of her.
+  - 가끔 나는 그가 어떻게 됐을까 궁금해진다.
+
+**연어**: every now and then, now and again
+
+**유의어**: occasionally, from time to time, once in a while, sporadically
+
+**구분**:
+- now and again — 영국식에서 더 흔하고 뜻은 같다
+- from time to time — 조금 더 격식체. 문서에 쓰기 좋다
+- once in a while — 빈도가 더 낮은 느낌
+- sometimes보다 '드문드문'의 뉘앙스가 강하다
 
 ---
 
@@ -3934,6 +4615,62 @@
 - on occasion = 이따금 (부사구) / on the occasion of = ~을 맞아 (격식)
 - occasionally와 같은 뿌리. 철자 -cc-, -s- 하나 — occassion ✗
 - 동사 occasion(야기하다)도 있지만 매우 격식체다
+
+---
+
+### occur
+
+*동사* · B2 · formal · /əˈkɜː/
+
+**일어나다, 발생하다; (생각이) 문득 떠오르다**
+
+> to happen; to come into someone's mind
+
+- The change occurred gradually.
+  - 그 변화는 서서히 일어났다.
+  - 💡 주어가 사건이다. 사람을 주어로 쓰지 않는다
+- It never occurred to me that he might be afraid.
+  - 그가 두려워할 수도 있다는 생각은 한 번도 들지 않았다.
+  - 💡 it occurs to someone that ~ — 아주 흔한 틀. 통째로 외워둘 것
+- Symptoms may occur weeks after exposure.
+  - 증상은 노출 몇 주 뒤에 나타날 수 있다.
+
+**연어**: it occurs to me that, occur naturally, frequently occur
+
+**유의어**: happen, take place, arise, come about
+
+**구분**:
+- 철자 주의 — 활용할 때 r을 겹친다: occurred, occurring. 명사는 occurrence(r 두 개, c 두 개)
+- happen — 일상어. occur는 격식체라 보고서·논문에 어울린다. take place는 계획된 행사에 쓴다
+- 수동태로 쓰지 않는다 — was occurred ✗
+- It occurred to me that ~ 를 I occurred ~ 로 쓰면 완전히 틀린다
+
+---
+
+### of sorts
+
+*관용구* · C1 · /əv ˈsɔːts/
+
+**일종의 ~, ~ 비슷한 것 (변변치 않다는 뉘앙스)**
+
+> of a kind, but not a very good example of it
+
+- He gave a speech of sorts.
+  - 그는 연설 비슷한 걸 했다.
+  - 💡 명사 뒤에 붙는다. '제대로 된 연설은 아니었다'는 평가가 깔린다
+- They reached a truce of sorts.
+  - 그들은 휴전 비슷한 상태에 이르렀다.
+- There was a garden of sorts behind the house.
+  - 집 뒤에는 정원이라 하기엔 뭣한 공간이 있었다.
+
+**연어**: a ... of sorts, of a sort
+
+**유의어**: of a kind, so to speak, after a fashion
+
+**구분**:
+- 칭찬이 아니다 — '그런 셈 치자'는 낮춤이 핵심이다. 모르고 쓰면 실례가 될 수 있다
+- of a sort도 같은 뜻이고 of sorts가 더 흔하다
+- sort of는 전혀 다르다 — 형용사·동사 앞에 붙어 '좀, 약간'을 뜻한다(I'm sort of tired)
 
 ---
 
@@ -4465,6 +5202,34 @@
 
 ---
 
+### prominent
+
+*형용사* · B2 · formal · /ˈprɒmɪnənt/
+
+**눈에 띄는, 두드러진; 저명한, 중요한**
+
+> easily seen or noticed; important and well known
+
+- He had a prominent nose and a crooked smile.
+  - 그는 오뚝한 코와 한쪽으로 올라간 미소를 가졌다.
+  - 💡 신체를 말할 때는 '튀어나온·도드라진'
+- She became a prominent figure in the movement.
+  - 그는 그 운동에서 저명한 인물이 되었다.
+  - 💡 a prominent figure — 굳어진 짝
+- The warning should be displayed in a prominent position.
+  - 경고문은 눈에 잘 띄는 자리에 붙여야 한다.
+
+**연어**: a prominent figure, play a prominent role, prominent position, prominently displayed
+
+**유의어**: notable, conspicuous, eminent, leading
+
+**구분**:
+- 두 뜻이 꽤 다르다 — 물리적으로 '튀어나온'과 사회적으로 '저명한'. 문맥으로만 갈린다
+- conspicuous — 눈에 띄긴 하는데 부정적일 수 있다(conspicuous consumption 과시적 소비). prominent는 중립·긍정
+- 명사는 prominence. rise to prominence = 명성을 얻다
+
+---
+
 ### promptness
 
 *명사* · C1 · formal · /ˈprɑːmptnəs/
@@ -4548,6 +5313,34 @@
 
 ---
 
+### purchase
+
+*동사* · B2 · formal · /ˈpɜːtʃəs/
+
+**구입하다, 매입하다 (buy의 격식체)**
+
+> to buy something, especially in a formal or business context
+
+- He purchased a cane.
+  - 그는 지팡이를 샀다.
+  - 💡 cane = 지팡이. 일상 대화라면 bought가 더 자연스럽다
+- Tickets may be purchased online.
+  - 표는 온라인으로 구입할 수 있다.
+  - 💡 수동태가 안내문에서 흔하다
+- The company purchased the building in 2019.
+  - 그 회사는 2019년에 그 건물을 매입했다.
+
+**연어**: purchase a ticket, purchase price, proof of purchase, make a purchase
+
+**유의어**: buy, acquire, procure
+
+**구분**:
+- buy — 일상어. purchase는 계약서·안내문·기업 활동 쪽이다. 친구에게 I purchased a coffee라고 하면 어색하다
+- 명사 purchase는 '구매' 외에 '붙잡을 자리, 발 디딜 곳'이라는 뜻도 있다(get a purchase on the rock)
+- acquire — 기업이 회사를 사들일 때. procure — 조달하다(관공서·군)
+
+---
+
 ### purposeful
 
 *형용사* · C1 · /ˈpɜːrpəsfl/
@@ -4599,6 +5392,32 @@
 **구분**:
 - pursue — 동사형. pursuit은 명사
 - chase — 물리적 추격 중심, pursuit은 추상적 목표 추구까지 포함
+
+---
+
+### put a scope up
+
+*구문* · C1 · informal · /pʊt ə ˈskəʊp ʌp/
+
+**내시경을 (몸속으로) 집어넣다**
+
+> to insert an endoscope into the body, especially through the rectum
+
+- The doctors put a scope up his rear end to look at his intestine.
+  - 의사들은 그의 장을 살펴보려고 항문으로 내시경을 집어넣었다.
+  - 💡 환자·가족이 쓰는 구어. 진료 기록에는 colonoscopy라고 쓴다
+- They put a scope down his throat first.
+  - 그들은 먼저 목으로 내시경을 내려보냈다.
+  - 💡 방향에 따라 up(아래에서 위로) / down(입으로)으로 갈린다
+
+**연어**: put a scope up, run a scope, a scope down the throat
+
+**유의어**: do a colonoscopy, perform an endoscopy
+
+**구분**:
+- scope는 endoscope·colonoscope의 줄임말이다. 의학 용어가 아니라 환자 쪽 구어
+- 격식 있게 쓰려면 colonoscopy(대장내시경) / endoscopy(내시경검사) / gastroscopy(위내시경)
+- scope에는 '범위'라는 훨씬 흔한 뜻이 따로 있다(the scope of the project)
 
 ---
 
@@ -4715,6 +5534,35 @@
 - 동사 ravage = 유린하다, 황폐화하다 (The fire ravaged the coastline)
 - damage는 손상 자체, ravages는 그 손상이 오래 남긴 자국이라는 뉘앙스
 - 형용사 ravenous(몹시 굶주린)와는 어원이 다르니 헷갈리지 말 것
+
+---
+
+### rear end
+
+*명사* · B2 · informal · /ˌrɪər ˈend/
+
+**엉덩이 (완곡어); (차량의) 뒷부분**
+
+> a polite word for the buttocks; the back part of a vehicle
+
+- He slipped and landed on his rear end.
+  - 그는 미끄러져 엉덩방아를 찧었다.
+  - 💡 완곡어라 butt보다 점잖고 아이 앞에서도 쓴다
+- The rear end of the truck was badly dented.
+  - 트럭 뒷부분이 심하게 찌그러져 있었다.
+  - 💡 차량 용법
+- She rear-ended the car in front of her.
+  - 그는 앞차를 뒤에서 들이받았다.
+  - 💡 동사 rear-end = 추돌하다. 하이픈을 붙인다
+
+**연어**: land on one's rear end, rear-end a car, rear-end collision
+
+**유의어**: backside, behind, bottom, butt
+
+**구분**:
+- 완곡어 강도 — behind/bottom(가장 점잖음) < rear end < butt < ass(비속)
+- 동사로 쓸 때는 rear-end(하이픈)로 '뒤에서 들이받다'가 된다. 명사와 헷갈리기 쉽다
+- the rear(뒤쪽)만 쓰면 신체 뜻은 사라지고 위치만 가리킨다
 
 ---
 
@@ -5254,6 +6102,34 @@
 
 ---
 
+### shed
+
+*동사* · B2 · /ʃed/
+
+**(눈물·피를) 흘리다; (잎·털을) 떨구다; (빛을) 내뿜다; 벗어던지다**
+
+> to let something fall or flow; to get rid of something
+
+- He shed tears without embarrassment.
+  - 그는 부끄러워하지 않고 눈물을 흘렸다.
+  - 💡 shed tears — 문어적. 일상에서는 cry
+- The trees shed their leaves early that year.
+  - 그해 나무들은 일찍 잎을 떨궜다.
+- Her question shed light on the whole problem.
+  - 그의 질문이 문제 전체를 환히 밝혀주었다.
+  - 💡 shed light on — '해명하다'라는 뜻의 필수 관용구
+
+**연어**: shed tears, shed light on, shed leaves, shed weight, shed a skin
+
+**유의어**: drop, cast off, emit, discard
+
+**구분**:
+- 활용이 불규칙 — shed / shed / shed. 과거형도 그대로다
+- 명사 shed는 '헛간·창고'로 뜻이 완전히 다르다(a garden shed). 철자만 같은 남남
+- shed light on은 문자 그대로 빛을 비추는 게 아니라 '설명해 밝히다'로 쓰는 일이 훨씬 많다
+
+---
+
 ### sin
 
 *명사* · B1 · /sɪn/
@@ -5469,6 +6345,33 @@
 
 ---
 
+### startling
+
+*형용사* · B2 · /ˈstɑːtlɪŋ/
+
+**깜짝 놀라게 하는, 놀라운**
+
+> very surprising or unexpected, often in a way that shocks
+
+- The change in him was startling.
+  - 그의 변화는 놀라울 정도였다.
+- She made a startling admission on camera.
+  - 그는 카메라 앞에서 놀라운 고백을 했다.
+- The results were startling in their clarity.
+  - 그 결과는 놀랄 만큼 명확했다.
+  - 💡 startling in + 명사 — 어떤 점이 놀라운지 밝힌다
+
+**연어**: a startling discovery, startling news, startlingly similar
+
+**유의어**: surprising, astonishing, alarming
+
+**구분**:
+- -ing는 남을 놀라게 하는 쪽, -ed(startled)는 내가 놀란 쪽. 방향을 뒤집어 쓰기 쉽다
+- surprising보다 세고 갑작스럽다. 동사 startle은 '움찔하게 하다'라 [[flinch-v]]와 같은 그림이다
+- alarming — 놀라운 데다 위험하다는 경보가 섞인다. startling은 위험까지는 아니다
+
+---
+
 ### stay in shape
 
 *관용구* · B1 · informal · /steɪ ɪn ʃeɪp/
@@ -5517,6 +6420,62 @@
 - lie within — 범위 안에 '있다'(상태). stay within은 벗어나지 않고 '머문다'(행위·의지)
 - work within — 주어진 한계 안에서 최선을 다하다. 태도에 초점
 - stay in — 단순히 안에 있다(집에 있다 등). within은 경계·한도의 뉘앙스
+
+---
+
+### stumble
+
+*동사* · B2 · /ˈstʌmbl/
+
+**비틀거리다, 발을 헛디디다; (말을) 더듬다; 우연히 마주치다**
+
+> to trip or walk unsteadily; to make mistakes while speaking; to find by chance
+
+- He stumbled on the last step and caught the rail.
+  - 그는 마지막 계단에서 발을 헛디뎌 난간을 붙잡았다.
+- She stumbled over the words of her own speech.
+  - 그는 자기가 쓴 연설문을 읽다 말이 꼬였다.
+  - 💡 stumble over words — 말을 더듬다
+- I stumbled across an old photo of him.
+  - 나는 우연히 그의 옛 사진을 발견했다.
+  - 💡 stumble across/upon/on = 우연히 발견하다
+
+**연어**: stumble over, stumble across, stumble upon, stumbling block
+
+**유의어**: trip, falter, lurch, chance upon
+
+**구분**:
+- trip — 뭔가에 걸려 넘어질 뻔하는 순간적 동작. stumble은 비틀거리며 몇 걸음 흔들리는 그림
+- stumbling block = 걸림돌, 장애물. 자주 쓰는 명사 표현
+- stumble across는 '우연히'가 핵심이라 의도적으로 찾은 것에는 쓰지 않는다
+
+---
+
+### stunned
+
+*형용사* · B2 · /stʌnd/
+
+**충격을 받은, 망연자실한, 얼떨떨한**
+
+> so shocked or surprised that you cannot react
+
+- She was stunned by the news.
+  - 그는 그 소식에 충격을 받았다.
+  - 💡 stunned by + 충격의 원인 — 가장 흔한 형태
+- There was a stunned silence in the room.
+  - 방 안에는 얼어붙은 침묵이 흘렀다.
+  - 💡 stunned silence — 굳어진 짝
+- He looked stunned, as if he hadn't understood the question.
+  - 그는 질문을 못 알아들은 사람처럼 얼떨떨한 표정이었다.
+
+**연어**: stunned by, stunned silence, look stunned, stunned into silence
+
+**유의어**: shocked, dazed, staggered, floored
+
+**구분**:
+- 동사 stun의 원뜻은 '때려서 정신을 잃게 하다'. 그래서 stunned에는 '한 대 맞은 듯 반응을 못 한다'는 그림이 남아 있다
+- shocked — 감정적 충격 전반. stunned는 그중에서도 '멍해져 아무 말도 못 하는' 상태
+- stunning은 전혀 다른 뜻으로 '굉장히 아름다운'이다. -ed와 -ing가 짝이 아니니 주의
 
 ---
 
@@ -5632,6 +6591,34 @@
 
 ---
 
+### take no notice
+
+*관용구* · B2 · /teɪk nəʊ ˈnəʊtɪs/
+
+**아랑곳하지 않다, 전혀 신경 쓰지 않다**
+
+> to pay no attention to someone or something
+
+- It took no notice at all.
+  - 그것은 전혀 아랑곳하지 않았다.
+  - 💡 at all을 붙여 '조금도'를 강조한다
+- Take no notice of what he says.
+  - 그가 하는 말은 신경 쓰지 마라.
+  - 💡 대상이 붙으면 take no notice of ~
+- The cat took no notice of the visitors.
+  - 고양이는 손님들을 본체만체했다.
+
+**연어**: take no notice of, take notice, not take the slightest notice
+
+**유의어**: ignore, pay no attention, disregard
+
+**구분**:
+- 반대로 take notice (of)는 '주목하다'. no 하나로 뜻이 뒤집힌다
+- ignore — 알면서 일부러 무시하다. take no notice는 '애초에 관심이 가지 않는다'에 가까워 조금 더 담담하다
+- 영국식에서 더 흔하다. 미국식은 pay no attention을 즐겨 쓴다
+
+---
+
 ### tempt
 
 *동사* · B2 · /tempt/
@@ -5737,6 +6724,62 @@
 **구분**:
 - almost all — 더 구어적. the vast majority of는 수치 근거가 있는 듯한 격식체
 - 관사는 the가 표준. a vast majority는 거의 쓰지 않는다
+
+---
+
+### thesis
+
+*명사* · B2 · formal · /ˈθiːsɪs/
+
+**논문, 학위논문; (글의) 논지, 주장**
+
+> a long piece of academic writing; the central argument of a text
+
+- He was still writing his thesis when he got sick.
+  - 그는 병에 걸렸을 때도 여전히 논문을 쓰고 있었다.
+- The thesis of the book is that memory is unreliable.
+  - 그 책의 논지는 기억이 믿을 만하지 않다는 것이다.
+  - 💡 둘째 뜻 — 글 전체를 떠받치는 주장
+- She defended her thesis last spring.
+  - 그는 지난봄에 논문 심사를 통과했다.
+  - 💡 defend a thesis = 논문 심사를 받다
+
+**연어**: write a thesis, defend a thesis, thesis statement, a master's thesis
+
+**유의어**: dissertation, argument, proposition
+
+**구분**:
+- 복수형은 theses /ˈθiːsiːz/ — 불규칙이라 자주 틀린다
+- 미국에서는 석사=thesis, 박사=dissertation. 영국은 반대로 쓰는 경우가 많다
+- thesis statement — 영어 에세이 첫 문단에 놓는 '핵심 주장 한 문장'
+
+---
+
+### thinning
+
+*형용사* · B2 · /ˈθɪnɪŋ/
+
+**(머리숱이) 성글어지는, 점점 적어지는**
+
+> becoming less thick or less dense, especially of hair
+
+- He ran a hand through his thinning hair.
+  - 그는 성글어진 머리카락을 손으로 쓸어 넘겼다.
+  - 💡 thinning hair — 대머리라고 말하지 않는 완곡한 표현
+- The crowd was thinning by midnight.
+  - 자정 무렵 인파가 줄어들고 있었다.
+  - 💡 사람·무리에도 쓴다
+- Thinning ice makes the lake dangerous in spring.
+  - 얼음이 얇아져 봄에는 호수가 위험하다.
+
+**연어**: thinning hair, thinning crowd, thinning ice
+
+**유의어**: sparse, receding, dwindling
+
+**구분**:
+- bald(대머리인)보다 훨씬 부드럽다. 남의 외모를 말할 때는 thinning 쪽을 쓴다
+- receding hairline — 이마선이 뒤로 밀리는 것. thinning은 전체적으로 숱이 줄어드는 것
+- 동사 thin(얇아지다)의 현재분사. thin out도 같은 뜻으로 쓴다
 
 ---
 
@@ -6018,6 +7061,33 @@
 - as usual — 중립적. true to form은 '그 사람의 평소 행태대로'라는 평가가 들어간다
 - true to life(사실적인), true to one's word(약속을 지키는)는 별개 표현
 - 보통 부정적 예측이 맞아떨어졌을 때 쓴다
+
+---
+
+### tuft
+
+*명사* · C1 · /tʌft/
+
+**(머리카락·풀 등의) 다발, 뭉치, 술**
+
+> a small bunch of hair, grass, or feathers growing or held together
+
+- A tuft of white hair stood up at the back of his head.
+  - 그의 뒤통수에는 흰 머리카락 한 뭉치가 삐죽 서 있었다.
+  - 💡 a tuft of + 불가산명사 — 전형적인 틀
+- Tufts of grass pushed through the cracks.
+  - 갈라진 틈으로 풀 무더기가 비집고 나왔다.
+- The owl has distinctive ear tufts.
+  - 그 올빼미는 독특한 귀깃을 가지고 있다.
+
+**연어**: a tuft of hair, a tuft of grass, ear tufts
+
+**유의어**: clump, bunch, wisp
+
+**구분**:
+- clump — 더 크고 뭉툭한 덩어리. tuft는 손가락으로 집을 만한 작은 다발
+- wisp — 가늘고 힘없이 흩날리는 한 가닥. tuft는 여러 가닥이 모여 뻗친 느낌
+- 형용사 tufted(술이 달린)도 새 이름에 자주 붙는다
 
 ---
 
@@ -6415,6 +7485,34 @@
 
 ---
 
+### whisk
+
+*동사* · B2 · /wɪsk/
+
+**휙 데려가다, 재빨리 옮기다; (거품기로) 휘젓다**
+
+> to move or take something somewhere quickly; to beat eggs or cream rapidly
+
+- He was whisked off to the hospital.
+  - 그는 서둘러 병원으로 실려 갔다.
+  - 💡 be whisked off/away — 수동태가 압도적으로 흔하다
+- A car whisked them away before the reporters arrived.
+  - 기자들이 도착하기 전에 차가 그들을 재빨리 데려갔다.
+- Whisk the eggs until they are pale and thick.
+  - 달걀이 옅은 색이 되고 걸쭉해질 때까지 휘저으세요.
+  - 💡 요리 용법. 명사 whisk = 거품기
+
+**연어**: whisk away, whisk off, whisk someone to, whisk the eggs
+
+**유의어**: rush, hurry, sweep, beat
+
+**구분**:
+- 소리와 그림이 같은 단어다 — 거품기를 휘젓듯 '휙' 하고 순식간에 움직인다
+- whiskey와는 아무 관계가 없다. 철자가 비슷해 헷갈리기 쉽다
+- 이동 뜻으로 쓸 때는 보통 수동태(was whisked)로, 본인 의사와 상관없이 끌려간다는 뉘앙스가 붙는다
+
+---
+
 ### who does that serve?
 
 *구문* · C1 · /huː dʌz ðæt sɜːrv/
@@ -6577,7 +7675,7 @@
 
 *구문* · B1 · /jet/
 
-**아직 (부정·의문); 그러나, 그런데도 (접속); (최상급과 함께) 지금까지 중**
+**아직 (부정·의문); 그러나, 그런데도 (접속); (최상급·비교급과 함께) 지금까지 중, 훨씬**
 
 > up to now; but at the same time; used with superlatives for emphasis
 
@@ -6590,14 +7688,54 @@
 - This is her best work yet.
   - 이것은 지금까지 그녀의 최고작이다.
   - 💡 최상급 + yet = 현재까지 중 가장 ~한. 놓치기 쉬운 용법
+- He was tired, yet he kept working.
+  - 그는 지쳤지만 계속 일했다.
+  - 💡 용법 3 — 접속사 yet = but. 쉼표 뒤에 놓는다
+- The second version was yet more beautiful.
+  - 두 번째 것은 훨씬 더 아름다웠다.
+  - 💡 용법 5 — 비교급 강조. even/still more와 같은 자리이고 가장 문어적이다
+- He has yet to reply.
+  - 그는 아직 답을 하지 않았다.
+  - 💡 용법 6 — have/be yet to + 동사원형. '앞으로 해야 하는데 아직 안 했다'까지 담는다
 
-**연어**: not yet, and yet, yet another, best ... yet
+**연어**: not yet, and yet, yet another, best ... yet, have yet to, yet more
 
 **유의어**: still, nevertheless, so far
 
 **구분**:
+- 여섯 갈래로 정리된다 — ① 부정문 '아직'(hasn't arrived yet) ② 의문문 '벌써'(finished yet?) ③ 접속 '그런데도'(tired, yet working) ④ 최상급 강조(the best film yet) ⑤ 비교급 강조 '훨씬'(yet more beautiful) ⑥ have/be yet to(아직 ~않았다)
 - already — 긍정문의 '벌써' / still — 여전히 계속. yet은 부정·의문의 '아직'
 - and yet = 그럼에도 불구하고 (문장 연결)
 - yet another = 또 하나의 (지겹다는 뉘앙스)
+- have yet to는 형태가 긍정문인데 뜻은 부정이다 — has yet to reply = 아직 답이 없다. 가장 자주 틀리는 지점
+- ⑤ 비교급 강조는 문어체 전용이다. 말할 때는 even more를 쓴다
+
+---
+
+### zap
+
+*동사* · C1 · informal · /zæp/
+
+**전기 자극을 가하다, 찌릿하게 하다; 순식간에 해치우다; (리모컨으로) 채널을 돌리다**
+
+> to hit with electricity or radiation; to destroy or do something very fast
+
+- They zapped the tumor with radiation.
+  - 그들은 방사선으로 종양을 태웠다.
+  - 💡 의료 구어 — 방사선 치료를 가볍게 이르는 말
+- A shock zapped up his arm.
+  - 찌릿한 충격이 그의 팔을 타고 올라왔다.
+- I'll zap it in the microwave.
+  - 전자레인지에 돌릴게.
+  - 💡 일상 구어 — 전자레인지에 데우다
+
+**연어**: zap with radiation, zap it in the microwave, zap through channels
+
+**유의어**: blast, nuke, jolt
+
+**구분**:
+- 만화 의성어에서 온 구어라 진료 기록이나 논문에는 쓰지 않는다. 격식체는 irradiate·treat
+- nuke도 '전자레인지에 돌리다'라는 같은 농담조 용법이 있다
+- 활용은 zap - zapped - zapped로 p를 겹쳐 쓴다
 
 ---

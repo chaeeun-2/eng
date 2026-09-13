@@ -1,0 +1,108 @@
+2026-09-14 다른 세션에서 물어본 단어/문장/표현 일괄 정리 (원본 그대로)
+
+※ 어휘 구성으로 보아 《모리와 함께한 화요일》(Tuesdays with Morrie) 읽기 중 나온 것으로 추정.
+   lindy(린디합), 졸업식 대신 열린 장례식, labored breathing·stumbled·cane·
+   neurological·intestine 등 루게릭병(ALS) 증상 어휘가 한 세트로 등장한다.
+
+── 문장 ─────────────────────────────────────────────
+
+as sweet and nourishing as fresh summer corn
+  갓 딴 여름 옥수수처럼 달콤하고 영양이 풍부한
+
+the book begs to be read aloud
+  그 책은 소리 내어 읽어달라고 조르는 것 같다
+
+now and then
+  가끔, 이따금
+
+a funeral was held in lieu of graduation
+  졸업식 대신 장례식이 열렸다
+
+held in lieu of
+  ~ 대신 열린 / ~ 대신 거행된
+
+although his teeth are crooked and his lower ones are slanted back—as if someone had
+once punched them in—when he smiles it's as if you'd just told him the first joke on earth.
+  비록 그의 이는 삐뚤삐뚤하고 아랫니는 마치 누군가 한 대 쳐서 밀어 넣기라도 한 것처럼
+  안쪽으로 기울어져 있지만, 그가 웃을 때면 마치 당신이 그에게 세상 최초의 농담을 방금
+  들려준 것 같은 표정이 된다.
+
+lindy to
+  린디(1930~40년대 유행한 스윙 춤)를 추다
+
+was coming long before that
+  그보다 훨씬 전부터 오고 있었다(다가오고 있었다)
+
+by this point
+  이 무렵에는, 이 시점에 이르러서는
+
+stunned by
+  ~에 충격을 받은, ~에 망연자실한
+
+it took no notice at all
+  그것은 전혀 아랑곳하지 않았다
+
+put a scope up
+  내시경을 집어넣다
+
+his rear end
+  그의 엉덩이(항문 쪽)
+
+of sort(s)
+  일종의, ~같은 것
+
+purchased a cane
+  지팡이를 샀다
+
+no longer
+  더 이상 ~않다
+
+── 단어 ─────────────────────────────────────────────
+
+clarity        명료함
+acknowledge    인정하다
+multitude      다수, 수많은 것들
+thesis         논문
+shed           (눈물·빛 등을) 흘리다, 내뿜다 / 헛간
+lieu           대신, 대용 (주로 in lieu of)
+hesitation     망설임, 주저
+whisk          휙 데려가다, 재빨리 움직이다 / 휘젓다, 거품기
+thinning       (머리숱이) 점점 적어지는, 성글어지는
+tuft           (머리카락·풀 등의) 다발, 뭉치
+prominent      눈에 띄는, 두드러진 / 저명한
+conductor      지휘자 / (기차·버스의) 차장
+commandeer     (강제로) 징발하다, 차지하다
+labored        (호흡 등이) 힘겨운, 거친 / 애써 일했다
+injected       주입했다, 주사했다
+stumbled       비틀거렸다, 발을 헛디뎠다
+inexplicably   설명할 수 없게, 영문 모르게
+startling      놀라운, 깜짝 놀라게 하는
+meanwhile      그동안에, 한편
+intestine      장, 창자
+neurological   신경학적인, 신경계의
+zapped         전기 자극을 가했다, 찌릿하게 했다
+further        더 이상의, 더 나아간
+humid          습한, 눅눅한
+barely         간신히, 가까스로 / 거의 ~않다
+occur          일어나다, 발생하다 / (생각이) 떠오르다
+hobbled        절뚝거리며 걸었다
+assume         추정하다, 가정하다 / (역할·책임을) 맡다
+
+── yet (용법 정리) ──────────────────────────────────
+
+1. 아직 ~않다 (부정문)      He hasn't arrived yet.
+2. 벌써, 이제 (의문문)       Have you finished yet?
+3. 그러나, 그런데도 (역접)    He was tired, yet he kept working.
+4. 최상급 강조              the best film yet / yet another problem
+5. 비교급 강조 (훨씬 더)      yet more beautiful
+6. have/be yet to           He has yet to reply. (아직 ~하지 않았다, 앞으로 해야 한다)
+
+── 등록 처리 메모 ───────────────────────────────────
+
+- lieu는 단독으로 쓰지 않으므로 `in lieu of` 한 항목으로 등록하고 lieu는 구분 메모에 넣음
+- "held in lieu of"는 `in lieu of`의 예문으로 흡수
+- 긴 치아 묘사 문장은 `crooked` 항목의 예문으로 보관 (as if + 과거완료 가정법 포인트)
+- "purchased a cane"은 `purchase` 예문으로 흡수 (cane = 지팡이, 예문 안에서 검색됨)
+- injected/stumbled/zapped/hobbled는 기본형 inject·stumble·zap·hobble로 등록
+- further, no longer는 이미 등록돼 있어 건너뜀
+- yet은 기존 yet-phr 항목에 5·6번 용법(비교급 강조, have yet to)을 병합

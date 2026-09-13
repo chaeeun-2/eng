@@ -108,7 +108,20 @@ body.by-new .w .date{display:block}
   font-size:12.5px;line-height:1.55;color:var(--ink-2)}
 
 /* ── 구분 (confusables) ───────────────────────── */
-.cf-btn{margin-top:8px;font-family:"IBM Plex Mono",monospace;font-size:10.5px;
+.btns{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+
+/* ── 완료 표시 ────────────────────────────────── */
+.done-btn{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.05em;
+  padding:3px 8px;border:1px solid var(--rule-2);border-radius:2px;
+  background:transparent;color:var(--ink-2);cursor:pointer;white-space:nowrap}
+.done-btn:hover{border-color:var(--indigo);color:var(--indigo)}
+.done-btn[aria-pressed="true"]{background:var(--indigo);border-color:var(--indigo);color:#fff}
+.done-btn:focus-visible{outline:2px solid var(--indigo);outline-offset:2px}
+/* 다 외운 단어는 표제어를 눌러 두고 왼쪽에 표시줄을 세운다 */
+tbody.done .w{color:var(--ink-2);box-shadow:inset 3px 0 0 var(--indigo)}
+tbody.done .w .meta{opacity:.75}
+
+.cf-btn{font-family:"IBM Plex Mono",monospace;font-size:10.5px;
   letter-spacing:.05em;padding:3px 8px;border:1px solid var(--rule-2);border-radius:2px;
   background:transparent;color:var(--clay);cursor:pointer}
 .cf-btn:hover{border-color:var(--clay)}
@@ -222,7 +235,7 @@ tbody.hide{display:none}
   .say svg{width:13px;height:13px}
   .say::after{content:"";position:absolute;inset:-7px}   /* 44px 히트 영역 */
   .chip{padding:9px 13px}
-  .cf-btn{padding:6px 10px}
+  .cf-btn,.done-btn{padding:7px 11px}
   .ko,.en{font-size:15px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
@@ -245,7 +258,7 @@ function apply(){
     g.classList.toggle('hide',!show);
     if(show) n++;
   }
-  cnt.textContent = n===groups.length ? groups.length+'개' : n+' / '+groups.length+'개';
+  updateCount(n);
   empty.classList.toggle('on', n===0);
   if(deckMq.matches) showCard(0);   /* 목록이 바뀌면 첫 카드부터 */
 }
@@ -289,22 +302,74 @@ nextBtn.addEventListener('click',()=>showCard(idx+1));
 deckMq.addEventListener('change',initDeck);
 initDeck();
 
+/* ── 완료 표시 ────────────────────────────────
+   다 외운 단어는 목록 맨 뒤로 보낸다. 표시는 브라우저(localStorage)에만 남는다. */
+const DONE_KEY='eng-done';
+let done=new Set();
+try{ done=new Set(JSON.parse(localStorage.getItem(DONE_KEY)||'[]')); }catch(e){}
+
+function saveDone(){
+  try{ localStorage.setItem(DONE_KEY,JSON.stringify([...done])); }catch(e){}
+}
+
+function paintDone(g){
+  const on=done.has(g.dataset.id);
+  g.classList.toggle('done',on);
+  const b=g.querySelector('.done-btn');
+  if(b){ b.setAttribute('aria-pressed',String(on)); b.textContent=on?'완료됨':'완료'; }
+}
+
+function doneCount(){ return groups.filter(g=>done.has(g.dataset.id)).length; }
+
+/* 툴바 오른쪽 숫자. 검색 결과 수와 완료 개수를 같이 보여준다 */
+function updateCount(n){
+  const dn=doneCount();
+  cnt.textContent = (n===groups.length ? groups.length+'개' : n+' / '+groups.length+'개')
+                    + (dn ? ' · 완료 '+dn : '');
+}
+
 /* ── 정렬 (abc순 / 최근 등록순) ────────────────── */
 const sortBtns=[...document.querySelectorAll('.chip[data-sort]')],
       KEY={abc:'oAbc',new:'oNew'};
+let curSort='abc';
+
+/* 완료한 단어를 뒤로 밀고, 그 안에서는 선택한 정렬을 따른다 */
+function reorder(){
+  const k=KEY[curSort];
+  const frag=document.createDocumentFragment();
+  [...groups].sort((a,b)=>
+      (done.has(a.dataset.id)?1:0)-(done.has(b.dataset.id)?1:0)
+      || a.dataset[k]-b.dataset[k])
+    .forEach(g=>frag.appendChild(g));
+  table.appendChild(frag);
+}
 
 function sortBy(key,save){
   if(!KEY[key]) key='abc';
+  curSort=key;
   document.body.classList.toggle('by-new',key==='new');
   sortBtns.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.sort===key)));
-  const frag=document.createDocumentFragment();
-  [...groups].sort((a,b)=>a.dataset[KEY[key]]-b.dataset[KEY[key]])
-             .forEach(g=>frag.appendChild(g));
-  table.appendChild(frag);
+  reorder();
   if(deckMq.matches) showCard(0);
   if(save) localStorage.setItem('eng-sort',key);
 }
 sortBtns.forEach(b=>b.addEventListener('click',()=>sortBy(b.dataset.sort,true)));
+
+/* 완료를 누르면 그 자리에서 뒤로 빠지고, 카드 모드에서는 다음 단어가 올라온다 */
+document.addEventListener('click',e=>{
+  const b=e.target.closest('.done-btn');
+  if(!b) return;
+  const g=b.closest('tbody[data-word]'), id=g.dataset.id;
+  if(done.has(id)) done.delete(id); else done.add(id);
+  saveDone();
+  paintDone(g);
+  const at=idx;
+  reorder();
+  updateCount(visible().length);
+  if(deckMq.matches) showCard(at);
+});
+
+groups.forEach(paintDone);
 sortBy(localStorage.getItem('eng-sort')||'abc',false);
 
 document.querySelectorAll('.chip[data-pos]').forEach(c=>{
@@ -512,7 +577,11 @@ def group_html(e):
 
     word_say = say_btn("say-w", f'{e["word"]} 발음 듣기', e["word"])
 
+    done_btn = (f'<button class="done-btn" aria-pressed="false" '
+                f'title="다 외운 단어로 표시 — 목록 맨 뒤로 보냅니다">완료</button>')
+
     out = [f'<tbody data-word="{esc(e["word"])}" data-pos="{esc(e["pos"])}" '
+           f'data-id="{esc(e["id"])}" '
            f'data-o-abc="{e["_o_abc"]}" data-o-new="{e["_o_new"]}" '
            f'data-find="{esc(haystack)}">']
 
@@ -524,7 +593,8 @@ def group_html(e):
                 f'<th class="w" rowspan="{span}" scope="rowgroup">{esc(e["word"])}'
                 f'{word_say}'
                 f'<span class="meta">{esc(" · ".join(meta))}</span>'
-                f'<span class="date">{esc(e["added_at"])}</span>{cf_btn}</th>'
+                f'<span class="date">{esc(e["added_at"])}</span>'
+                f'<span class="btns">{cf_btn}{done_btn}</span></th>'
                 f'<td class="ko m" data-l="뜻" rowspan="{span}">'
                 f'<div>{esc(e["meaning_ko"])}</div></td>'
             )
