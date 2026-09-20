@@ -1,6 +1,63 @@
-# 단어장 (총 289개)
+# 단어장 (총 325개)
 
 `data/vocab.jsonl`에서 자동 생성. 직접 수정 금지.
+
+### a stream of
+
+*구문* · B2 · /ə ˈstriːm əv/
+
+**끊이지 않고 이어지는 ~의 행렬·흐름**
+
+> a continuous flow of people or things
+
+- There was a growing stream of visitors to his house.
+  - 그의 집을 찾는 방문객이 점점 늘어났다.
+  - 💡 a growing stream of — 흐름이 불어난다는 그림
+- A steady stream of letters arrived each week.
+  - 매주 꾸준히 편지가 밀려들었다.
+  - 💡 a steady stream of가 가장 흔한 짝
+- He faced a stream of questions from reporters.
+  - 그는 기자들의 질문 세례를 받았다.
+
+**연어**: a steady stream of, a growing stream of, a constant stream of, stream of consciousness
+
+**유의어**: a flow of, a succession of, a torrent of
+
+**구분**:
+- 강물처럼 끊이지 않는다는 그림이 핵심이다. 한 번에 몰려오는 것은 a flood/wave of를 쓴다
+- stream of consciousness = 의식의 흐름(문학 기법)
+- 동사 stream도 같은 뜻으로 쓴다 — People streamed into the hall
+
+---
+
+### absence
+
+*명사* · B2 · /ˈæbsəns/
+
+**부재, 없음; 결석, 결근**
+
+> the state of not being present; the fact that something does not exist
+
+- In the absence of evidence, we can't act.
+  - 증거가 없는 상태에서는 움직일 수 없다.
+  - 💡 in the absence of ~ = ~이 없는 상황에서. 격식 있는 글에 자주 쓴다
+- His absence was felt by everyone.
+  - 그의 빈자리를 모두가 느꼈다.
+- Absence makes the heart grow fonder.
+  - 떨어져 있으면 그리움이 깊어진다.
+  - 💡 유명한 속담
+
+**연어**: in the absence of, a leave of absence, absence from work, conspicuous by his absence
+
+**유의어**: lack, nonattendance, void
+
+**구분**:
+- 형용사 absent / 반대는 presence(존재, 참석)
+- a leave of absence = (공식) 휴직. 인사 문서에서 만난다
+- lack — 부족(조금 있는데 모자람). absence는 아예 없음이라 더 단호하다
+- conspicuous by one's absence = 없는 게 오히려 눈에 띄는
+
+---
 
 ### abundance
 
@@ -821,6 +878,64 @@
 
 ---
 
+### attic
+
+*명사* · B1 · /ˈætɪk/
+
+**다락방, 지붕 밑 방**
+
+> a space or room just below the roof of a house
+
+- The boxes had sat in the attic for years.
+  - 그 상자들은 몇 년째 다락에 놓여 있었다.
+- They converted the attic into a study.
+  - 그들은 다락을 서재로 개조했다.
+  - 💡 [[convert-into-phr]]와 붙여 쓰기 좋은 문장
+- He found his father's letters up in the attic.
+  - 그는 다락에서 아버지의 편지를 발견했다.
+
+**연어**: in the attic, attic room, convert the attic
+
+**유의어**: loft, garret
+
+**구분**:
+- basement(지하실)·cellar(저장고)의 반대편이다
+- 영국에서는 loft를 더 쓴다. attic도 통하지만 loft가 일상어
+- garret — 더 옛스럽고 '가난한 예술가의 다락'이라는 문학적 뉘앙스가 붙는다
+- 회고담에서 '잊힌 물건이 나오는 곳'으로 자주 등장한다
+
+---
+
+### avert
+
+*동사* · C1 · formal · /əˈvɜːt/
+
+**(눈을) 돌리다; (위기를) 막다, 모면하다**
+
+> to turn away your eyes; to prevent something bad from happening
+
+- She averted her eyes from the bed.
+  - 그는 침대에서 눈을 돌렸다.
+  - 💡 avert one's eyes/gaze — 차마 보지 못할 때
+- The deal averted a strike.
+  - 그 합의가 파업을 막았다.
+  - 💡 avert a crisis/disaster/strike — 뉴스에서 흔하다
+- A tragedy was narrowly averted.
+  - 참사를 가까스로 피했다.
+  - 💡 narrowly averted = 아슬아슬하게 막았다
+
+**연어**: avert one's eyes, avert a crisis, narrowly averted, avert disaster
+
+**유의어**: turn away, prevent, avoid, head off
+
+**구분**:
+- a-(멀리) + vert(돌리다). convert, reverse, divert가 한 뿌리다. 두 뜻 모두 '방향을 돌려 피한다'는 그림
+- prevent — 일반적인 '막다'. avert는 이미 닥쳐오는 나쁜 일을 아슬아슬하게 비껴가게 한다
+- avoid — 단순히 피하다. avert는 적극적으로 손을 써서 막는 쪽
+- [[flinch-v]]와 함께 — 눈을 돌리는 것은 avert, 몸이 움찔하는 것은 flinch
+
+---
+
 ### avoidance
 
 *명사* · B2 · /əˈvɔɪdəns/
@@ -1028,6 +1143,35 @@
 **구분**:
 - reject — 정식 절차상 거부. dismiss as는 고려할 가치조차 없다고 깎아내리는 뉘앙스
 - dismiss에는 '해고하다' 뜻도 있다 — [[let-someone-go-phrasal_verb]] 참고
+
+---
+
+### be of value
+
+*구문* · C1 · formal · /bi əv ˈvæljuː/
+
+**가치가 있다, 쓸모가 있다**
+
+> to be valuable or useful
+
+- Since everyone was going to die, he could be of great value, right?
+  - 누구나 죽을 테니, 그는 큰 쓸모가 있을 수 있었다, 그렇지?
+  - 💡 be of great value = be very valuable. of + 추상명사가 형용사 노릇을 한다
+- Your experience would be of value to the team.
+  - 당신의 경험은 팀에 가치가 있을 것이다.
+  - 💡 be of value to + 대상
+- The comment was of no help at all.
+  - 그 말은 전혀 도움이 되지 않았다.
+  - 💡 같은 틀 — of no help, of use, of interest
+
+**연어**: be of great value, be of use, be of interest, be of no help
+
+**유의어**: be valuable, be useful, be worthwhile
+
+**구분**:
+- of + 추상명사 = 형용사. of value = valuable, of use = useful, of interest = interesting
+- 형용사를 그냥 쓰는 것보다 격식 있고 담담하게 들린다. 제안서·추천서에 어울린다
+- great, little, no 같은 말을 사이에 넣어 정도를 조절한다 — of little value(별 가치 없는)
 
 ---
 
@@ -1447,6 +1591,36 @@
 
 ---
 
+### bury
+
+*동사* · B1 · /ˈberi/
+
+**묻다, 매장하다; (감정을) 숨기다, 파묻히다**
+
+> to put a dead body in the ground; to hide or cover something
+
+- He was buried beside his mother.
+  - 그는 어머니 곁에 묻혔다.
+  - 💡 be buried — 수동태가 기본이다
+- She buried herself in work after the funeral.
+  - 장례 후 그는 일에 파묻혀 지냈다.
+  - 💡 bury oneself in ~ = ~에 몰두하다
+- The clause was buried on the last page.
+  - 그 조항은 마지막 장에 파묻혀 있었다.
+  - 💡 눈에 안 띄게 숨겨졌다는 비유
+
+**연어**: be buried in, bury oneself in work, bury the hatchet, buried alive
+
+**유의어**: inter, conceal, hide
+
+**구분**:
+- 발음 주의 — berry와 똑같이 /ˈberi/다. '버리'가 아니다. 철자 u에 속기 쉽다
+- bury the hatchet = 화해하다(도끼를 묻다). 자주 쓰는 관용구
+- 명사는 burial /ˈberiəl/(매장, 장례). 발음이 또 달라지니 주의
+- [[demise-n]]·[[decay-n]]과 같은 맥락에서 만나기 쉽다
+
+---
+
 ### busy oneself with
 
 *구문* · C1 · formal · /ˈbɪzi wʌnˈsɛlf wɪð/
@@ -1473,6 +1647,34 @@
 - keep oneself busy — 단순히 바쁘게 지내다. busy oneself with는 대상이 명시된다
 - be busy with ~ — 상태(바쁘다). busy oneself with는 스스로 일거리를 만드는 행위
 - 재귀대명사를 빼면 틀린다 — busy with small repairs (X, 동사로 쓸 때)
+
+---
+
+### by the end
+
+*구문* · B1 · /baɪ ði ˈend/
+
+**끝날 무렵에는, 끝에 가서는**
+
+> at or before the time something finishes
+
+- By the end, he could no longer hold a pen.
+  - 끝 무렵 그는 더 이상 펜을 쥐지 못했다.
+  - 💡 그때까지 쌓인 결과를 알린다
+- By the end of the week, we'll have an answer.
+  - 이번 주말까지는 답이 나올 것이다.
+  - 💡 by the end of + 기간
+- By the end of the book, everything has changed.
+  - 책이 끝날 무렵이면 모든 것이 달라져 있다.
+
+**연어**: by the end of the day, by the end of the year, by the end of it
+
+**유의어**: eventually, in the end, by the time it was over
+
+**구분**:
+- by는 '그 시점까지 누적'이고 until은 '그 시점까지 계속'이다 — 마감은 by, 지속은 until
+- in the end — 우여곡절 끝에 결국(결과). by the end — 그 시점에 이르렀을 때(시간)
+- at the end of — 바로 그 끝 지점. by the end of는 그 전이어도 된다
 
 ---
 
@@ -1668,6 +1870,34 @@
 
 ---
 
+### composure
+
+*명사* · C1 · formal · /kəmˈpəʊʒə/
+
+**침착함, 평정, 마음의 평온**
+
+> the state of being calm and in control of your feelings
+
+- She regained her composure and went on.
+  - 그는 평정을 되찾고 말을 이어갔다.
+  - 💡 regain one's composure — 가장 흔한 짝
+- He lost his composure only once.
+  - 그가 침착함을 잃은 것은 단 한 번뿐이었다.
+- He answered the question with complete composure.
+  - 그는 완전히 침착하게 그 질문에 답했다.
+
+**연어**: regain one's composure, lose one's composure, keep one's composure, with composure
+
+**유의어**: poise, calm, self-possession, equanimity
+
+**구분**:
+- compose(가다듬다)에서 왔다 — compose oneself = 마음을 추스르다
+- 겉으로 드러나는 침착함이라 속은 흔들려도 유지할 수 있다는 점이 핵심이다
+- [[dignity-n]]·[[fortitude-n]]과 한 묶음으로 외우면 좋다 — 셋 다 고통 앞의 태도를 말한다
+- equanimity — 더 문어적이고 '어떤 일에도 흔들리지 않는 평정'
+
+---
+
 ### conduct
 
 *명사* · B2 · formal · /ˈkɑːndʌkt/
@@ -1837,6 +2067,33 @@
 
 ---
 
+### contorted
+
+*형용사* · C1 · formal · /kənˈtɔːtɪd/
+
+**(고통·분노로) 일그러진, 뒤틀린**
+
+> twisted out of its normal shape, especially by pain or emotion
+
+- His face was contorted with pain.
+  - 그의 얼굴은 고통으로 일그러져 있었다.
+  - 💡 contorted with + 감정 — 굳어진 짝
+- She lay in a contorted position on the bed.
+  - 그는 침대에 뒤틀린 자세로 누워 있었다.
+- The metal was contorted by the heat.
+  - 금속이 열에 뒤틀려 있었다.
+
+**연어**: contorted with pain, contorted with rage, a contorted face
+
+**유의어**: twisted, distorted, warped
+
+**구분**:
+- con-(강조) + tort(비틀다). torture(고문), distort(왜곡하다)가 한 뿌리
+- twisted — 일반적이고 일상적. contorted는 더 격하고 순간적인 일그러짐이다
+- distorted — 사실·소리·이미지의 왜곡. contorted는 주로 몸·얼굴의 형태
+
+---
+
 ### controversial
 
 *형용사* · B2 · /ˌkɑːntrəˈvɜːrʃl/
@@ -1976,6 +2233,35 @@
 
 ---
 
+### courtship
+
+*명사* · C1 · formal · /ˈkɔːtʃɪp/
+
+**구애 (기간), 연애 시절; (동물의) 구애 행동**
+
+> the period when two people have a romantic relationship before marrying
+
+- They married after a short courtship.
+  - 그들은 짧은 연애 끝에 결혼했다.
+  - 💡 after a short/long courtship — 전형적인 틀
+- He still spoke fondly of their courtship.
+  - 그는 여전히 연애 시절을 애틋하게 이야기했다.
+- The merger followed months of courtship.
+  - 그 합병은 몇 달에 걸친 공들이기 끝에 이뤄졌다.
+  - 💡 비유 용법 — 기업이 상대를 구애하듯 공들이는 것
+
+**연어**: a long courtship, courtship ritual, courtship display
+
+**유의어**: wooing, romance, dating
+
+**구분**:
+- court(구애하다)에서 왔다. 왕의 궁정(court)에서 예를 갖춰 다가가던 데서 나온 말
+- 옛스럽고 격식 있다. 요즘 일상 대화에서는 dating을 쓴다
+- 동물 행동학에서 courtship display(구애 행동)로도 자주 쓴다
+- 기업 인수·영입 기사에서 비유로 자주 등장한다
+
+---
+
 ### crave
 
 *동사* · B2 · /kreɪv/
@@ -2054,6 +2340,36 @@
 **구분**:
 - cut off — from 없이 쓰면 '말을 끊다/전화가 끊기다' (He cut me off mid-sentence.)
 - cut out — 잘라내다/그만두다
+
+---
+
+### decay
+
+*명사* · B2 · /dɪˈkeɪ/
+
+**쇠퇴, 부패, 썩음; 쇠퇴하다, 썩다**
+
+> the process of gradually being destroyed or becoming weaker
+
+- He watched the slow decay of his own muscles.
+  - 그는 자기 근육이 서서히 쇠퇴하는 것을 지켜봤다.
+  - 💡 the slow decay of ~ — 서서히 무너지는 과정
+- Sugar causes tooth decay.
+  - 설탕은 충치를 유발한다.
+  - 💡 tooth decay = 충치. 굳어진 용어
+- The fruit had begun to decay.
+  - 과일이 썩기 시작했다.
+  - 💡 동사로도 같은 형태로 쓴다
+
+**연어**: tooth decay, urban decay, fall into decay, radioactive decay
+
+**유의어**: decline, deterioration, rot, decomposition
+
+**구분**:
+- 급격한 붕괴가 아니라 서서히 무너지는 과정이다. 무너져 내리는 것은 collapse
+- urban decay = 도심 쇠락. 도시·제도에도 쓴다
+- rot — 더 일상적이고 물리적인 '썩음'. decay는 추상적 쇠퇴에도 쓸 수 있어 폭이 넓다
+- [[insidious-adj]]와 짝 — 둘 다 '서서히'가 핵심이다
 
 ---
 
@@ -2303,6 +2619,36 @@
 
 ---
 
+### demand
+
+*명사* · B2 · /dɪˈmɑːnd/
+
+**요구; (상품에 대한) 수요**
+
+> a strong request; the desire of customers for a product
+
+- Skilled nurses are in high demand.
+  - 숙련된 간호사는 수요가 많다.
+  - 💡 in high demand = 수요가 많은. 구인·시장 이야기에 자주 나온다
+- It comes down to supply and demand.
+  - 결국 수요와 공급의 문제다.
+  - 💡 supply and demand — 순서가 고정된 짝
+- They refused to meet his demands.
+  - 그들은 그의 요구를 들어주기를 거부했다.
+  - 💡 meet demands = 요구를 충족하다
+
+**연어**: in high demand, supply and demand, meet a demand, on demand
+
+**유의어**: requirement, need, call for
+
+**구분**:
+- [[demands-of-phr]] — 복수로 'the demands of the job'이면 '그 일에 따르는 부담'이라는 별도 뜻이 된다
+- on demand = 요청하는 즉시(video on demand). 자주 쓰는 형태
+- request — 정중한 요청. demand는 거절하기 어렵게 들이미는 요구라 훨씬 강하다
+- 형용사 demanding = 요구가 많은, 힘든(a demanding job)
+
+---
+
 ### demands of
 
 *구문* · B2 · /dɪˈmændz əv/
@@ -2355,6 +2701,36 @@
 - 사물에 쓰면 조롱이나 아쉬움이 섞이기 쉽다 — the demise of the office necktie
 - 동사로도 쓰이지만(법률상 양도하다) 현대 영어에서는 명사로만 만난다고 봐도 된다
 - 발음 주의 — /dɪˈmaɪz/로 뒤 음절에 강세, -mise는 '마이즈'
+
+---
+
+### despite
+
+*구문* · B2 · /dɪˈspaɪt/
+
+**~에도 불구하고**
+
+> without being affected by something
+
+- Despite the pain, he kept teaching.
+  - 고통에도 불구하고 그는 계속 가르쳤다.
+  - 💡 뒤에 명사가 온다
+- She smiled despite herself.
+  - 그는 자기도 모르게 미소 지었다.
+  - 💡 despite oneself = 그럴 생각이 없었는데도
+- Despite being exhausted, he stayed up.
+  - 기진맥진했는데도 그는 깨어 있었다.
+  - 💡 동명사(-ing)는 가능하다. 절은 불가
+
+**연어**: despite the fact that, despite everything, despite oneself
+
+**유의어**: in spite of, notwithstanding, for all
+
+**구분**:
+- despite of ✗ — in spite of와 섞여 생기는 대표적 실수다. despite는 of 없이 바로 명사
+- 뒤에 절(주어+동사)을 쓸 수 없다. despite he was sick ✗ → although he was sick ○
+- 굳이 절을 쓰려면 despite the fact that + 절로 늘린다. 다만 장황해서 although가 낫다
+- in spite of와 뜻은 같고 despite가 한 단어라 더 간결하다
 
 ---
 
@@ -2526,6 +2902,36 @@
 - an act of God — 보험·계약서의 법률 용어로 천재지변을 가리킨다. divine intervention은 구원의 뉘앙스라 방향이 반대다
 - 일상 대화에서는 대개 농담이다. 진지한 종교적 발언으로 오해되지 않게 문맥을 살필 것
 - 동사 intervene(개입하다) — intervene in a dispute
+
+---
+
+### dread
+
+*동사* · B2 · /dred/
+
+**몹시 두려워하다, 지레 겁내다; (명사) 두려움**
+
+> to feel very worried about something that is going to happen
+
+- He dreaded the nights most of all.
+  - 그는 무엇보다 밤이 두려웠다.
+  - 💡 아직 오지 않은 일에 대한 두려움이 핵심이다
+- I dread to think what would have happened.
+  - 무슨 일이 벌어졌을지 생각하기도 싫다.
+  - 💡 dread to think — 굳어진 표현
+- A sense of dread settled over the room.
+  - 불길한 예감이 방 안에 내려앉았다.
+  - 💡 명사 용법 — a sense of dread
+
+**연어**: dread the thought, a sense of dread, dread to think, filled with dread
+
+**유의어**: fear, be terrified of, shrink from
+
+**구분**:
+- fear — 눈앞의 위험에 대한 두려움. dread는 아직 오지 않은 일을 미리 무거워하는 쪽이라 시간 축이 다르다
+- 형용사 dreadful = 끔찍한. dreadfully는 구어에서 '몹시'라는 강조로도 쓴다
+- 뒤에 -ing나 to부정사 둘 다 올 수 있다 — dread going / dread to think
+- [[flinch-v]]·[[fortitude-n]]과 같은 자리에서 만난다
 
 ---
 
@@ -2892,6 +3298,65 @@
 
 ---
 
+### figure
+
+*동사* · B2 · informal · /ˈfɪɡə/
+
+**~라고 생각하다, 짐작하다 (구어); 계산하다**
+
+> to think or decide that something is true, especially informally
+
+- ...which I figured was my natural fate.
+  - 나는 그게 내 당연한 운명이라고 생각했다.
+  - 💡 figure (that) + 절. think보다 가볍다
+- I figured you'd be hungry, so I brought food.
+  - 네가 배고플 것 같아서 먹을 걸 가져왔어.
+  - 💡 미국 구어에서 아주 흔하다
+- He never called back. Go figure.
+  - 그는 끝내 다시 전화하지 않았다. 참 알다가도 모르겠다.
+  - 💡 Go figure. = 이해가 안 된다는 감탄
+
+**연어**: I figured that, figure out, go figure, that figures
+
+**유의어**: reckon, suppose, assume, guess
+
+**구분**:
+- figure out(알아내다)과 다르다 — figure는 '짐작하다', figure out은 '풀어서 알아내다'
+- That figures. = 그럴 줄 알았다(당연하다는 반응)
+- [[assume-v]]와 비교 — assume이 더 격식 있고 근거 없는 넘겨짚음을 가리킨다. figure는 가벼운 판단
+- 명사 figure는 숫자·인물·체형 등 뜻이 여럿이다
+
+---
+
+### flesh
+
+*명사* · B2 · /fleʃ/
+
+**살, 살점; 육체, 몸**
+
+> the soft part of the body between the skin and bones; the physical body
+
+- The flesh had melted from his arms.
+  - 그의 팔에서 살이 빠져 있었다.
+  - 💡 병으로 야위는 장면의 전형적인 묘사
+- I finally met her in the flesh.
+  - 나는 마침내 그를 실물로 만났다.
+  - 💡 in the flesh = 사진·화면이 아니라 직접
+- He's my own flesh and blood.
+  - 그는 내 피붙이다.
+  - 💡 flesh and blood = 혈육
+
+**연어**: in the flesh, flesh and blood, flesh wound, put flesh on the bones
+
+**유의어**: meat, tissue, body
+
+**구분**:
+- meat — 먹는 고기. flesh는 살아 있는 몸의 살이라 먹는 맥락에서는 쓰지 않는다
+- put flesh on the bones — 뼈대에 살을 붙이다, 즉 계획을 구체화하다. 회의에서 유용하다
+- 형용사 fleshy(살집 있는)와 flesh-colored(살색의)
+
+---
+
 ### flinch
 
 *동사* · C1 · /flɪntʃ/
@@ -3119,6 +3584,36 @@
 
 ---
 
+### get involved
+
+*구문* · B1 · /ɡet ɪnˈvɒlvd/
+
+**참여하다, 관여하다; (일·관계에) 엮이다**
+
+> to take part in something; to become connected with someone or something
+
+- Don't assume that it's too late to get involved.
+  - 참여하기에 너무 늦었다고 단정하지 마라.
+  - 💡 [[assume-v]]와 함께 쓰인 문장
+- She got involved in a local charity.
+  - 그는 지역 자선단체 일에 참여하게 되었다.
+  - 💡 get involved in + 활동
+- I don't want to get involved.
+  - 나는 엮이고 싶지 않다.
+  - 💡 단독으로 쓰면 '괜히 끼어들기 싫다'는 뜻이 된다
+
+**연어**: get involved in, get involved with, actively involved, don't want to get involved
+
+**유의어**: take part in, participate, engage
+
+**구분**:
+- in과 with가 갈린다 — 활동에는 in, 사람·조직에는 with를 주로 쓴다
+- 사람에게 get involved with를 쓰면 '연애하다'로 읽히는 일이 많다(She got involved with a coworker)
+- participate — 격식체. get involved는 '발을 들이다'에 가까워 더 폭넓다
+- 부정문에서는 대체로 '휘말리기 싫다'는 회피의 뉘앙스다
+
+---
+
 ### get rid of
 
 *구문* · B1 · /ɡet ˈrɪd əv/
@@ -3224,6 +3719,35 @@
 **구분**:
 - cover up — 아예 감추는 은폐. gloss over는 언급은 하되 가볍게 다룸
 - downplay — 중요성을 축소. gloss over는 '매끄럽게 넘어감'에 초점
+
+---
+
+### go easy on
+
+*구동사* · B2 · informal · /ɡəʊ ˈiːzi ɒn/
+
+**살살 다루다, 봐주다; (양을) 적당히 하다**
+
+> to treat someone less harshly; to use less of something
+
+- Go easy on him, he's had a rough week.
+  - 그를 좀 봐줘. 힘든 한 주였어.
+  - 💡 사람 목적어 — 너무 몰아붙이지 말라는 부탁
+- Go easy on the salt.
+  - 소금은 적당히 넣어.
+  - 💡 사물 목적어 — 양을 줄이라는 뜻
+- The judge went easy on the first-time offender.
+  - 판사는 초범에게 관대한 판결을 내렸다.
+
+**연어**: go easy on someone, go easy on the salt, take it easy
+
+**유의어**: be lenient with, cut some slack, ease up on
+
+**구분**:
+- take it easy — '쉬엄쉬엄해/진정해'로 대상이 자기 자신이다. go easy on은 남이나 물건에 쓴다
+- cut someone some slack — 거의 같은 뜻의 구어. 이미 등록된 [[slack-off-phrasal_verb]]의 구분 메모와 이어진다
+- ease up on도 같은 뜻으로 바꿔 쓸 수 있다
+- 구어체라 공식 문서에는 be lenient with를 쓴다
 
 ---
 
@@ -3474,6 +3998,34 @@
 - muggy — 더 구어적이고 불쾌감이 강하다. humid는 중립적 기술
 - damp — 물기가 밴 표면·공간(a damp towel). humid는 공기에만 쓴다
 - humidifier(가습기)와 dehumidifier(제습기)를 함께 외워두면 좋다
+
+---
+
+### humility
+
+*명사* · C1 · formal · /hjuːˈmɪləti/
+
+**겸손, 겸허함**
+
+> the quality of not thinking you are better than other people
+
+- He spoke with genuine humility.
+  - 그는 진심 어린 겸손으로 말했다.
+  - 💡 with humility — 가장 흔한 형태
+- Illness had taught him humility.
+  - 병은 그에게 겸손을 가르쳤다.
+- It takes humility to ask for help.
+  - 도움을 청하는 데에도 겸손이 필요하다.
+
+**연어**: with humility, a sense of humility, learn humility
+
+**유의어**: modesty, humbleness
+
+**구분**:
+- humiliation(굴욕)과 뿌리는 같지만 방향이 정반대다 — humility는 스스로 낮추는 미덕, humiliation은 남에게 깎이는 수치
+- 형용사는 humble. humble oneself = 자신을 낮추다
+- modesty — 자기 성취를 내세우지 않는 태도(겸양). humility는 더 근본적인 자기 인식에 가깝다
+- 라틴어 humus(흙)에서 왔다. human과 한 뿌리로 '땅에 발 붙인 존재'라는 그림
 
 ---
 
@@ -3728,6 +4280,35 @@
 
 ---
 
+### induce
+
+*동사* · C1 · formal · /ɪnˈdjuːs/
+
+**유발하다, 초래하다; 설득해 ~하게 하다**
+
+> to cause something to happen; to persuade someone to do something
+
+- The drug induced a deep sleep.
+  - 그 약이 깊은 잠을 유도했다.
+- It was a stress-induced illness.
+  - 그것은 스트레스로 생긴 병이었다.
+  - 💡 -induced 합성어가 특히 유용하다 — drug-induced, stress-induced
+- Nothing could induce him to stay.
+  - 무엇으로도 그를 머물게 설득할 수 없었다.
+  - 💡 induce someone to do — 설득의 뜻
+
+**연어**: drug-induced, stress-induced, induce labor, induce someone to do
+
+**유의어**: cause, bring about, prompt, persuade
+
+**구분**:
+- 명사가 둘이다 — induction(유도, 귀납, 취임) / inducement(유인책)
+- cause보다 격식 있고 과학·의학 문서에 어울린다
+- deduce(추론하다)와 헷갈리기 쉽다 — in-(안으로 이끌다) vs de-(끌어내다)
+- induce labor = 분만을 유도하다. 의료 현장의 굳은 표현
+
+---
+
 ### indulge in
 
 *구문* · C1 · /ɪnˈdʌldʒ ɪn/
@@ -3873,6 +4454,34 @@
 
 ---
 
+### insatiable
+
+*형용사* · C1 · formal · /ɪnˈseɪʃəbl/
+
+**만족할 줄 모르는, 채워지지 않는**
+
+> always wanting more and never satisfied
+
+- He had an insatiable appetite for news.
+  - 그는 뉴스에 대한 끝없는 욕구가 있었다.
+  - 💡 an insatiable appetite for ~ — 가장 흔한 틀
+- Her curiosity was insatiable.
+  - 그의 호기심은 채워지는 법이 없었다.
+- The market's demand for chips seems insatiable.
+  - 칩에 대한 시장의 수요는 끝이 없어 보인다.
+
+**연어**: insatiable appetite, insatiable curiosity, insatiable demand
+
+**유의어**: unquenchable, voracious, greedy
+
+**구분**:
+- in-(부정) + satiable(채울 수 있는). satisfy, satiate와 한 뿌리다
+- 발음 주의 — /ɪnˈseɪʃəbl/로 '세이셔블'이다. '인사티어블'이 아니다
+- voracious — 게걸스럽게 많이 먹는/읽는(a voracious reader). insatiable은 '아무리 줘도 안 찬다'는 쪽
+- [[crave-v]]와 짝 — insatiable craving으로 붙여 쓸 수 있다
+
+---
+
 ### insecurity
 
 *명사* · B2 · /ˌɪnsɪˈkjʊərəti/
@@ -3895,6 +4504,34 @@
 **구분**:
 - anxiety — 대상이 막연한 불안·걱정. insecurity는 '자기 자신'을 향한 불안
 - insecure(형) — 자신 없는; 안전하지 않은. 명사형이 insecurity
+
+---
+
+### insidious
+
+*형용사* · C1 · formal · /ɪnˈsɪdiəs/
+
+**서서히 퍼져 해로운, 모르는 사이 번지는; 음흉한**
+
+> developing gradually without being noticed, and causing serious harm
+
+- ALS is an insidious disease.
+  - 루게릭병은 모르는 사이 진행되는 병이다.
+  - 💡 an insidious disease — 굳어진 짝. 증상이 드러날 때는 이미 늦다
+- The bias is insidious precisely because it feels normal.
+  - 그 편견은 정상처럼 느껴지기 때문에 더 교묘하게 해롭다.
+- It began as an insidious doubt.
+  - 그것은 슬그머니 스며든 의심으로 시작되었다.
+
+**연어**: insidious disease, insidious effect, insidiously
+
+**유의어**: stealthy, creeping, subtle, pernicious
+
+**구분**:
+- 핵심은 '눈치채지 못하는 사이에'다. 단순히 나쁜 게 아니라 조용히 스며들어 위험하다는 뜻
+- 라틴어 insidiae(매복)에서 왔다. 숨어서 기다린다는 그림
+- pernicious — 거의 같은 뜻이고 '치명적으로 해롭다'는 결과에 더 무게가 있다
+- [[decay-n]]·[[wither-v]]와 같은 맥락 — 서서히 무너지는 과정의 어휘들
 
 ---
 
@@ -5410,6 +6047,34 @@
 
 ---
 
+### profound
+
+*형용사* · C1 · formal · /prəˈfaʊnd/
+
+**심오한, 깊은; (영향이) 크고 깊은**
+
+> very great or intense; showing deep insight
+
+- It had a profound effect on me.
+  - 그것은 내게 깊은 영향을 주었다.
+  - 💡 profound effect/impact — 가장 흔한 짝
+- She asked a profound question about dying.
+  - 그는 죽음에 대해 심오한 질문을 던졌다.
+- There was a profound silence afterward.
+  - 그 뒤에는 깊은 침묵이 흘렀다.
+  - 💡 침묵·변화·슬픔처럼 추상적인 것의 '깊이'에 쓴다
+
+**연어**: a profound effect, profound impact, profound change, profound silence
+
+**유의어**: deep, far-reaching, weighty, intense
+
+**구분**:
+- deep — 물리적 깊이와 추상 둘 다. profound는 추상 전용이고 훨씬 격식 있다. 깊은 물에 profound는 쓰지 않는다
+- 부사 profoundly = 매우, 깊이(profoundly grateful)
+- 명사는 profundity. 흔하지 않지만 서평에서 만난다
+
+---
+
 ### profundity
 
 *명사* · C2 · formal · /prəˈfʌndəti/
@@ -6058,6 +6723,33 @@
 
 ---
 
+### rousing
+
+*형용사* · C1 · /ˈraʊzɪŋ/
+
+**사기를 북돋우는, 열렬한, 가슴을 뛰게 하는**
+
+> exciting and making people feel enthusiastic
+
+- He gave a rousing speech to the graduates.
+  - 그는 졸업생들에게 가슴을 뛰게 하는 연설을 했다.
+  - 💡 a rousing speech — 가장 흔한 짝
+- She got a rousing welcome from the crowd.
+  - 그는 군중에게서 열렬한 환영을 받았다.
+- The film ends on a rousing note.
+  - 그 영화는 가슴 벅찬 여운으로 끝난다.
+
+**연어**: a rousing speech, a rousing welcome, a rousing chorus
+
+**유의어**: stirring, inspiring, electrifying
+
+**구분**:
+- 동사 rouse = 깨우다, 분발시키다(rouse someone from sleep)
+- arousing은 성적 뉘앙스로 읽히기 쉬우니 연설·환영에는 rousing을 쓴다. 한 글자 차이로 곤란해진다
+- stirring — 거의 같은 뜻이고 조금 더 잔잔하게 감동적이다
+
+---
+
 ### ruthlessly
 
 *부사* · C1 · /ˈruːθləsli/
@@ -6422,6 +7114,36 @@
 
 ---
 
+### shrink
+
+*동사* · B2 · /ʃrɪŋk/
+
+**줄어들다, 쪼그라들다; 움츠러들다**
+
+> to become smaller; to move back because of fear
+
+- He had shrunk down to almost nothing.
+  - 그는 거의 아무것도 아닌 크기로 쪼그라들어 있었다.
+  - 💡 shrunk down — 병으로 야윈 몸을 말할 때
+- The sweater shrank in the wash.
+  - 스웨터가 세탁하면서 줄었다.
+  - 💡 과거형 shrank
+- She shrank from his touch.
+  - 그는 그의 손길에 몸을 움츠렸다.
+  - 💡 shrink from = 꺼려 물러서다. shrink from responsibility(책임을 회피하다)
+
+**연어**: shrink in the wash, shrink from, shrinking market, shrunk down
+
+**유의어**: contract, diminish, dwindle, recoil
+
+**구분**:
+- 활용이 불규칙이다 — shrink / shrank / shrunk. shrunken은 형용사로 따로 쓴다(a shrunken face)
+- [[wither-v]]는 생명력이 마르는 쪽, shrink는 크기가 주는 쪽
+- [[flinch-v]] — 순간 움찔. shrink from은 꺼려서 뒤로 물러나 계속 피하는 쪽
+- 구어로 shrink는 '정신과 의사'라는 뜻도 있다
+
+---
+
 ### sin
 
 *명사* · B1 · /sɪn/
@@ -6552,6 +7274,63 @@
 - comfort — 가장 일상적. solace는 문어적이고 슬픔의 맥락이 전제된다
 - consolation — 실패·상실에 대한 위로 (a consolation prize)
 - 동사로도 쓰이지만 드물다. 실제로는 명사 용법이 거의 전부
+
+---
+
+### somehow
+
+*부사* · B1 · /ˈsʌmhaʊ/
+
+**어찌 된 영문인지, 왠지; 어떻게든**
+
+> in a way that is not known or explained; by some means
+
+- ...a teacher who somehow loved me.
+  - 어찌 된 영문인지 나를 사랑해준 선생님.
+  - 💡 용법 1 — 이유를 모르겠다는 겸연쩍음이 담긴다
+- Somehow I knew he would say that.
+  - 왠지 그가 그렇게 말할 줄 알았다.
+  - 💡 문두에 놓아 '설명은 못 하겠지만'을 얹는다
+- We'll manage somehow.
+  - 어떻게든 해낼 거야.
+  - 💡 용법 2 — 방법은 모르지만 해내겠다. 문미에 온다
+
+**연어**: somehow or other, somehow manage to, but somehow
+
+**유의어**: for some reason, in some way, one way or another
+
+**구분**:
+- 두 뜻이 자리로 갈린다 — 문두면 '왠지', 문미면 '어떻게든'인 경우가 많다
+- somewhat(다소, 약간)과 철자가 비슷하지만 전혀 다르다. somewhat tired = 좀 피곤한
+- somehow or other = 어떻게든 해서. 구어에서 흔하다
+
+---
+
+### sour
+
+*동사* · C1 · /ˈsaʊə/
+
+**(관계·분위기가) 틀어지다, 상하다; 시어지다**
+
+> to become unpleasant or spoiled, especially of a relationship
+
+- Their friendship soured after the money.
+  - 돈 문제 이후 그들의 우정은 틀어졌다.
+  - 💡 관계가 주어일 때 가장 흔하다
+- The deal soured at the last minute.
+  - 그 거래는 막판에 틀어졌다.
+- The milk had soured in the heat.
+  - 더위에 우유가 상해 있었다.
+  - 💡 원래의 물리적 뜻 — 이 그림이 비유의 뿌리다
+
+**연어**: relations soured, a soured relationship, turn sour, go sour
+
+**유의어**: deteriorate, turn bad, break down
+
+**구분**:
+- 형용사 sour는 '신맛의'다(sour cream). 동사로 쓰면 관계가 상한다는 비유가 된다
+- turn sour / go sour도 같은 뜻으로 아주 흔하다 — The deal went sour
+- sour grapes = 지고 나서 깎아내리는 태도(이솝 우화). 뜻이 전혀 다르니 주의
 
 ---
 
@@ -6715,6 +7494,36 @@
 
 ---
 
+### strut
+
+*동사* · C1 · /strʌt/
+
+**으스대며 걷다, 뽐내며 활보하다**
+
+> to walk in a proud, confident way, with the chest out
+
+- He strutted across the floor like a young man.
+  - 그는 젊은이처럼 으스대며 바닥을 가로질렀다.
+  - 💡 가슴을 펴고 과시하며 걷는 그림
+- The rooster strutted around the yard.
+  - 수탉이 마당을 뽐내듯 돌아다녔다.
+  - 💡 원래 새의 걸음걸이에서 왔다
+- This is his chance to strut his stuff.
+  - 이건 그가 실력을 뽐낼 기회다.
+  - 💡 strut one's stuff = 솜씨를 과시하다
+
+**연어**: strut around, strut across, strut one's stuff
+
+**유의어**: swagger, parade, prance
+
+**구분**:
+- 대개 살짝 비꼬는 맛이 있다 — 자신감이 지나쳐 우스워 보인다는 시선
+- swagger — 거의 같은 뜻이고 더 거칠고 건방진 느낌
+- 활용은 strut - strutted - strutted로 t를 겹친다
+- 명사 strut에는 '지지대'라는 전혀 다른 뜻도 있다
+
+---
+
 ### stumble
 
 *동사* · B2 · /ˈstʌmbl/
@@ -6851,6 +7660,63 @@
 - shallow — 사람의 성격이 얕다는 인신공격에 가까움. superficial은 다룸의 깊이를 지적
 - superficial wound처럼 물리적 '표면의'라는 중립적 뜻도 있음
 - profound / profundity — 정반대 말. 함께 외울 것
+
+---
+
+### sword
+
+*명사* · B1 · /sɔːd/
+
+**검, 칼**
+
+> a weapon with a long metal blade
+
+- He drew his sword and stepped forward.
+  - 그는 검을 뽑아 들고 앞으로 나섰다.
+  - 💡 draw a sword = 검을 뽑다
+- Technology is a double-edged sword.
+  - 기술은 양날의 검이다.
+  - 💡 a double-edged sword — 실제 글에서는 이 비유가 더 자주 나온다
+- The pen is mightier than the sword.
+  - 펜은 칼보다 강하다.
+  - 💡 유명한 속담
+
+**연어**: draw a sword, a double-edged sword, cross swords with
+
+**유의어**: blade, saber
+
+**구분**:
+- 발음 주의 — w를 읽지 않는다. /sɔːd/로 '소드'다. answer, two처럼 묵음 w의 대표 사례
+- cross swords with someone = ~와 맞붙다, 설전을 벌이다
+- knife(칼, 부엌칼) / blade(날) / saber(기병도)와 구분
+
+---
+
+### synonymous
+
+*형용사* · C1 · formal · /sɪˈnɒnɪməs/
+
+**동의어의; ~와 마찬가지인, ~ 하면 곧 떠오르는**
+
+> having the same meaning; so closely associated as to be the same thing
+
+- His name became synonymous with courage.
+  - 그의 이름은 용기와 동의어가 되었다.
+  - 💡 전치사는 with. 비유 용법이 실제로는 더 흔하다
+- For many, the brand is synonymous with quality.
+  - 많은 이에게 그 브랜드는 곧 품질을 뜻한다.
+- "Big" and "large" are nearly synonymous.
+  - big과 large는 거의 동의어다.
+  - 💡 원래의 언어학적 용법
+
+**연어**: synonymous with, virtually synonymous, become synonymous with
+
+**유의어**: equivalent, interchangeable, identical
+
+**구분**:
+- 전치사는 반드시 with다. synonymous to ✗
+- 명사 synonym(동의어) / 반대는 antonym(반의어)
+- [[connotation-n]]과 함께 보면 좋다 — 동의어라도 connotation이 달라 바꿔 쓸 수 없는 경우가 많다
 
 ---
 
@@ -7187,6 +8053,35 @@
 
 ---
 
+### to one's surprise
+
+*구문* · B2 · /tə wʌnz səˈpraɪz/
+
+**~가 놀랍게도**
+
+> used to say that something was unexpected
+
+- To their own surprise, they were laughing.
+  - 그들 스스로도 놀랍게도, 그들은 웃고 있었다.
+  - 💡 own을 넣으면 '자기도 몰랐다'가 강조된다
+- To my surprise, he agreed at once.
+  - 놀랍게도 그는 바로 동의했다.
+  - 💡 문두 + 쉼표가 기본 자리
+- Much to everyone's surprise, she came back.
+  - 모두가 크게 놀랍게도, 그는 돌아왔다.
+  - 💡 much를 앞에 붙여 강화한다
+
+**연어**: to my surprise, much to my surprise, to one's own surprise
+
+**유의어**: surprisingly, unexpectedly
+
+**구분**:
+- 같은 틀로 감정어를 갈아 끼운다 — to my relief(다행히도), to my dismay(당황스럽게도), to my delight(기쁘게도)
+- surprisingly보다 '누가 놀랐는지'를 밝힐 수 있어 서술에 유리하다
+- 소유격 자리를 주어에 맞춘다 — to his surprise, to their surprise
+
+---
+
 ### toe the line
 
 *관용구* · C1 · /toʊ ðə laɪn/
@@ -7495,6 +8390,35 @@
 
 ---
 
+### unfold
+
+*동사* · B2 · /ʌnˈfəʊld/
+
+**(사건이) 전개되다, 펼쳐지다; (접힌 것을) 펴다**
+
+> to develop or happen; to open something that was folded
+
+- He sensed the story about to unfold.
+  - 그는 곧 펼쳐질 이야기를 예감했다.
+  - 💡 be about to + 동사원형 = 막 ~하려는 참
+- We watched the events unfold on live television.
+  - 우리는 그 사건이 생중계로 전개되는 것을 지켜봤다.
+  - 💡 watch ~ unfold가 굳어진 짝
+- She unfolded the letter and read it twice.
+  - 그는 편지를 펴서 두 번 읽었다.
+  - 💡 원래의 물리적 뜻
+
+**연어**: events unfold, watch it unfold, as the story unfolds, about to unfold
+
+**유의어**: develop, emerge, play out, progress
+
+**구분**:
+- un-(반대) + fold(접다). 접힌 종이를 펴듯 사건이 드러난다는 비유
+- 자동사로 쓸 때는 목적어가 없다 — The plan unfolded ○ / unfolded the plan은 '펼쳐 보였다'는 다른 뜻
+- play out — 거의 같은 뜻의 구어체. unfold가 더 문어적이다
+
+---
+
 ### unless
 
 *구문* · B1 · /ənˈles/
@@ -7523,6 +8447,61 @@
 - if not과 논리는 같지만, unless는 '그 경우만이 유일한 예외'라는 어감이 더 강하다
 - No one is P unless Q 구조에서 Q는 P의 필요조건이다 — '속아야만 짓밟힌다'
 - pos 체계에 접속사 항목이 없어 phr로 등록
+
+---
+
+### urinate
+
+*동사* · C1 · formal · /ˈjʊərɪneɪt/
+
+**소변을 보다**
+
+> to pass urine from the body
+
+- He could no longer urinate without help.
+  - 그는 도움 없이는 더 이상 소변을 볼 수 없었다.
+  - 💡 의학적·격식체 표현
+- The doctor asked how often he urinated at night.
+  - 의사는 그가 밤에 얼마나 자주 소변을 보는지 물었다.
+  - 💡 문진에서 실제로 쓰는 문장
+
+**연어**: urinate frequently, painful urination
+
+**유의어**: pee, pass water, use the bathroom
+
+**구분**:
+- 격식 차이 — urinate(의학·문서) > pass water(완곡) > use the bathroom(일상 완곡) > pee(구어)
+- 명사는 urination. urine /ˈjʊərɪn/은 '소변' 자체
+- 일상 대화에서 urinate를 쓰면 지나치게 딱딱하게 들린다. 병원 서류에서 만나는 단어다
+
+---
+
+### usher
+
+*동사* · C1 · formal · /ˈʌʃə/
+
+**안내하다, 인도해 들이다; (새 시대를) 열다**
+
+> to lead someone politely to a place; to mark the start of something new
+
+- We were ushered into a small room.
+  - 우리는 작은 방으로 안내받아 들어갔다.
+  - 💡 be ushered into — 수동태가 기본이다
+- A nurse ushered him toward the elevator.
+  - 간호사가 그를 엘리베이터 쪽으로 안내했다.
+- The invention ushered in a new era.
+  - 그 발명이 새로운 시대를 열었다.
+  - 💡 usher in ~ = ~의 시작을 알리다. 비유 용법도 매우 흔하다
+
+**연어**: be ushered into, usher in a new era, usher someone out
+
+**유의어**: escort, show in, herald, bring about
+
+**구분**:
+- 명사 usher는 극장·결혼식의 안내원이다
+- usher in — 시대·변화의 시작을 알리는 비유. 기사 제목에 자주 쓴다
+- escort — 보호·경호의 뉘앙스. usher는 예를 갖춰 자리로 인도하는 쪽
+- 정중한 안내라 병원·관공서·격식 있는 장면에 어울린다
 
 ---
 
@@ -7697,6 +8676,34 @@
 
 ---
 
+### way up
+
+*구문* · B2 · informal · /weɪ ˈʌp/
+
+**저 위쪽에, 훨씬 위로**
+
+> far up; high above
+
+- The cabin was way up in the hills.
+  - 그 오두막은 산속 저 위에 있었다.
+  - 💡 way가 up을 강조해 '한참 위'가 된다
+- He lived way up on the top floor.
+  - 그는 저 꼭대기 층에 살았다.
+- That was way back, before any of this.
+  - 그건 한참 전, 이 모든 일이 있기 전이었다.
+  - 💡 같은 용법 — way back, way too much, way better
+
+**연어**: way up there, way back, way too much, way better
+
+**유의어**: far up, high up
+
+**구분**:
+- 여기서 way는 '길'이 아니라 부사·전치사를 키우는 강조어다 — way too expensive(너무 비싼)
+- 구어체다. 격식 있는 글에서는 far above나 high up을 쓴다
+- all the way up이면 '끝까지 쭉 위로'가 된다
+
+---
+
 ### what (관계대명사)
 
 *구문* · B2
@@ -7860,6 +8867,36 @@
 - nostalgically — 과거에 대한 향수. wistfully는 되찾을 수 없음을 아는 체념이 섞인다
 - longingly — 갈망이 더 강하고 직접적. wistfully는 조용하고 절제되어 있다
 - sadly — 단순한 슬픔. 형용사는 wistful
+
+---
+
+### wither
+
+*동사* · C1 · /ˈwɪðə/
+
+**시들다, 말라 오그라들다; (힘이) 쇠하다**
+
+> to dry up and shrink; to become weaker and fade away
+
+- His legs withered up month by month.
+  - 그의 다리는 달이 갈수록 시들어갔다.
+  - 💡 wither up — up이 붙어 '오그라들다'가 강조된다
+- The flowers withered in the heat.
+  - 꽃들이 더위에 시들었다.
+  - 💡 원래 뜻 — 식물이 마른다
+- Support for the plan withered away.
+  - 그 계획에 대한 지지는 서서히 사그라들었다.
+  - 💡 wither away = 점점 없어지다
+
+**연어**: wither up, wither away, withered hands, a withering look
+
+**유의어**: shrivel, shrink, fade, dwindle
+
+**구분**:
+- 식물이 마르는 그림이 사람 몸·지지·희망으로 옮겨간 비유다
+- a withering look/remark = 상대를 움츠러들게 하는 싸늘한 눈길·말. 자주 쓰이니 같이 외울 것
+- whither(어디로, 고어)와 철자가 비슷하지만 전혀 다르다
+- [[shrink-v]]와 함께 쓰이지만 wither는 생명력이 마르는 쪽, shrink는 크기가 주는 쪽
 
 ---
 

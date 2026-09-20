@@ -1,0 +1,191 @@
+2026-09-21 대화 중 질문 (사용자 단어/문장 목록 — 투병·회고 맥락)
+
+원본 그대로:
+way up
+by the end
+flesh
+profound
+sword
+wither up
+since everyone was going to die, he could be of great value, right?
+shrunk down
+urinate
+to their own surprise, they were
+growing stream of
+synonymous
+rousing
+about to unfold
+strutting
+soured
+contorted
+averting
+insatiable
+demand
+who somehow hoved me
+despite
+absence
+coutship
+buried
+which I figured was my natural fate
+attic
+don't assume that it's too late to get involved.
+ushered into
+goes easy on
+dignity
+composure
+humility
+induced
+insidious
+decay
+dread
+
+표기 메모:
+- coutship → courtship 오타로 판단
+- "who somehow hoved me" → 사용자 확인 결과 "who somehow loved me"가 원문.
+  love는 기초어라 따로 등록하지 않고, 이 구절의 핵심인 somehow(어찌 된 영문인지)를 등록한다.
+- dignity는 이미 등록돼 있어 건너뜀
+- demand는 기존 demands-of-phr(~에 따르는 부담)와 별개로 명사 항목 신규 등록
+
+답변 요지:
+
+way up — 저 위쪽에, 훨씬 위로. way가 전치사·부사를 강조
+  The cabin was way up in the hills.
+  way back(한참 전), way too much(너무 과한)도 같은 용법
+
+by the end — 끝날 무렵에는
+  By the end, he could no longer hold a pen.
+  by는 그때까지 누적된 결과. until(그때까지 계속)과 다르다
+
+flesh /fleʃ/ n — 살, 살점; 육체
+  The flesh had melted from his arms.
+  in the flesh(직접, 실물로), flesh and blood(피붙이)
+
+profound /prəˈfaʊnd/ adj — 심오한; (영향이) 깊고 큰
+  It had a profound effect on me.
+  profound effect/impact/change가 고정 짝. deep보다 격식 있고 추상적
+
+sword /sɔːd/ n — 검. w를 발음하지 않는다(소드)
+  a double-edged sword 양날의 검 — 비유가 더 자주 나온다
+
+wither up — 시들어 오그라들다
+  His legs withered up month by month.
+  식물이 마르는 그림이 사람 몸으로 옮겨온 표현
+
+be of great value — 큰 가치가 있다
+  be of + 추상명사 = 형용사 (= be very valuable)
+  Since everyone was going to die, he could be of great value, right?
+  of use, of interest, of no help도 같은 틀
+
+shrink /ʃrɪŋk/ v — 줄어들다, 쪼그라들다. shrink-shrank-shrunk 불규칙
+  He had shrunk down to almost nothing.
+
+urinate /ˈjʊərɪneɪt/ v — 소변을 보다. 의학·격식체
+  일상은 pee, 완곡하게는 use the bathroom
+
+to one's surprise — ~가 놀랍게도
+  To their own surprise, they were laughing.
+  own을 넣으면 "자기도 몰랐다"가 강조된다. much to my surprise로 강화 가능
+
+a growing stream of — 점점 불어나는 ~의 행렬
+  a growing stream of visitors
+  stream은 끊이지 않고 이어진다는 그림. a stream of letters/questions
+
+synonymous /sɪˈnɒnɪməs/ adj — 동의어의; ~와 마찬가지인
+  His name became synonymous with courage.
+  전치사는 with. 실제로는 "~하면 곧 그것"이라는 비유로 더 많이 쓴다
+
+rousing /ˈraʊzɪŋ/ adj — 사기를 북돋우는, 열렬한
+  a rousing speech / a rousing welcome
+  동사 rouse(깨우다, 분발시키다)에서 왔다
+
+about to unfold — 막 펼쳐지려는
+  He sensed the story about to unfold.
+  unfold = 접힌 것을 펴다 → (사건이) 전개되다
+  be about to + 동사원형 = 막 ~하려는 참
+
+strut /strʌt/ v — 으스대며 걷다
+  He strutted across the floor like a young man.
+  가슴 펴고 과시하며 걷는 그림. 대개 살짝 비꼬는 맛
+
+sour /ˈsaʊə/ v — (관계가) 틀어지다, 상하다
+  Their friendship soured after the money.
+  형용사는 "신맛의". 우유가 상하듯 관계가 상한다는 비유
+
+contorted /kənˈtɔːtɪd/ adj — (고통·분노로) 일그러진
+  His face was contorted with pain.
+  contorted with + 감정. twisted보다 격하고 순간적
+
+avert /əˈvɜːt/ v — (눈을) 돌리다; (위기를) 막다
+  She averted her eyes from the bed. / avert a crisis
+  두 뜻 다 "피해서 다른 데로 돌린다"는 뿌리
+
+insatiable /ɪnˈseɪʃəbl/ adj — 만족할 줄 모르는
+  an insatiable appetite for news
+  in-(부정) + satiate(물리게 하다). satisfy와 한 뿌리
+
+demand /dɪˈmɑːnd/ n — 요구; 수요
+  in high demand / supply and demand / meet a demand
+
+somehow /ˈsʌmhaʊ/ adv — 어찌 된 영문인지, 왠지; 어떻게든
+  ...who somehow loved me — 이유는 모르겠지만 그래도 나를 사랑해준
+  두 뜻이 갈린다: ① 이유를 모르겠다(somehow I knew) ② 방법은 몰라도 해내겠다(we'll manage somehow)
+  somewhat(다소)과 헷갈리지 말 것
+
+despite /dɪˈspaɪt/ prep — ~에도 불구하고
+  뒤에 절이 아니라 명사/동명사가 온다
+  despite the pain ○ / despite he was sick ✗ → although
+  despite of ✗ (in spite of와 섞이는 대표적 실수)
+
+absence /ˈæbsəns/ n — 부재, 없음; 결석
+  In the absence of evidence, we can't act.
+  Absence makes the heart grow fonder. (속담)
+
+courtship /ˈkɔːtʃɪp/ n — 구애(기간), 연애 시절
+  They married after a short courtship.
+  옛스럽고 격식 있다. 기업 인수 전 "공들이기"에도 비유적으로 쓴다
+
+bury /ˈberi/ v — 묻다, 매장하다. 발음이 berry와 같다
+  He was buried beside his mother.
+  bury oneself in work
+
+figure /ˈfɪɡə/ v — ~라고 생각하다, 짐작하다 (구어)
+  Which I figured was my natural fate.
+  think보다 가볍고 미국 구어에서 흔하다. Go figure.
+
+attic /ˈætɪk/ n — 다락방
+  boxes stored in the attic. basement의 반대. 영국은 loft를 더 쓴다
+
+get involved — 참여하다, 관여하다, 엮이다
+  Don't assume that it's too late to get involved.
+  get involved in/with ~. 연애에 쓰면 "사귀다"
+
+usher /ˈʌʃə/ v — 안내하다, 인도하다
+  We were ushered into a small room. (보통 수동태)
+  usher in a new era — 비유 용법도 흔하다
+
+go easy on — 살살 다루다, 봐주다; 적당히 쓰다
+  Go easy on him, he's had a rough week. / go easy on the salt
+
+composure /kəmˈpəʊʒə/ n — 침착함, 평정
+  She regained her composure.
+  lose/keep/regain one's composure. 겉으로 드러나는 침착함
+
+humility /hjuːˈmɪləti/ n — 겸손
+  He spoke with genuine humility.
+  humiliation(굴욕)과 뿌리는 같지만 방향이 정반대
+
+induce /ɪnˈdjuːs/ v — 유발하다, 초래하다; 설득하다
+  drug-induced sleep / stress-induced
+  -induced 형태의 합성어가 특히 유용하다
+
+insidious /ɪnˈsɪdiəs/ adj — 서서히 퍼져 해로운, 음흉한
+  an insidious disease
+  "눈치채지 못한 사이에"가 핵심. 병·습관·편견처럼 조용히 스며드는 것
+
+decay /dɪˈkeɪ/ n, v — 쇠퇴(하다), 부패(하다)
+  the slow decay of his muscles / tooth decay
+  급격한 붕괴가 아니라 서서히 무너지는 과정
+
+dread /dred/ n, v — (앞일에 대한) 두려움, 몹시 꺼리다
+  I dread Mondays.
+  fear는 눈앞의 위험, dread는 아직 오지 않은 일에 대한 무거운 두려움
