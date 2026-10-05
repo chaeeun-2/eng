@@ -1,4 +1,4 @@
-# 단어장 (총 325개)
+# 단어장 (총 355개)
 
 `data/vocab.jsonl`에서 자동 생성. 직접 수정 금지.
 
@@ -518,6 +518,31 @@
 
 ---
 
+### amphetamine
+
+*명사* · C1 · formal · /æmˈfetəmiːn/
+
+**암페타민 (중추신경 흥분제)**
+
+> a drug that stimulates the central nervous system
+
+- He was prescribed amphetamines for narcolepsy.
+  - 그는 기면증 때문에 암페타민을 처방받았다.
+  - 💡 약 종류를 말할 때는 복수형이 흔하다
+- The drug is a powerful amphetamine.
+  - 그 약은 강력한 암페타민 계열이다.
+
+**연어**: amphetamine use, prescription amphetamines
+
+**유의어**: stimulant, speed (slang)
+
+**구분**:
+- 발음 주의 — /æmˈfetəmiːn/으로 fet에 강세가 온다
+- 구어 속어로는 speed라고 한다. 의학 문서에서는 반드시 amphetamine
+- ADHD 치료제(Adderall 등)의 주성분이기도 하고 남용 약물이기도 해서 문맥에 따라 뉘앙스가 갈린다
+
+---
+
 ### annoyance
 
 *명사* · B2 · /əˈnɔɪəns/
@@ -768,6 +793,65 @@
 
 ---
 
+### astonish
+
+*동사* · B2 · /əˈstɒnɪʃ/
+
+**깜짝 놀라게 하다, 경탄하게 하다**
+
+> to surprise someone very much
+
+- His calm astonished everyone in the room.
+  - 그의 침착함은 방 안 모두를 놀라게 했다.
+- I was astonished by how little he complained.
+  - 그가 얼마나 불평을 안 하는지 놀라웠다.
+  - 💡 be astonished by/at — 수동태가 흔하다
+- It never ceases to astonish me.
+  - 그건 볼 때마다 놀랍다.
+  - 💡 never cease to + 동사 — 굳어진 강조 표현
+
+**연어**: be astonished by, astonishing news, astonished to find
+
+**유의어**: amaze, stun, astound, dumbfound
+
+**구분**:
+- -ing는 놀라게 하는 쪽, -ed는 내가 놀란 쪽이다 — astonishing results / I was astonished
+- [[startling-adj]]보다 긍정적인 경탄에 가깝다. startling은 갑작스러워 움찔하는 쪽
+- [[stunned-adj]] — 놀라 말을 잃은 상태. astonish는 감탄이 섞인다
+- amaze와 거의 같고 astonish가 조금 더 격식 있다
+
+---
+
+### at all
+
+*구문* · B1 · /ət ˈɔːl/
+
+**(부정문에서) 전혀, 조금도; (의문·조건문에서) 조금이라도**
+
+> in any way; used to emphasize a negative or a question
+
+- It took no notice at all.
+  - 그것은 전혀 아랑곳하지 않았다.
+  - 💡 부정 강조 — 문미에 붙인다
+- Do you mind at all if I sit here?
+  - 제가 여기 앉아도 조금이라도 불편하신가요?
+  - 💡 의문문에서는 '조금이라도'
+- If you're at all unsure, ask.
+  - 조금이라도 확신이 안 서면 물어봐라.
+  - 💡 조건절에서도 같은 뜻
+
+**연어**: not at all, nothing at all, if at all, anything at all
+
+**유의어**: in the slightest, whatsoever, one bit
+
+**구분**:
+- Not at all. — 감사 인사에 '천만에요'로 답하는 굳은 표현이다
+- whatsoever — 같은 강조인데 더 세다. 명사 바로 뒤에 붙는다(no doubt whatsoever)
+- if at all = '하더라도 겨우'라는 뜻으로 따로 익혀둘 것(rarely, if at all)
+- [[barely-adv]]와 함께 — 부정의 세기를 조절하는 장치들이다
+
+---
+
 ### at face value
 
 *구문* · B2 · /ət feɪs ˈvæljuː/
@@ -875,6 +959,35 @@
 - try — 일상적. attempt는 격식체이며 어려운 일·실패 가능성을 함축한다
 - attempted murder(살인미수)처럼 attempted는 '미수의'라는 법률 표현
 - attempt doing보다 attempt to do가 압도적으로 자연스럽다
+
+---
+
+### attendance
+
+*명사* · B2 · /əˈtendəns/
+
+**출석, 참석; 참석자 수**
+
+> the act of being present at a place or event; the number of people present
+
+- Attendance in his class was never a problem.
+  - 그의 수업에서 출석은 전혀 문제가 되지 않았다.
+- Her attendance has improved this term.
+  - 그는 이번 학기에 출석률이 좋아졌다.
+- Attendance at the funeral was larger than expected.
+  - 장례식 참석자는 예상보다 많았다.
+  - 💡 attendance at + 행사 — 참석자 수를 뜻한다
+
+**연어**: take attendance, attendance record, poor attendance, in attendance
+
+**유의어**: presence, turnout
+
+**구분**:
+- in attendance = (격식) 참석해 있는. A doctor was in attendance처럼 쓴다
+- attendants(안내원·수행원들)와 철자가 비슷하니 주의. attendance는 추상명사다
+- turnout — 행사·선거에 실제로 나온 사람 수. attendance보다 '얼마나 왔나'에 초점이 있다
+- [[presence-n]]·[[absence-n]]과 한 묶음 — 출석/참석은 attendance, 있음 자체는 presence
+- [[enroll-v]]과 짝 — 등록은 enroll, 실제로 나오는 것은 attendance
 
 ---
 
@@ -2067,6 +2180,35 @@
 
 ---
 
+### contagious
+
+*형용사* · B2 · /kənˈteɪdʒəs/
+
+**전염성의, 옮기 쉬운; (감정이) 전파되는**
+
+> able to spread from one person to another, of a disease or a feeling
+
+- His laugh was contagious.
+  - 그의 웃음은 전염성이 있었다.
+  - 💡 감정·분위기에 쓰는 비유 용법이 더 흔하다
+- The illness is contagious in its early stages.
+  - 그 병은 초기에 전염성이 있다.
+  - 💡 원래의 의학적 용법
+- Enthusiasm is contagious.
+  - 열정은 전염된다.
+
+**연어**: highly contagious, contagious laughter, contagious enthusiasm
+
+**유의어**: infectious, catching, transmissible
+
+**구분**:
+- infectious와 거의 바꿔 쓰지만 의학적으로는 다르다 — contagious는 '접촉으로' 옮는 것, infectious는 세균·바이러스로 생기는 병 전반
+- 감정에는 둘 다 쓴다(infectious laughter도 자연스럽다)
+- 동사 contaminate(오염시키다)와 뿌리가 같다 — con-(함께) + tangere(닿다)
+- 사람에게 쓰면 '그 사람이 전염 상태'라는 뜻이다(He's still contagious)
+
+---
+
 ### contorted
 
 *형용사* · C1 · formal · /kənˈtɔːtɪd/
@@ -2542,6 +2684,35 @@
 
 ---
 
+### deferment
+
+*명사* · C1 · formal · /dɪˈfɜːmənt/
+
+**(징집·납부의) 연기, 유예**
+
+> an official postponement, especially of military service or a payment
+
+- A student deferment kept him out of the war.
+  - 학생 징집 유예 덕에 그는 전쟁에 나가지 않았다.
+  - 💡 베트남전 시기 미국의 student deferment가 대표적 용례다
+- He applied for a deferment of his loan payments.
+  - 그는 대출 상환 유예를 신청했다.
+  - 💡 금융 맥락에서도 흔하다
+- The committee granted a one-year deferment.
+  - 위원회는 1년 유예를 승인했다.
+
+**연어**: student deferment, grant a deferment, loan deferment, apply for a deferment
+
+**유의어**: postponement, delay, extension, moratorium
+
+**구분**:
+- 동사는 defer(연기하다, 미루다). defer to someone은 '~의 뜻을 따르다'로 뜻이 전혀 다르다
+- deferral도 같은 뜻으로 쓰인다. 미국 금융 문서에서는 deferment가, 회계에서는 deferral이 흔하다
+- deference(경의, 존중)와 철자가 비슷하지만 다른 단어다
+- postponement — 일반적인 연기. deferment는 공식 절차를 밟아 승인받는 유예다
+
+---
+
 ### deification
 
 *명사* · C2 · formal · /ˌdiːɪfɪˈkeɪʃn/
@@ -2935,6 +3106,61 @@
 
 ---
 
+### each one of
+
+*구문* · B2 · /iːtʃ wʌn əv/
+
+**~의 하나하나 모두, 그중 각각**
+
+> every single member of a group, considered individually
+
+- Each one of us carries that fear.
+  - 우리 하나하나가 모두 그 두려움을 안고 있다.
+  - 💡 each one of + 복수명사/대명사. 동사는 단수로 받는다
+- He remembered each one of their names.
+  - 그는 그들의 이름을 하나하나 다 기억했다.
+- Each one of these decisions matters.
+  - 이 결정들 하나하나가 다 중요하다.
+  - 💡 matters — 단수 동사인 점에 주의
+
+**연어**: each one of us, each one of them, every single one of
+
+**유의어**: every one of, each of
+
+**구분**:
+- 동사는 단수로 받는다 — Each one of them is ready ○ / are ready ✗. 가장 자주 틀린다
+- each of와 뜻은 같고, one을 넣으면 '하나하나'가 더 또렷해진다
+- every one of — 거의 같지만 전체를 훑는 느낌, each one of는 하나씩 짚는 느낌
+- everyone(모두)은 한 단어이고 뜻이 다르다. every one of는 반드시 띄어 쓴다
+
+---
+
+### easy marker
+
+*명사* · C1 · informal · /ˌiːzi ˈmɑːkə/
+
+**점수를 후하게 주는 사람 (교수·채점자)**
+
+> a teacher who gives high grades without much difficulty
+
+- Word got around that he was an easy marker.
+  - 그가 점수를 후하게 준다는 소문이 돌았다.
+  - 💡 학생들 사이의 구어
+- She had a reputation as an easy marker.
+  - 그는 후하게 채점하는 사람으로 알려져 있었다.
+
+**연어**: an easy marker, a hard marker, a tough grader
+
+**유의어**: easy grader, soft marker
+
+**구분**:
+- 영국식이다. 미국에서는 easy grader를 쓴다 — mark(채점하다)가 영국식, grade가 미국식
+- 반대는 a hard/tough marker(까다롭게 채점하는 사람)
+- marker에는 '표시하는 사람·형광펜·이정표'라는 뜻이 따로 있다. 학업 맥락에서만 이 뜻이 된다
+- [[go-easy-on-phrasal_verb]]와 같은 결 — 봐준다는 뜻이 겹친다
+
+---
+
 ### eke out
 
 *구동사* · C1 · /iːk aʊt/
@@ -3041,6 +3267,34 @@
 - bear / stand — 주로 부정문·의문문에서 (I can't stand it). endure는 긍정문에서도 자연스럽다
 - tolerate — 마음에 안 드는 것을 용인하다. endure는 고통을 참아내는 쪽
 - 명사 endurance(지구력) / 형용사 enduring(오래가는)
+
+---
+
+### enroll
+
+*동사* · B1 · /ɪnˈrəʊl/
+
+**등록하다, 수강 신청하다, 입학하다**
+
+> to officially join a course, school, or program
+
+- He enrolled in her sociology class on a whim.
+  - 그는 즉흥적으로 그의 사회학 수업을 신청했다.
+  - 💡 enroll in + 과목·학교 (미국식). 영국은 enrol on을 쓴다
+- Over two hundred students enrolled that semester.
+  - 그 학기에 200명이 넘는 학생이 등록했다.
+- You can enroll online until Friday.
+  - 금요일까지 온라인으로 등록할 수 있다.
+
+**연어**: enroll in a course, enroll at a university, enrollment period
+
+**유의어**: sign up, register, matriculate
+
+**구분**:
+- 철자가 갈린다 — 미국식 enroll/enrollment, 영국식 enrol/enrolment(l 하나)
+- 전치사도 갈린다 — enroll in a course(미국), enrol on a course(영국)
+- register — 더 폭넓게 '명부에 올리다'. enroll은 교육·프로그램 참가에 특화돼 있다
+- [[attendance-n]]와 짝 — 등록은 enroll, 실제 출석은 attendance
 
 ---
 
@@ -3328,6 +3582,64 @@
 
 ---
 
+### flank
+
+*동사* · C1 · formal · /flæŋk/
+
+**양옆에 있다, 측면을 두르다**
+
+> to be positioned on both sides of something
+
+- Two tall trees flanked the front door.
+  - 키 큰 나무 두 그루가 현관 양옆에 서 있었다.
+  - 💡 주어가 양옆의 것, 목적어가 가운데 것이다
+- He walked in flanked by his two sons.
+  - 그는 두 아들을 양옆에 두고 걸어 들어왔다.
+  - 💡 flanked by ~ — 수동태가 사람에게 쓰일 때 가장 흔하다
+- Bookshelves flanking the fireplace reached the ceiling.
+  - 벽난로 양옆에 늘어선 책장이 천장까지 닿아 있었다.
+  - 💡 현재분사 flanking으로 명사를 수식하는 형태
+
+**연어**: flanked by, flanking the door, flank the entrance
+
+**유의어**: border, line, edge, be on either side of
+
+**구분**:
+- 명사 flank는 '옆구리, 측면'이다. 군사 용어로 the left flank(좌익)처럼 쓴다
+- 방향에 주의 — 양옆의 것이 주어다. The door flanked the trees ✗
+- 수동형 flanked by는 사진 설명이나 기사에서 아주 흔하다 — 누구 사이에 끼어 선 모습
+- '한쪽만'이면 flank를 쓰지 않는다. 양쪽이 전제다
+
+---
+
+### flannel
+
+*명사* · B2 · /ˈflænl/
+
+**플란넬 (부드럽게 기모를 세운 모직·면직물)**
+
+> a soft woven fabric, usually cotton or wool, with a slightly raised surface
+
+- He was wrapped in a flannel robe.
+  - 그는 플란넬 가운을 둘러 입고 있었다.
+  - 💡 환자·노인의 실내복 묘사에 자주 나온다
+- She bought him flannel pajamas for the winter.
+  - 그는 겨울용으로 플란넬 잠옷을 사주었다.
+- The classic grunge look was a flannel shirt and jeans.
+  - 전형적인 그런지 룩은 플란넬 셔츠와 청바지였다.
+
+**연어**: a flannel shirt, flannel pajamas, flannel sheets
+
+**유의어**: brushed cotton
+
+**구분**:
+- 영국에서 flannel은 '세수 수건'이라는 뜻으로도 쓴다. 미국에서는 천·셔츠만 가리킨다
+- [[plaid-n]]과 다르다 — flannel은 '천의 종류', plaid는 '무늬'. 격자무늬 플란넬 셔츠가 흔해서 섞어 쓰기 쉽다
+- fleece — 기모 폴리에스터. flannel은 직물을 긁어 부풀린 것이라 다르다
+- 구어로 flannel은 '말로 얼버무리기'라는 영국식 속어도 있다
+
+---
+
 ### flesh
 
 *명사* · B2 · /fleʃ/
@@ -3527,6 +3839,36 @@
 
 ---
 
+### fumble
+
+*동사* · B2 · /ˈfʌmbl/
+
+**더듬거리다, 서투르게 만지작거리다; (말을) 더듬다**
+
+> to handle something clumsily or search for it awkwardly
+
+- He fumbled with the buttons on his shirt.
+  - 그는 셔츠 단추를 서투르게 만지작거렸다.
+  - 💡 fumble with ~ — 손이 말을 안 들을 때. 투병 묘사에 흔하다
+- She fumbled in her bag for the keys.
+  - 그는 가방 속을 더듬어 열쇠를 찾았다.
+  - 💡 fumble in/for ~ = 더듬어 찾다
+- He fumbled for the right words.
+  - 그는 적절한 말을 찾느라 더듬었다.
+  - 💡 비유 용법 — 말이 막히다
+
+**연어**: fumble with, fumble for words, fumble in a pocket, a fumbling attempt
+
+**유의어**: grope, blunder, stumble over
+
+**구분**:
+- grope — 더듬어 찾는 행동 자체(어두운 데서). fumble은 '서툴러서 잘 안 된다'는 평가가 섞인다
+- 미국 미식축구에서 fumble은 '공을 놓치다'라는 명사·동사로 아주 흔하다
+- [[stumble-v]]은 발이 걸리는 것, fumble은 손이 서투른 것이다. 짝으로 외우면 헷갈리지 않는다
+- 현재분사 fumbling은 형용사로 '어설픈'이라는 뜻이 된다
+
+---
+
 ### further
 
 *부사* · B2 · /ˈfɜːrðər/
@@ -3556,6 +3898,35 @@
 - farther — 물리적 거리에만 쓴다(미국식 선호). 추상적 정도에는 further만 가능
 - furthermore — '게다가'라는 접속부사. 문장을 잇는 역할이라 further와 쓰임이 다르다
 - 형용사·부사·동사 세 품사로 모두 쓰이는 점이 이 단어의 핵심
+
+---
+
+### gaunt
+
+*형용사* · C1 · formal · /ɡɔːnt/
+
+**수척한, 바짝 여윈 (병·굶주림으로)**
+
+> very thin and bony, especially from illness or hunger
+
+- His face had grown gaunt in a few months.
+  - 그의 얼굴은 몇 달 사이에 수척해졌다.
+  - 💡 grow/become gaunt — 변화를 나타내는 동사와 붙는다
+- She was shocked by his gaunt appearance.
+  - 그의 수척한 모습에 그는 충격을 받았다.
+- The gaunt trees stood bare against the sky.
+  - 앙상한 나무들이 하늘을 배경으로 헐벗은 채 서 있었다.
+  - 💡 사물에 쓰면 '황량하고 앙상한'이 된다
+
+**연어**: a gaunt face, grow gaunt, gaunt and pale
+
+**유의어**: emaciated, haggard, skeletal, drawn
+
+**구분**:
+- thin/slim은 중립이거나 칭찬이지만 gaunt는 건강이 나쁘다는 걱정이 담긴다. 칭찬으로 쓰면 안 된다
+- haggard — 지치고 초췌한(수면 부족·근심). gaunt는 살이 빠져 뼈가 드러난 쪽
+- emaciated — 의학적으로 극심한 영양실조 상태. gaunt보다 더 심하다
+- [[wither-v]]·[[thinning-adj]]과 같은 투병 묘사 어휘군이다
 
 ---
 
@@ -3669,6 +4040,32 @@
 
 ---
 
+### gift-bearing
+
+*형용사* · C1 · formal · /ˈɡɪft ˌbeərɪŋ/
+
+**선물을 들고 오는, 선물을 가져오는**
+
+> carrying gifts
+
+- Gift-bearing students filled the small room.
+  - 선물을 든 학생들이 작은 방을 가득 채웠다.
+  - 💡 명사 앞에서만 쓰는 수식어다
+- He greeted the gift-bearing visitors at the door.
+  - 그는 선물을 들고 온 방문객들을 문에서 맞았다.
+
+**연어**: gift-bearing visitors, gift-bearing guests
+
+**유의어**: bringing gifts, laden with gifts
+
+**구분**:
+- bear(지니다, 나르다)의 현재분사로 만든 합성 형용사다. 하이픈으로 묶는다
+- 같은 틀로 얼마든지 만들 수 있다 — flag-bearing(깃발을 든), load-bearing(하중을 받는)
+- 서술 자리에는 쓰지 않는다 — The students were gift-bearing ✗ → were bearing gifts ○
+- 문어적이라 일상 대화에서는 그냥 with gifts라고 한다
+
+---
+
 ### gird yourself for
 
 *구문* · C2 · formal · /ɡɜːd jɔːˈself fɔː/
@@ -3694,6 +4091,65 @@
 - gird는 원래 '허리에 띠를 두르다' — 싸우러 나가기 전 갑옷 끈을 조이는 그림에서 나왔다
 - brace oneself for — 훨씬 일상적. gird는 문어체·고풍스러운 맛이 있어서 연설이나 기사에 쓴다
 - 재귀대명사가 필수다. gird for도 가능하지만 주로 신문 헤드라인에서만
+
+---
+
+### glance
+
+*동사* · B1 · /ɡlɑːns/
+
+**흘끗 보다, 잠깐 눈길을 주다; (명사) 흘끗 봄**
+
+> to look at something quickly
+
+- He glanced at the clock and kept talking.
+  - 그는 시계를 흘끗 보고는 말을 이어갔다.
+  - 💡 glance at ~ — 전치사 at이 기본이다
+- She glanced over the page before signing.
+  - 그는 서명하기 전에 그 장을 훑어봤다.
+  - 💡 glance over/through = 대충 훑다
+- They exchanged a quick glance.
+  - 그들은 재빨리 눈길을 주고받았다.
+  - 💡 명사 용법 — exchange a glance
+
+**연어**: glance at, glance over, at a glance, exchange a glance
+
+**유의어**: peek, peep, look briefly, skim
+
+**구분**:
+- [[glimpse-n]]과 짝이다 — glance는 내가 '보는 행동'(의도적), glimpse는 '눈에 들어온 것'(우연). 방향이 반대다
+- at a glance = 한눈에(정보가 바로 파악되게). 대시보드·요약표 설명에 유용하다
+- stare(빤히 보다) / gaze(지긋이 보다)와 길이가 다르다. glance가 가장 짧다
+- glance off는 '스쳐 튕기다'라는 다른 뜻이다
+
+---
+
+### glimpse
+
+*명사* · B2 · /ɡlɪmps/
+
+**흘끗 보임, 언뜻 봄; (일부만 드러난) 엿보기**
+
+> a very brief, often accidental, sight of something
+
+- I caught a glimpse of him through the window.
+  - 나는 창문 너머로 그를 언뜻 봤다.
+  - 💡 catch a glimpse of ~ — 거의 고정된 짝
+- The book offers a glimpse into his final months.
+  - 그 책은 그의 마지막 몇 달을 엿보게 해준다.
+  - 💡 a glimpse into ~ = ~의 단면을 보여주다. 비유 용법
+- We got our first glimpse of the new design.
+  - 우리는 새 디자인을 처음으로 잠깐 봤다.
+
+**연어**: catch a glimpse of, a glimpse into, a brief glimpse, the first glimpse
+
+**유의어**: peek, sight, glance
+
+**구분**:
+- [[glance-v]]과 방향이 반대다 — glance는 내가 보려고 눈을 돌리는 행동, glimpse는 우연히 눈에 들어온 것
+- catch a glimpse of ○ / catch a glance of ✗ — 짝이 정해져 있다
+- a glimpse into + 추상명사는 '속사정을 보여준다'는 뜻으로 서평·기사에서 매우 흔하다
+- 동사로도 쓰지만(glimpse the sea) 명사 용법이 훨씬 흔하다
 
 ---
 
@@ -3832,6 +4288,35 @@
 - 불가산명사다 — a harm (X), harms (드묾)
 - damage — 사물의 물리적 손상 / injury — 신체 부상. harm은 추상적·포괄적
 - [[injure-v]]와 비교: 사람이 다치면 injure, 손해·악영향 전반은 harm
+
+---
+
+### haunt
+
+*동사* · B2 · /hɔːnt/
+
+**(기억·생각이) 계속 따라다니며 괴롭히다; (유령이) 출몰하다**
+
+> to keep coming back to someone's mind in a troubling way; of a ghost, to appear in a place
+
+- The question haunted him for years.
+  - 그 질문은 몇 년이고 그를 따라다녔다.
+  - 💡 기억·후회·질문이 주어가 되는 비유 용법이 가장 흔하다
+- Her face still haunts me.
+  - 그의 얼굴이 아직도 눈에 어른거린다.
+- They say the old house is haunted.
+  - 그 낡은 집에는 귀신이 나온다고들 한다.
+  - 💡 원래의 유령 용법. 보통 수동태 be haunted
+
+**연어**: haunted by, come back to haunt, a haunting melody
+
+**유의어**: torment, plague, trouble, linger
+
+**구분**:
+- come back to haunt someone = 과거의 일이 나중에 화근이 되어 돌아오다. 업무 대화에서도 쓴다
+- haunting은 형용사로 '잊히지 않는, 가슴 저미는'이라는 긍정에 가까운 뜻이 된다(a haunting melody)
+- be haunted by + 기억·죄책감 — 가장 흔한 수동 형태
+- 명사 haunt는 '단골로 드나드는 곳'이라는 전혀 다른 뜻이다(an old haunt)
 
 ---
 
@@ -4589,6 +5074,64 @@
 
 ---
 
+### intend on
+
+*구문* · C1 · informal · /ɪnˈtend ɒn/
+
+**※ 비표준 — ~할 작정이다 (말할 때만 쓰이는 형태. 글에는 intend to / plan on을 쓸 것)**
+
+> nonstandard blend of 'intend to' and 'plan on'; common in speech but avoided in writing
+
+- I intend on staying until Friday.
+  - 금요일까지 있을 작정이다.
+  - 💡 구어에서는 들리지만 비표준이다. 글에서는 I intend to stay / I plan on staying으로 쓴다
+- I intend to stay until Friday.
+  - 금요일까지 있을 작정이다.
+  - 💡 정식 형태 ① — intend 뒤에는 to부정사
+- I plan on staying until Friday.
+  - 금요일까지 있을 생각이다.
+  - 💡 정식 형태 ② — plan 뒤에는 on + 동명사
+
+**연어**: intend to do, plan on doing, be intent on doing
+
+**유의어**: intend to, plan on, mean to
+
+**구분**:
+- intend는 to부정사를, plan은 on + 동명사를 취한다. 이 둘이 섞여 생긴 혼성형이 intend on이다
+- 시험·업무 문서에서는 감점 요인이 될 수 있으니 intend to를 쓸 것
+- [[intent-on-phr]] — 형용사 intent를 쓴 be intent on은 정식 표현이다. 소리가 비슷해 더 헷갈린다
+
+---
+
+### intent on
+
+*구문* · C1 · formal · /ɪnˈtent ɒn/
+
+**~에 몰두한; ~하기로 작정한**
+
+> determined to do something, or giving all your attention to it
+
+- He was intent on finishing the book before he died.
+  - 그는 죽기 전에 그 책을 끝내기로 작정하고 있었다.
+  - 💡 be intent on + -ing — 뒤에 동명사가 온다
+- She was intent on her work and did not look up.
+  - 그는 일에 몰두해 고개를 들지 않았다.
+  - 💡 명사가 오면 '~에 열중한'
+- They seemed intent on proving us wrong.
+  - 그들은 우리가 틀렸음을 입증하려고 작정한 듯했다.
+
+**연어**: be intent on doing, intent on revenge, seem intent on
+
+**유의어**: determined to, bent on, set on, fixated on
+
+**구분**:
+- intent는 형용사다. 뒤에는 동명사(-ing)나 명사가 오고 to부정사는 오지 않는다 — intent on to go ✗
+- intend(동사, ~할 작정이다)와 품사가 다르다. I intend to go ○ / I am intent on going ○
+- bent on — 거의 같은 뜻인데 대개 나쁜 일에 쓴다(bent on destruction)
+- 비표준형 [[intend-on-phr]]와 헷갈리지 말 것
+
+---
+
 ### intestine
 
 *명사* · B2 · /ɪnˈtestɪn/
@@ -5231,6 +5774,36 @@
 
 ---
 
+### nor
+
+*구문* · B2 · formal · /nɔː/
+
+**~도 또한 아니다 (neither A nor B)**
+
+> and not; used after a negative to add another negative item
+
+- He was neither angry nor sad.
+  - 그는 화나지도 슬프지도 않았다.
+  - 💡 neither A nor B — 가장 기본 형태. A와 B의 품사를 맞춘다
+- She never complained, nor did she ask for help.
+  - 그는 불평하지 않았고, 도움을 청하지도 않았다.
+  - 💡 문장 앞에 오면 도치된다 — nor + 조동사 + 주어
+- I don't know, nor do I care.
+  - 나는 모르고, 알고 싶지도 않다.
+  - 💡 구어에서도 쓰는 짧은 짝
+
+**연어**: neither ... nor, nor do I, nor did she
+
+**유의어**: and not, neither
+
+**구분**:
+- nor 뒤에는 도치가 일어난다 — nor I did ✗ / nor did I ○. 가장 자주 틀리는 지점
+- 이미 부정의 뜻이 있으므로 not을 또 쓰지 않는다 — nor she didn't ✗
+- or과 다르다. 앞 문장이 부정일 때 이어 붙이는 것이 nor다
+- Me neither(나도 아니야)는 구어, Nor do I는 격식체다
+
+---
+
 ### notion
 
 *명사* · B2 · formal · /ˈnoʊʃn/
@@ -5768,6 +6341,35 @@
 
 ---
 
+### pathetic
+
+*형용사* · B2 · informal · /pəˈθetɪk/
+
+**한심한, 형편없는; 가엾은, 애처로운**
+
+> useless and annoying; or sad and deserving pity
+
+- He thought his own fear was pathetic.
+  - 그는 자신의 두려움이 한심하다고 생각했다.
+  - 💡 현대 영어에서는 이 '한심한' 뜻이 압도적으로 흔하다
+- The dog gave a pathetic little whine.
+  - 그 개가 애처로운 낑낑 소리를 냈다.
+  - 💡 원래 뜻 — 연민을 자아내는
+- That's a pathetic excuse.
+  - 그건 말도 안 되는 변명이다.
+
+**연어**: a pathetic excuse, look pathetic, pathetic attempt
+
+**유의어**: feeble, useless, pitiful, wretched
+
+**구분**:
+- 사람에게 쓰면 심한 모욕이다. '불쌍하다'는 뜻으로 알고 쓰면 사고가 난다 — 연민은 pitiful이나 moving을 쓸 것
+- pathos(애수)에서 왔다. 원래는 '연민을 불러일으키는'이었는데 뜻이 나쁜 쪽으로 기울었다
+- sympathy, empathy와 한 뿌리(path- = 느낌)
+- 학술 용어 pathetic fallacy는 '감정의 이입'을 뜻해 부정적 의미가 없다
+
+---
+
 ### permanent
 
 *형용사* · B1 · /ˈpɜːrmənənt/
@@ -5877,6 +6479,34 @@
 **구분**:
 - bother — 일회적이고 가벼운 성가심. plague는 지속적이고 심각
 - afflict — 병·고통이 덮치는 느낌(더 격식·의학적). plague는 반복적 괴롭힘
+
+---
+
+### plaid
+
+*명사* · B2 · /plæd/
+
+**격자무늬(의), 타탄체크**
+
+> a pattern of crossed lines and squares, or cloth with this pattern
+
+- He wore the same plaid shirt every Tuesday.
+  - 그는 화요일마다 같은 격자무늬 셔츠를 입었다.
+  - 💡 plaid shirt — 명사 앞에서 형용사처럼 쓴다
+- A plaid blanket lay across his knees.
+  - 격자무늬 담요가 그의 무릎에 덮여 있었다.
+- The curtains were a faded green plaid.
+  - 커튼은 색이 바랜 초록 격자무늬였다.
+
+**연어**: a plaid shirt, plaid blanket, tartan plaid
+
+**유의어**: tartan, check, checkered
+
+**구분**:
+- 발음 주의 — /plæd/로 '플래드'다. '플레이드'가 아니다. ai가 짧은 애 소리로 난다
+- 미국에서는 plaid, 영국에서는 tartan이나 check를 더 쓴다
+- checkered는 보통 두 색 정사각형(체스판 무늬). plaid는 여러 줄이 교차해 더 복잡하다
+- [[flannel-n]]과 자주 붙어 나온다 — a plaid flannel shirt
 
 ---
 
@@ -5990,6 +6620,36 @@
 - dominate — 힘으로 누르다. 타동사로 목적어를 직접 취한다(dominate the market). predominate는 주로 자동사이고 '수·비중이 앞선다'
 - prevail — 널리 퍼져 있다/이기다. predominate보다 '이겨낸다'는 뜻이 강하다
 - 실제 글에서는 동사 predominate보다 predominant/predominantly가 압도적으로 흔하다
+
+---
+
+### presence
+
+*명사* · B2 · /ˈprezns/
+
+**존재, 있음; 참석; 풍기는 기운, 존재감**
+
+> the fact of being in a place; an impressive quality a person has
+
+- His presence filled the room.
+  - 그의 존재감이 방을 가득 채웠다.
+  - 💡 사람이 뿜는 기운을 뜻하는 용법
+- She signed the form in the presence of a witness.
+  - 그는 증인이 있는 자리에서 서류에 서명했다.
+  - 💡 in the presence of ~ = ~가 있는 데서. 격식체
+- Your presence is requested at the ceremony.
+  - 행사에 참석해 주시기 바랍니다.
+  - 💡 초대장의 굳은 표현
+
+**연어**: in the presence of, a commanding presence, presence of mind, online presence
+
+**유의어**: attendance, aura, bearing
+
+**구분**:
+- [[absence-n]]의 반대말. in the presence of ↔ in the absence of로 짝지어 외운다
+- presence of mind = 침착한 대응력. [[composure-n]]과 가깝다
+- presents(선물들)와 발음이 거의 같아 받아쓰기에서 자주 틀린다
+- [[attendance-n]] — 출석이라는 사실·수치. presence는 그 자리에 있다는 상태와 분위기
 
 ---
 
@@ -6264,6 +6924,36 @@
 - purposeful — 목적이 뚜렷함 / purposely(부사) — 일부러, 고의로. 뜻이 다름
 - on purpose = purposely 고의로. purposeful과 헷갈리지 말 것
 - ambitious — 야심 있는(더 높은 곳을 원함). purposeful은 방향이 분명함
+
+---
+
+### pursue
+
+*동사* · B2 · formal · /pəˈsjuː/
+
+**추구하다, 밀고 나가다; 뒤쫓다**
+
+> to try to achieve something over time; to follow or chase someone
+
+- He pursued teaching for thirty-five years.
+  - 그는 35년간 가르치는 일에 매진했다.
+  - 💡 목표·직업을 목적어로 두는 용법이 가장 흔하다
+- Police pursued the car for several miles.
+  - 경찰이 그 차를 몇 마일 추격했다.
+  - 💡 원래의 물리적 뜻
+- I'd rather not pursue that line of questioning.
+  - 그 질문은 더 파고들지 않는 편이 좋겠다.
+  - 💡 pursue a topic/line = 계속 파고들다
+
+**연어**: pursue a career, pursue a goal, pursue the matter, pursue a degree
+
+**유의어**: chase, follow, strive for, go after
+
+**구분**:
+- [[pursuit-n]] — 명사형. in pursuit of happiness처럼 쓴다
+- chase — 물리적 추격에 치우친다. pursue는 추상적 목표에 훨씬 자주 쓴다
+- go after — 같은 뜻의 구어체. 제안서나 이력서에는 pursue가 어울린다
+- pursue someone은 연애 맥락에서 '구애하다'로도 읽히니 문맥을 살필 것
 
 ---
 
@@ -7223,6 +7913,33 @@
 
 ---
 
+### slob
+
+*명사* · C1 · informal · /slɒb/
+
+**게으름뱅이, 지저분하고 단정하지 못한 사람**
+
+> a lazy, untidy person
+
+- He called himself a slob in his younger days.
+  - 그는 젊을 때 자기가 게으름뱅이였다고 말했다.
+  - 💡 자기를 낮춰 말할 때 자주 쓴다
+- Don't be such a slob-clean your room.
+  - 그렇게 게으름뱅이처럼 굴지 말고 방 좀 치워.
+- He turned into a slob after he retired.
+  - 그는 은퇴 후 게을러졌다.
+
+**연어**: a lazy slob, a fat slob, be such a slob
+
+**유의어**: layabout, sloven, couch potato
+
+**구분**:
+- 남에게 쓰면 모욕이다. 자신이나 아주 친한 사이에만 쓰는 게 안전하다
+- couch potato — 소파에서 TV만 보는 사람. slob은 게으름에 '지저분함'까지 포함한다
+- 형용사형은 slobbish. 동사 slobber(침을 흘리다)와는 뿌리가 다르다
+
+---
+
 ### snake pit
 
 *명사* · C1 · informal · /ˈsneɪk pɪt/
@@ -7413,6 +8130,36 @@
 
 **구분**:
 - squeeze into — 좁은 공간·옷에 몸을 밀어 넣다 (squeeze into jeans). in은 일정, into는 공간
+
+---
+
+### squirm
+
+*동사* · C1 · /skwɜːm/
+
+**몸을 꿈틀거리다, (어색해) 안절부절못하다**
+
+> to twist your body because you are uncomfortable or embarrassed
+
+- The students squirmed when he asked about death.
+  - 그가 죽음에 대해 묻자 학생들은 안절부절못했다.
+  - 💡 불편한 질문 앞의 반응 — 가장 흔한 용법
+- The child squirmed out of her arms.
+  - 아이가 그의 품에서 꿈틀거리며 빠져나갔다.
+  - 💡 물리적 용법
+- He enjoyed watching them squirm.
+  - 그는 그들이 쩔쩔매는 걸 즐겼다.
+  - 💡 make someone squirm = 쩔쩔매게 만들다
+
+**연어**: squirm in one's seat, make someone squirm, squirm out of
+
+**유의어**: wriggle, fidget, writhe
+
+**구분**:
+- fidget — 지루해서 꼼지락거리는 것. squirm은 불편·민망함이 원인이라 감정이 섞인다
+- writhe — 고통으로 몸부림치는 것이라 훨씬 격하다
+- squirm out of ~ = (책임을) 요리조리 피하다. 비유로도 쓴다
+- [[flinch-v]]는 순간 움찔, squirm은 계속 꼼지락거린다
 
 ---
 
@@ -7634,6 +8381,93 @@
 
 ---
 
+### suburb
+
+*명사* · B1 · /ˈsʌbɜːb/
+
+**교외, 근교 (도시 바깥의 주거 지역)**
+
+> an area of homes outside the center of a city
+
+- He grew up in a quiet suburb of Detroit.
+  - 그는 디트로이트 근교의 조용한 동네에서 자랐다.
+  - 💡 a suburb of + 도시명 — 기본 틀
+- They moved to the suburbs when the children were small.
+  - 아이들이 어릴 때 그들은 교외로 이사했다.
+  - 💡 the suburbs — 복수로 '교외 지역 일대'를 뜻한다
+- The suburbs emptied out during the week.
+  - 평일이면 교외는 텅 비었다.
+
+**연어**: a suburb of, move to the suburbs, leafy suburb
+
+**유의어**: outskirts, commuter belt
+
+**구분**:
+- sub-(아래·부속) + urb(도시) = 도시에 딸린 지역. urban, urbane과 한 뿌리다
+- outskirts — 도시의 변두리 경계. suburb는 그 자체로 주거 공동체를 이룬 곳이라 어감이 더 안정적이다
+- 한국의 '교외'보다 범위가 넓고, 미국에서는 중산층 주거지라는 사회적 함의가 강하다
+- [[suburban-adj]]이 형용사형이다
+
+---
+
+### suburban
+
+*형용사* · B2 · /səˈbɜːbən/
+
+**교외의, 근교의; (경멸) 평범하고 재미없는**
+
+> relating to the suburbs; sometimes used to mean dull and conventional
+
+- They lived in a suburban house with a wide lawn.
+  - 그들은 넓은 잔디가 있는 교외 주택에 살았다.
+- He wanted to escape his suburban childhood.
+  - 그는 교외에서 보낸 유년기를 벗어나고 싶었다.
+  - 💡 '평범해서 답답했다'는 함의가 깔린다
+- The film mocks suburban taste.
+  - 그 영화는 교외 중산층의 취향을 비꼰다.
+  - 💡 경멸적 용법 — 진부하고 몰개성적이라는 뜻
+
+**연어**: suburban house, suburban life, suburban sprawl
+
+**유의어**: residential, provincial, conventional
+
+**구분**:
+- 강세가 명사와 다르다 — 명사 SUB-urb /ˈsʌbɜːb/, 형용사 sub-UR-ban /səˈbɜːbən/. 자주 틀린다
+- urbane /ɜːˈbeɪn/ — '세련된, 점잖은'이라는 전혀 다른 뜻이다. urban(도시의)과도 구분할 것
+- 문맥에 따라 중립적 기술일 수도, '진부하다'는 비판일 수도 있다
+- suburban sprawl = 무계획하게 퍼진 교외 개발
+
+---
+
+### suffocate
+
+*동사* · B2 · /ˈsʌfəkeɪt/
+
+**질식시키다, 숨이 막히다; (비유) 숨 막히게 하다**
+
+> to die or cause someone to die from lack of air; to feel trapped
+
+- He feared he would suffocate in his own body.
+  - 그는 제 몸 안에서 숨이 막혀 죽을까 두려워했다.
+  - 💡 호흡근이 마비되는 병의 공포를 말할 때
+- The smoke nearly suffocated them.
+  - 연기에 그들은 거의 질식할 뻔했다.
+- I was suffocating in that job.
+  - 그 직장에서 나는 숨이 막혔다.
+  - 💡 비유 용법 — 답답해 못 견디겠다
+
+**연어**: suffocate to death, a suffocating silence, feel suffocated
+
+**유의어**: choke, smother, stifle, asphyxiate
+
+**구분**:
+- choke — 목에 뭔가 걸려 막히는 것. suffocate는 공기 자체가 없어 숨을 못 쉬는 것
+- smother — 덮어서 숨을 막다. 과잉보호에도 쓴다(a smothering parent)
+- stifle — 하품·웃음·반대 의견을 억누르다. 비유로 더 많이 쓴다
+- 명사는 suffocation. 형용사 suffocating은 분위기에도 쓴다
+
+---
+
 ### superficial
 
 *형용사* · B2 · /ˌsuːpərˈfɪʃl/
@@ -7803,6 +8637,35 @@
 - attract — 끌어당김 일반. tempt는 하지 않는 편이 나은 쪽으로 끄는 뉘앙스
 - temptation(명사) / tempting(형용사: 솔깃한)
 - attempt와 철자가 비슷하지만 무관 — [[attempt-v]]
+
+---
+
+### tension of opposites
+
+*구문* · C1 · formal · /ˈtenʃn əv ˈɒpəzɪts/
+
+**대립하는 것들 사이의 팽팽한 긴장, 상반된 두 힘의 줄다리기**
+
+> the pull between two opposing forces that both act on you at once
+
+- Life is a series of pulls back and forth-a tension of opposites.
+  - 삶은 앞뒤로 당기는 힘들의 연속이다. 상반된 것들의 긴장이다.
+  - 💡 Tuesdays with Morrie의 핵심 개념. 모리가 삶을 설명하며 쓴 말
+- There is a tension of opposites in every honest friendship.
+  - 솔직한 우정에는 늘 상반된 힘의 긴장이 있다.
+- He lived in the tension of opposites: wanting to go, needing to stay.
+  - 그는 상반된 긴장 속에 살았다. 떠나고 싶으면서 머물러야 했다.
+  - 💡 콜론 뒤에 두 힘을 나란히 놓는 전형적인 서술
+
+**연어**: a tension of opposites, live in tension with, creative tension
+
+**유의어**: push and pull, tug of war, conflicting pulls
+
+**구분**:
+- 한쪽이 이겨서 끝나는 갈등(conflict)이 아니다. 두 힘이 동시에 작용한 채 유지되는 상태가 핵심
+- tug of war — 더 일상적이고 구체적인 비유. tension of opposites는 철학적 개념어에 가깝다
+- creative tension — 경영·디자인에서 쓰는 비슷한 개념으로, 긴장이 오히려 생산적이라는 쪽
+- [[dread-v]]·[[fortitude-n]]과 같은 책 맥락에서 만난다
 
 ---
 

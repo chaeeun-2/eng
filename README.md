@@ -112,8 +112,11 @@ git push                            # 1~2분 뒤 반영
 
 ## 현재 상태
 
-- 등록 단어: 325개
-- 마지막 갱신: 2026-09-21 (대화 중 질문 36개 — 투병·회고 맥락.
+- 등록 단어: 355개
+- 마지막 갱신: 2026-10-06 (모바일에서 따로 질의한 CSV 정리 — 83항목 중 52개는
+  이미 등록돼 있어 건너뛰고 신규 30개만 추가. intend on은 비표준형이라
+  경고를 달아 등록하고 정식 형태 intent on / intend to / plan on과 연결)
+- 이전 갱신: 2026-09-21 (대화 중 질문 36개 — 투병·회고 맥락.
   coutship→courtship 오타 정정. "who somehow hoved me"는 사용자 확인 결과
   "who somehow loved me"였고, love 대신 somehow를 등록했다.
   dignity는 기존 항목이라 건너뛰고, demand는 기존 demands-of와 별개 명사로 등록)
