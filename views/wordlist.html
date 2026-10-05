@@ -236,9 +236,45 @@ tbody.hide{display:none}
   .say::after{content:"";position:absolute;inset:-7px}   /* 44px 히트 영역 */
   .chip{padding:9px 13px}
   .cf-btn,.done-btn{padding:7px 11px}
+  /* iOS는 입력란 글자가 16px 미만이면 포커스 때 화면을 확대한다.
+     viewport로 확대를 막으면 접근성을 해치므로 글자 크기로 푼다. */
+  #q{font-size:16px}
   .ko,.en{font-size:15px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+/* ── 목록 보기 — 표제어와 뜻만 훑는다 ───────────────
+   미디어쿼리 뒤에 둬야 모바일 카드 규칙을 덮어쓴다(특정도가 같아 순서로 갈림). */
+body.list table{display:block;margin-top:14px;padding:0;border:none;background:transparent}
+body.list thead,body.list colgroup{display:none}
+body.list tbody{display:flex;align-items:baseline;gap:14px;
+  height:auto;max-height:none;min-height:0;overflow:visible;
+  margin:0;padding:9px 4px;border:none;border-top:1px solid var(--rule);
+  border-radius:0;box-shadow:none;background:transparent}
+body.list tbody:first-of-type{border-top:none}
+body.list tbody.hide{display:none}
+body.list tr.first{display:contents}      /* 칸들을 tbody의 직접 자식으로 올린다 */
+body.list tr.s:not(.first),body.list tr.cf{display:none}
+body.list .en,body.list .ko.gl{display:none}
+body.list td::before{display:none}
+body.list .w{flex:0 0 34%;max-width:250px;min-width:0;
+  font-size:16px;padding:0;border:none;box-shadow:none;position:static;background:transparent;
+  overflow-wrap:break-word}
+body.list .w .meta,body.list .w .date,body.list .btns,body.list .say-w{display:none}
+body.list .ko.m{flex:1 1 auto;min-width:0;padding:0;border:none;background:transparent;
+  font-size:14px;line-height:1.5}
+/* 완료한 단어는 목록에서도 표시가 남는다 */
+body.list tbody.done{box-shadow:inset 3px 0 0 var(--indigo)}
+body.list tbody.done .w{color:var(--ink-2)}
+body.list tbody:hover{background:var(--card)}
+
+@media (max-width:780px){
+  body.list tbody{gap:3px;flex-direction:column;align-items:stretch;padding:10px 2px}
+  body.list .w{flex:none;max-width:none;font-size:16px}
+  body.list .ko.m{font-size:14px}
+  body.list .deck{display:none}
+}
+body.list .deck{display:none}
 </style>
 </head>
 <body>
@@ -253,6 +289,10 @@ tbody.hide{display:none}
 <div class="toolbar">
   <input id="q" type="search" placeholder="단어 · 뜻 · 예문 검색" aria-label="검색">
   <div class="tools">
+    <div class="seg" role="group" aria-label="보기">
+      <button class="chip" data-view="full" aria-pressed="true">상세</button>
+      <button class="chip" data-view="list" aria-pressed="false">목록</button>
+    </div>
     <div class="seg" role="group" aria-label="정렬">
       <button class="chip" data-sort="abc" aria-pressed="true">abc순</button>
       <button class="chip" data-sort="new" aria-pressed="false">최근순</button>
@@ -307,6 +347,24 @@ function apply(){
 }
 q.addEventListener('input',apply);
 
+/* ── 보기 전환 (상세 / 목록) ───────────────────── */
+const viewBtns=[...document.querySelectorAll('.chip[data-view]')];
+let curView='full';
+
+function setView(v,save){
+  curView = v==='list' ? 'list' : 'full';
+  document.body.classList.toggle('list', curView==='list');
+  viewBtns.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.view===curView)));
+  if(curView==='list'){
+    groups.forEach(g=>g.classList.remove('cur'));   /* 카드 상태를 걷어낸다 */
+    posEl.textContent='';
+  }else{
+    showCard(idx);
+  }
+  if(save) localStorage.setItem('eng-view',curView);
+}
+viewBtns.forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view,true)));
+
 /* ── 모바일 카드 모드 — 한 장씩 보여주고 화살표로 넘긴다 ── */
 const deckMq=matchMedia('(max-width:780px)'),
       prevBtn=document.getElementById('prev'),
@@ -319,7 +377,7 @@ const visible=()=>[...table.querySelectorAll('tbody[data-word]:not(.hide)')];
 
 /* i번째 카드만 남긴다. 범위를 벗어난 i는 양 끝으로 붙인다. */
 function showCard(i){
-  if(!deckMq.matches) return;
+  if(!deckMq.matches || curView==='list') return;   /* 목록 보기에서는 카드가 없다 */
   const vis=visible();
   groups.forEach(g=>g.classList.remove('cur'));
   if(!vis.length){
@@ -414,6 +472,7 @@ document.addEventListener('click',e=>{
 
 groups.forEach(paintDone);
 sortBy(localStorage.getItem('eng-sort')||'abc',false);
+setView(localStorage.getItem('eng-view')||'full',false);
 
 document.querySelectorAll('.chip[data-pos]').forEach(c=>{
   c.addEventListener('click',()=>{
