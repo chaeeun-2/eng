@@ -1,4 +1,4 @@
-# 단어장 (총 355개)
+# 단어장 (총 356개)
 
 `data/vocab.jsonl`에서 자동 생성. 직접 수정 금지.
 
@@ -1619,6 +1619,62 @@
 **구분**:
 - pass — 중립적으로 '지나가다·넘다'. blow past는 '훌쩍, 여유롭게'라는 속도·격차의 뉘앙스
 - blow over — (문제·폭풍이) 잦아들다. 형태만 비슷하고 뜻은 전혀 다름
+
+---
+
+### bother
+
+*동사* · B2 · /ˈbɒðə/
+
+**① 귀찮게 하다, 신경 쓰이게 하다 ② (bother to do) 굳이 수고스럽게 ~하다 ③ (be bothered) 신경 쓰이다, 언짢다 ④ (명사) 성가신 일, 수고**
+
+> to annoy or worry someone; to take the trouble to do something; to be troubled by something
+
+- Don't bother me right now.
+  - 지금은 귀찮게 하지 마.
+  - 💡 용법 ① 타동사 — 괴롭힘이 밖으로 향한다. 주어가 가해자다
+- Does the noise bother you?
+  - 그 소음이 신경 쓰이세요?
+  - 💡 용법 ① — 사물이 주어가 되면 '거슬리다'가 된다. 정중한 확인 질문으로 흔하다
+- He didn't bother to answer.
+  - 그는 굳이 대답하지 않았다.
+  - 💡 용법 ② bother to + 동사원형 — 거의 부정문에서만 쓴다. '그 정도 수고도 안 했다'는 핀잔이 깔린다
+- Nobody bothered to tell me the meeting was moved.
+  - 아무도 회의가 옮겨졌다고 말해줄 생각을 안 했다.
+  - 💡 용법 ② — 서운함을 드러내는 전형적인 문장
+- She didn't bother locking the door.
+  - 그는 문을 잠그는 수고조차 하지 않았다.
+  - 💡 용법 ② 변형 — bother + -ing도 같은 뜻이다. to부정사와 거의 바꿔 쓸 수 있다
+- He seemed bothered by the question.
+  - 그는 그 질문에 신경이 쓰이는 듯했다.
+  - 💡 용법 ③ be bothered by — 방향이 안으로 향한다. 주어가 피해자다
+- I'm not bothered either way.
+  - 난 어느 쪽이든 상관없어.
+  - 💡 용법 ③ — 영국 구어에서 아주 흔하다. '아무래도 괜찮다'는 뜻
+- I can't be bothered to cook tonight.
+  - 오늘은 귀찮아서 요리 못 하겠다.
+  - 💡 용법 ③ 관용구 can't be bothered — 능력이 아니라 '의욕이 없다'는 뜻이다
+- Something's bothering him.
+  - 뭔가가 그를 괴롭히고 있다.
+  - 💡 용법 ④ 진행형 — ①이 지금 벌어지는 중. 원인을 모를 때 쓰기 좋다
+- Why are you even bothering?
+  - 뭐 하러 수고를 해?
+  - 💡 용법 ④ 동명사 — ②의 명사형. 소용없다는 핀잔
+- It's no bother at all.
+  - 전혀 수고스럽지 않아요.
+  - 💡 명사 용법 — 도와주고 고맙다는 인사를 받았을 때의 정중한 답
+
+**연어**: don't bother, bother to do, can't be bothered, be bothered by, sorry to bother you, it's no bother, not worth bothering about
+
+**유의어**: annoy, trouble, disturb, take the trouble to
+
+**구분**:
+- 뿌리 뜻은 하나다 — '귀찮음'. 그 귀찮음이 누구에게 가느냐로 형태가 갈린다. bother A(A가 귀찮다·내가 가해) / be bothered(내가 귀찮다·피해) / bother to do(내가 수고를 감수한다, 대개 부정)
+- bother to do와 bother doing은 뜻이 거의 같다. to부정사는 '그 행동을 할 생각 자체', -ing는 '그 행동을 하는 과정'에 살짝 기울 뿐이다
+- can't be bothered — 영국 구어. '능력이 없다'가 아니라 '귀찮아서 안 한다'는 뜻이라 직역하면 오해한다
+- I'm not bothered = 난 상관없어(영국). 미국에서는 I don't mind나 I don't care를 더 쓴다
+- Sorry to bother you — 부탁을 꺼낼 때의 상투구. 메일 첫 줄로 흔하다
+- annoy — bother보다 짜증이 세다. disturb — 방해해 흐름을 끊는 쪽. bother가 가장 폭넓고 부드럽다
 
 ---
 

@@ -247,9 +247,9 @@ tbody.hide{display:none}
    미디어쿼리 뒤에 둬야 모바일 카드 규칙을 덮어쓴다(특정도가 같아 순서로 갈림). */
 body.list table{display:block;margin-top:14px;padding:0;border:none;background:transparent}
 body.list thead,body.list colgroup{display:none}
-body.list tbody{display:flex;align-items:baseline;gap:14px;
+body.list tbody{display:flex;align-items:baseline;gap:14px;position:relative;
   height:auto;max-height:none;min-height:0;overflow:visible;
-  margin:0;padding:9px 4px;border:none;border-top:1px solid var(--rule);
+  margin:0;padding:9px 78px 9px 4px;border:none;border-top:1px solid var(--rule);
   border-radius:0;box-shadow:none;background:transparent}
 body.list tbody:first-of-type{border-top:none}
 body.list tbody.hide{display:none}
@@ -260,7 +260,9 @@ body.list td::before{display:none}
 body.list .w{flex:0 0 34%;max-width:250px;min-width:0;
   font-size:16px;padding:0;border:none;box-shadow:none;position:static;background:transparent;
   overflow-wrap:break-word}
-body.list .w .meta,body.list .w .date,body.list .btns,body.list .say-w{display:none}
+body.list .w .meta,body.list .w .date,body.list .cf-btn,body.list .say-w{display:none}
+/* 완료 버튼만 줄 오른쪽 끝에 띄워 둔다 — 훑으면서 바로 체크할 수 있게 */
+body.list .btns{display:block;position:absolute;right:2px;top:7px;margin:0}
 body.list .ko.m{flex:1 1 auto;min-width:0;padding:0;border:none;background:transparent;
   font-size:14px;line-height:1.5}
 /* 완료한 단어는 목록에서도 표시가 남는다 */
@@ -269,7 +271,7 @@ body.list tbody.done .w{color:var(--ink-2)}
 body.list tbody:hover{background:var(--card)}
 
 @media (max-width:780px){
-  body.list tbody{gap:3px;flex-direction:column;align-items:stretch;padding:10px 2px}
+  body.list tbody{gap:3px;flex-direction:column;align-items:stretch;padding:10px 80px 10px 2px}
   body.list .w{flex:none;max-width:none;font-size:16px}
   body.list .ko.m{font-size:14px}
   body.list .deck{display:none}
