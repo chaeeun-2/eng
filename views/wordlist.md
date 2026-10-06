@@ -1,4 +1,4 @@
-# 단어장 (총 356개)
+# 단어장 (총 381개)
 
 `data/vocab.jsonl`에서 자동 생성. 직접 수정 금지.
 
@@ -410,6 +410,36 @@
 
 ---
 
+### agitate
+
+*동사* · C1 · formal · /ˈædʒɪteɪt/
+
+**동요시키다, 불안하게 하다; (사회적으로) 선동하다; 휘젓다**
+
+> to make someone anxious; to campaign strongly for change; to stir a liquid
+
+- The question visibly agitated him.
+  - 그 질문은 눈에 띄게 그를 동요시켰다.
+  - 💡 사람 목적어 — 가장 흔한 용법
+- He became agitated whenever the subject came up.
+  - 그 이야기가 나올 때마다 그는 안절부절못했다.
+  - 💡 형용사 agitated가 실제로는 더 자주 쓰인다
+- They agitated for better working conditions.
+  - 그들은 더 나은 노동 조건을 요구하며 투쟁했다.
+  - 💡 agitate for ~ = ~을 요구하며 운동하다
+
+**연어**: become agitated, agitate for, visibly agitated
+
+**유의어**: upset, unsettle, fluster, campaign
+
+**구분**:
+- 형용사 agitated(불안해하는, 안절부절못하는)가 동사보다 훨씬 자주 쓰인다. 의료 현장에서도 환자 상태를 기술할 때 쓴다
+- agitate for + 명사는 '요구하며 운동하다'로, 사람을 동요시키는 뜻과 완전히 다르다
+- [[squirm-v]]과 짝 — 동요하면 몸이 꼼지락거린다
+- 명사 agitation은 '동요'와 '선동' 둘 다. agitator는 선동가
+
+---
+
 ### ailment
 
 *명사* · B2 · /ˈeɪlmənt/
@@ -540,6 +570,35 @@
 - 발음 주의 — /æmˈfetəmiːn/으로 fet에 강세가 온다
 - 구어 속어로는 speed라고 한다. 의학 문서에서는 반드시 amphetamine
 - ADHD 치료제(Adderall 등)의 주성분이기도 하고 남용 약물이기도 해서 문맥에 따라 뉘앙스가 갈린다
+
+---
+
+### anguish
+
+*명사* · C1 · formal · /ˈæŋɡwɪʃ/
+
+**극심한 정신적 고통, 번민, 비통**
+
+> severe mental or physical pain and suffering
+
+- There was anguish in his voice.
+  - 그의 목소리에는 비통함이 배어 있었다.
+- She watched in anguish as he struggled to breathe.
+  - 그가 숨쉬기 힘들어하는 것을 그는 괴로워하며 지켜봤다.
+  - 💡 in anguish = 괴로워하며
+- The decision caused him great anguish.
+  - 그 결정은 그에게 큰 번민을 안겼다.
+
+**연어**: in anguish, mental anguish, a cry of anguish, cause anguish
+
+**유의어**: torment, agony, distress, suffering
+
+**구분**:
+- pain보다 훨씬 깊고 정신적이다. 가벼운 괴로움에 쓰면 과장으로 들린다
+- agony — 육체적 극심한 고통에 더 자주 쓴다. anguish는 마음 쪽
+- mental anguish는 법률 문서에서 정신적 손해를 가리키는 용어로도 쓴다
+- 형용사 anguished — an anguished cry(비통한 외침)
+- [[dread-v]]와 짝 — dread는 닥쳐올 일, anguish는 지금 겪는 고통
 
 ---
 
@@ -2148,6 +2207,35 @@
 
 ---
 
+### confrontation
+
+*명사* · B2 · /ˌkɒnfrʌnˈteɪʃn/
+
+**대립, 충돌; 맞대면**
+
+> an angry disagreement or a face-to-face meeting with someone hostile
+
+- He avoided confrontation all his life.
+  - 그는 평생 대립을 피했다.
+  - 💡 avoid confrontation — 가장 흔한 짝
+- The meeting ended in a bitter confrontation.
+  - 회의는 험악한 대립으로 끝났다.
+- She finally sought a confrontation with her father.
+  - 그는 마침내 아버지와 정면으로 마주하기로 했다.
+  - 💡 반드시 싸움만 뜻하지는 않는다 — 피하던 문제를 직면하는 것
+
+**연어**: avoid confrontation, a direct confrontation, confrontation with
+
+**유의어**: clash, showdown, conflict
+
+**구분**:
+- 동사 confront는 '맞서다, 직면하다'로 중립적이다(confront a problem). 명사 confrontation은 갈등의 뉘앙스가 더 강하다
+- conflict — 상태로서의 갈등(오래 지속). confrontation은 맞붙는 한 장면
+- confrontational은 형용사로 '시비조의'라는 부정적 평가다
+- 직장에서 avoid confrontation은 '갈등을 회피한다'는 성향 평가로도 쓰인다
+
+---
+
 ### connotation
 
 *명사* · C1 · formal · /ˌkɒnəˈteɪʃn/
@@ -2292,6 +2380,36 @@
 
 ---
 
+### contrary
+
+*형용사* · B2 · formal · /ˈkɒntrəri/
+
+**반대의, 정반대의; (명사) 정반대**
+
+> opposite in nature or direction
+
+- On the contrary, he looked relieved.
+  - 그와는 반대로, 그는 안도한 표정이었다.
+  - 💡 on the contrary — 앞말을 뒤집는 접속 부사구
+- Contrary to popular belief, he enjoyed the attention.
+  - 통념과 달리 그는 그 관심을 즐겼다.
+  - 💡 contrary to ~ = ~와는 달리. 글머리에 쓰기 좋다
+- We found no evidence to the contrary.
+  - 그와 반대되는 증거는 찾지 못했다.
+  - 💡 to the contrary = 그와 반대되는. 명사 용법
+
+**연어**: on the contrary, contrary to, evidence to the contrary, contrary to expectations
+
+**유의어**: opposite, conflicting, counter to
+
+**구분**:
+- on the contrary(그와 반대로)와 in contrast(그에 비해)는 다르다 — on the contrary는 앞말을 부정하고, in contrast는 둘을 나란히 비교한다
+- to the contrary는 명사 뒤에 붙는다(evidence to the contrary). on the contrary는 문장을 잇는다
+- 사람에게 쓰면 '고집 센, 삐딱한'이라는 뜻이 된다(a contrary child)
+- 강세는 앞에 온다 — CON-trary
+
+---
+
 ### controversial
 
 *형용사* · B2 · /ˌkɑːntrəˈvɜːrʃl/
@@ -2347,6 +2465,33 @@
 - change — 그냥 바꾸는 것. convert는 다른 용도·형태·체계로 바꾸는 것이라 목적이 분명하다
 - into vs to — 형태·용도가 크게 바뀌면 into, 단위 환산이면 to가 자연스럽다
 - 자동사로도 쓴다 — convert to Islam(개종하다). 이때는 목적어 없이 to만
+
+---
+
+### corpse
+
+*명사* · B2 · /kɔːps/
+
+**시체, 송장 (주로 사람의)**
+
+> a dead human body
+
+- He said he did not want to be remembered as a corpse.
+  - 그는 시체로 기억되고 싶지 않다고 말했다.
+- The corpse was identified the next morning.
+  - 시신은 이튿날 아침 신원이 확인되었다.
+- She could not bear to look at the corpse.
+  - 그는 차마 시신을 쳐다볼 수 없었다.
+
+**연어**: identify a corpse, a decaying corpse
+
+**유의어**: body, remains, cadaver
+
+**구분**:
+- 발음 주의 — /kɔːps/로 p를 읽는다. corps(군단)는 /kɔː/로 p와 s가 모두 묵음이라 완전히 다른 소리다
+- 유가족 앞에서는 쓰지 않는다. the body나 the remains가 정중하다
+- cadaver — 의학 해부용 시신을 가리키는 전문어
+- [[decay-n]]·[[bury-v]]와 같은 맥락에서 만난다
 
 ---
 
@@ -2994,6 +3139,35 @@
 
 ---
 
+### devour
+
+*동사* · C1 · /dɪˈvaʊə/
+
+**게걸스럽게 먹어치우다; (책·정보를) 탐독하다**
+
+> to eat something quickly and hungrily; to read or consume eagerly
+
+- He devoured the book in one night.
+  - 그는 하룻밤에 그 책을 다 읽어치웠다.
+  - 💡 비유 용법이 실제로는 더 흔하다 — 책·기사·정보
+- The children devoured everything on the table.
+  - 아이들은 식탁 위의 것을 모조리 먹어치웠다.
+  - 💡 원래의 먹는 뜻
+- She devours anything written about the war.
+  - 그는 그 전쟁에 관한 글이라면 뭐든 탐독한다.
+
+**연어**: devour a book, devour a meal, be devoured by flames
+
+**유의어**: gobble, wolf down, consume, pore over
+
+**구분**:
+- eat와 달리 속도와 탐욕이 핵심이다. 점잖은 식사에는 쓰지 않는다
+- be devoured by ~ = ~에 삼켜지다(불길·질투 등). 비유로도 쓴다
+- voracious(게걸스러운)와 한 가족 — a voracious reader는 devour하는 사람이다
+- [[insatiable-adj]]와 결이 통한다
+
+---
+
 ### dignity
 
 *명사* · B2 · formal · /ˈdɪɡnəti/
@@ -3016,6 +3190,36 @@
 **구분**:
 - pride — 자부심(지나치면 오만). dignity는 남이 존중하게 만드는 품격·존엄
 - honor — 명예·평판(남의 평가). dignity는 태도와 존재 자체의 품위
+
+---
+
+### diminish
+
+*동사* · B2 · formal · /dɪˈmɪnɪʃ/
+
+**줄어들다, 약해지다; 줄이다, 깎아내리다**
+
+> to become smaller or weaker; to make something seem less important
+
+- His strength diminished week by week.
+  - 그의 기력은 주마다 약해졌다.
+  - 💡 자동사 — 저절로 줄어든다
+- Nothing could diminish what he had done.
+  - 그가 한 일을 깎아내릴 수 있는 건 없었다.
+  - 💡 타동사 — 가치를 낮추다
+- We're seeing diminishing returns on that spend.
+  - 그 지출은 효과가 점점 떨어지고 있다.
+  - 💡 diminishing returns = 수확 체감. 업무 회의에서 유용하다
+
+**연어**: diminishing returns, diminish in size, greatly diminished
+
+**유의어**: decrease, dwindle, lessen, detract from
+
+**구분**:
+- [[decay-n]]·[[wither-v]]와 같은 '서서히 줄어듦' 계열이지만 diminish가 가장 중립적이고 수치에도 쓴다
+- reduce — 누군가 의도적으로 줄이는 것. diminish는 저절로 줄어드는 쪽에 자주 쓴다
+- 명사는 diminution /ˌdɪmɪˈnjuːʃn/. 철자가 까다롭다
+- diminish someone = 그 사람을 하찮게 만들다. 사람 목적어는 조심해서 쓸 것
 
 ---
 
@@ -3099,6 +3303,36 @@
 **구분**:
 - disturb — 방해해서 불편하게 함(소음·수면). distract는 '집중'을 깨뜨림
 - 파생형 함께: distracted(형) 산만한 / distraction(명) 주의를 빼앗는 것
+
+---
+
+### distraction
+
+*명사* · B2 · /dɪˈstrækʃn/
+
+**주의를 흩뜨리는 것, 방해물; 기분 전환거리**
+
+> something that takes your attention away; also something pleasant that takes your mind off trouble
+
+- The TV was a welcome distraction.
+  - TV는 반가운 기분 전환이었다.
+  - 💡 a welcome distraction — 긍정 쪽 용법
+- He works at home to avoid distractions.
+  - 그는 방해받지 않으려고 집에서 일한다.
+  - 💡 부정 쪽 용법. 보통 복수
+- Work became a distraction from grief.
+  - 일은 슬픔을 잊게 해주는 수단이 되었다.
+  - 💡 a distraction from ~ = ~을 잊게 해주는 것
+
+**연어**: a welcome distraction, avoid distractions, a distraction from, drive someone to distraction
+
+**유의어**: interruption, diversion, amusement
+
+**구분**:
+- 같은 단어가 방해물도 되고 위안거리도 된다. welcome이나 from이 붙으면 대개 긍정 쪽이다
+- [[distract-v]]의 명사형이다
+- drive someone to distraction = 미치게 만들다. distraction이 '정신이 나간 상태'를 뜻하는 옛 용법에서 왔다
+- diversion — 기분 전환 쪽에 치우친 말. distraction은 양쪽을 다 덮는다
 
 ---
 
@@ -3579,6 +3813,34 @@
 
 ---
 
+### fatherly
+
+*형용사* · B2 · /ˈfɑːðəli/
+
+**아버지 같은, 자애로운**
+
+> kind and protective in the way a father is
+
+- He gave me a fatherly pat on the shoulder.
+  - 그는 아버지처럼 내 어깨를 두드렸다.
+- She valued his fatherly advice.
+  - 그는 그의 자애로운 조언을 소중히 여겼다.
+  - 💡 fatherly advice — 가장 흔한 짝
+- There was something fatherly in the way he listened.
+  - 그가 귀 기울이는 방식에는 아버지 같은 데가 있었다.
+
+**연어**: fatherly advice, a fatherly figure, fatherly concern
+
+**유의어**: paternal, protective, avuncular
+
+**구분**:
+- paternal — 더 격식 있고 중립적이며 '부계의'라는 법적·생물학적 뜻도 있다(paternal grandmother). fatherly는 따뜻한 태도만 가리킨다
+- avuncular — '삼촌 같은'. 다정하되 한 발 물러선 느낌이라 멘토에게 잘 어울린다
+- 같은 틀 — motherly, brotherly, sisterly
+- paternalistic은 부정적이다 — 과보호하며 간섭한다는 비판
+
+---
+
 ### fatigue
 
 *명사* · B2 · formal · /fəˈtiːɡ/
@@ -3754,6 +4016,35 @@
 
 ---
 
+### fondness
+
+*명사* · B2 · /ˈfɒndnəs/
+
+**좋아함, 애정; (~을) 즐기는 성향**
+
+> a feeling of liking or affection for someone or something
+
+- He had a fondness for old jazz.
+  - 그는 옛 재즈를 좋아했다.
+  - 💡 a fondness for ~ — 거의 고정된 틀
+- She spoke of him with real fondness.
+  - 그는 그를 진심 어린 애정으로 이야기했다.
+  - 💡 with fondness = 애정을 담아
+- His fondness for sweets never left him.
+  - 단것을 좋아하는 버릇은 끝내 사라지지 않았다.
+
+**연어**: a fondness for, with fondness, grow fond of
+
+**유의어**: affection, liking, attachment, partiality
+
+**구분**:
+- love보다 잔잔하고 오래된 애착이다. 고백에는 쓰지 않는다
+- 형용사 fond는 서술형으로 of와 함께 쓴다 — be fond of ~. fond memories(좋았던 기억)처럼 명사 앞에도 온다
+- affection — 사람에 대한 따뜻한 정. fondness는 사물·취향에도 폭넓게 쓴다
+- a fondness for에는 '좀 과하게 좋아한다'는 가벼운 농담기가 섞이기도 한다
+
+---
+
 ### for that matter
 
 *관용구* · C1 · /fər ðæt ˈmætər/
@@ -3864,6 +4155,36 @@
 - courage — 위험 앞에서 한 번 내는 용기. fortitude는 고통을 오래 버티는 인내라 시간 축이 다르다
 - [[mettle-n]] — 시험대에서 드러나는 기질. [[endure-v]]와 함께 묶어 외우면 좋다
 - intestinal fortitude — '배짱'을 뜻하는 미국식 농담 표현이다
+
+---
+
+### frustrate
+
+*동사* · B2 · /frʌˈstreɪt/
+
+**좌절시키다, 답답하게 하다; (계획을) 무산시키다**
+
+> to make someone feel annoyed and discouraged; to prevent a plan from succeeding
+
+- The delays frustrated everyone involved.
+  - 지연 때문에 관련된 모두가 답답해했다.
+  - 💡 사람을 목적어로 — 가장 흔한 용법
+- Bad weather frustrated their plans.
+  - 악천후가 그들의 계획을 무산시켰다.
+  - 💡 계획·시도를 목적어로 하면 '좌절시키다'
+- It frustrates me that nothing changes.
+  - 아무것도 바뀌지 않는다는 게 답답하다.
+  - 💡 It frustrates me that + 절
+
+**연어**: frustrate efforts, deeply frustrated, frustrating delay
+
+**유의어**: thwart, hinder, exasperate, discourage
+
+**구분**:
+- -ing는 답답하게 만드는 쪽, -ed는 내가 답답한 쪽이다 — a frustrating process / I'm frustrated
+- [[frustration-n]]의 동사형이다
+- thwart — 계획을 막는 뜻만 있다. frustrate는 사람의 감정과 계획 양쪽에 쓴다
+- 영어에서 frustrated는 한국어 '좌절'보다 가볍다. 일상적인 '답답함'에 자주 쓴다
 
 ---
 
@@ -4263,6 +4584,36 @@
 
 ---
 
+### grieve
+
+*동사* · B2 · /ɡriːv/
+
+**비통해하다, 슬퍼하다; 애도하다**
+
+> to feel deep sorrow, especially after someone has died
+
+- He needed time to grieve.
+  - 그에게는 슬퍼할 시간이 필요했다.
+  - 💡 자동사로 홀로 쓰는 것이 가장 흔하다
+- She was still grieving for her mother.
+  - 그는 아직 어머니를 잃은 슬픔에 잠겨 있었다.
+  - 💡 grieve for/over + 잃은 대상
+- It grieves me to say this.
+  - 이런 말을 하게 되어 마음이 아픕니다.
+  - 💡 타동사 용법 — 격식 있는 서두
+
+**연어**: grieve for, grieve over, the grieving process, a grieving family
+
+**유의어**: mourn, sorrow, lament
+
+**구분**:
+- [[mourn-v]]과 가장 헷갈린다 — grieve는 속으로 느끼는 슬픔, mourn은 겉으로 드러내는 애도·의례다. 장례는 mourn, 마음은 grieve
+- [[lament-v]]은 말이나 글로 드러내는 탄식이다. 셋을 '느낀다-드러낸다-말한다'로 나눠 외우면 선명하다
+- 명사는 grief. grief와 grieve의 철자·발음이 갈리니 주의 — /ɡriːf/ vs /ɡriːv/
+- grieving은 형용사로도 쓴다 — the grieving family(유가족)
+
+---
+
 ### halfheartedly
 
 *부사* · C1 · /ˌhæfˈhɑːrtɪdli/
@@ -4592,6 +4943,36 @@
 **구분**:
 - intuition — 직관(더 격식·추상적). hunch는 일상적이고 가벼운 '느낌'
 - instinctively — 본능적으로(부사). hunch는 그 느낌 자체를 가리키는 명사
+
+---
+
+### I bet you
+
+*구문* · B1 · informal · /aɪ ˈbet juː/
+
+**장담하는데, ~할걸, 분명 ~일 거야**
+
+> used to say you are confident something is true or will happen
+
+- I bet you he forgets again.
+  - 장담하는데 걔 또 잊어버릴걸.
+  - 💡 뒤에 that 없이 바로 절이 온다
+- I bet you were exhausted.
+  - 너 진짜 피곤했겠다.
+  - 💡 상대의 처지에 공감할 때도 쓴다
+- I'll bet you anything she says no.
+  - 걔가 싫다고 할 거라고 뭐든 걸 수 있어.
+  - 💡 I'll bet you anything — 확신을 더 세게
+
+**연어**: I bet you anything, I bet, you bet
+
+**유의어**: I'm sure, I guarantee, mark my words
+
+**구분**:
+- 실제로 돈을 거는 게 아니라 확신을 드러내는 장치다. 구어 전용이라 문서에는 쓰지 않는다
+- You bet! — 전혀 다른 뜻으로 '물론이지!'라는 맞장구다. 주어가 바뀌면 뜻이 바뀐다
+- I bet 뒤에 that을 넣어도 되지만 보통 생략한다
+- 비꼬는 투로도 쓴다 — I bet.(그러시겠지)
 
 ---
 
@@ -5331,6 +5712,65 @@
 
 ---
 
+### lament
+
+*동사* · C1 · formal · /ləˈment/
+
+**한탄하다, 애통해하다; (명사) 애가, 탄식**
+
+> to express sorrow or regret about something, usually in words
+
+- She lamented the years she had wasted.
+  - 그는 허비한 세월을 한탄했다.
+  - 💡 목적어를 바로 취한다 — lament + 명사
+- He lamented that no one had warned him.
+  - 그는 아무도 미리 알려주지 않았다고 한탄했다.
+  - 💡 lament that + 절
+- The song is a lament for a lost city.
+  - 그 노래는 사라진 도시를 위한 애가다.
+  - 💡 명사 용법 — a lament for ~
+
+**연어**: lament the loss of, much-lamented, a lament for
+
+**유의어**: bemoan, deplore, mourn, regret
+
+**구분**:
+- [[grieve-v]]는 속으로 슬퍼하는 것, [[mourn-v]]는 겉으로 드러내는 애도, lament는 말이나 글로 드러내는 탄식이다. 셋이 미묘하게 갈린다
+- 이미 등록된 [[bemoan-v]]와 거의 같다. bemoan 쪽이 불평에 가깝고 lament는 더 무겁고 문학적이다
+- the late lamented ~ = 고인이 된 (애도받는). 부고에서 쓰는 격식체
+
+---
+
+### latter
+
+*형용사* · B2 · formal · /ˈlætə/
+
+**(둘 중) 후자의; (기간의) 후반의**
+
+> the second of two things mentioned; nearer the end of a period
+
+- Of the two options, I prefer the latter.
+  - 두 선택지 중 나는 후자가 좋다.
+  - 💡 the latter — 앞서 말한 둘 중 뒤의 것
+- He taught sociology and philosophy; the former came easily, the latter did not.
+  - 그는 사회학과 철학을 가르쳤다. 전자는 수월했지만 후자는 그렇지 않았다.
+  - 💡 the former ... the latter — 짝으로 쓴다
+- His health declined in the latter half of the year.
+  - 그의 건강은 그해 후반기에 나빠졌다.
+  - 💡 latter half/part = 후반부
+
+**연어**: the former ... the latter, the latter half, in latter years
+
+**유의어**: the second, the last-mentioned
+
+**구분**:
+- later(더 늦은)와 철자가 한 끗 차이다. 발음도 다르다 — latter /ˈlætə/, later /ˈleɪtə/
+- 둘일 때만 쓴다. 셋 이상이면 the last를 쓴다 — 가장 자주 하는 실수다
+- the former(전자)와 짝이다. 읽는 사람이 앞으로 되짚어야 하므로 남발하면 글이 불친절해진다
+- latter-day = 현대의, 요즘의 (Latter-day Saints는 몰몬교)
+
+---
+
 ### leisure
 
 *명사* · B2 · /ˈliːʒər/
@@ -5693,6 +6133,36 @@
 
 ---
 
+### mourn
+
+*동사* · B2 · /mɔːn/
+
+**애도하다, 상을 치르다; (잃은 것을) 아쉬워하다**
+
+> to show sorrow for someone who has died, often publicly
+
+- The whole town mourned him.
+  - 온 마을이 그를 애도했다.
+  - 💡 목적어를 바로 취한다
+- They mourned for three days.
+  - 그들은 사흘간 상을 치렀다.
+  - 💡 mourn for + 기간/대상
+- He mourned the loss of his independence.
+  - 그는 자립을 잃은 것을 아쉬워했다.
+  - 💡 사람이 아닌 것에도 쓴다 — mourn the loss of ~
+
+**연어**: mourn the loss of, mourn for, in mourning, a period of mourning
+
+**유의어**: grieve, lament, bemoan
+
+**구분**:
+- [[grieve-v]]는 속의 감정, mourn은 겉으로 드러내는 애도다. in mourning(상중)처럼 사회적 상태를 가리킨다
+- 명사 mourning(애도, 상)과 morning(아침)은 발음이 같다. 문맥으로만 구분된다
+- mourner = 조문객. a chief mourner는 상주다
+- [[lament-v]]은 말로 하는 탄식이라 셋 중 가장 언어적이다
+
+---
+
 ### multitude
 
 *명사* · C1 · formal · /ˈmʌltɪtjuːd/
@@ -5743,6 +6213,65 @@
 **구분**:
 - must + 동사원형 — 그 행위를 반드시 해야 한다 (행위 의무)
 - should be able to — ~할 수 있어야 마땅하다 (당위, must보다 약함)
+
+---
+
+### mutter
+
+*동사* · B2 · /ˈmʌtə/
+
+**(불만스럽게) 중얼거리다, 웅얼거리다**
+
+> to speak quietly and unclearly, often when complaining
+
+- He muttered something under his breath.
+  - 그는 뭔가를 낮게 중얼거렸다.
+  - 💡 under one's breath와 거의 붙어 다닌다
+- She muttered an apology and left.
+  - 그는 웅얼거리듯 사과하고 자리를 떴다.
+- The crowd was muttering about the delay.
+  - 사람들이 지연을 두고 수군거리고 있었다.
+  - 💡 mutter about ~ = ~에 대해 투덜거리다
+
+**연어**: mutter under one's breath, mutter something, mutter about
+
+**유의어**: mumble, grumble, murmur
+
+**구분**:
+- mumble — 발음이 불분명해 안 들리는 것(불만과 무관). mutter는 '일부러 작게' 말하는 불평이다
+- murmur — 조용하고 부드러운 소리. 다정할 수도 있어 뉘앙스가 반대다
+- grumble — 대놓고 투덜거리는 것. mutter는 상대가 못 듣길 바라는 쪽
+- [[bemoan-v]]과 달리 입 밖에 제대로 내지 않는다는 점이 핵심이다
+
+---
+
+### nasty
+
+*형용사* · B1 · informal · /ˈnɑːsti/
+
+**고약한, 심술궂은; (상처·날씨가) 지독한, 역겨운**
+
+> unpleasant, unkind, or serious and painful
+
+- He made a nasty remark about her weight.
+  - 그는 그의 체중에 대해 고약한 말을 했다.
+  - 💡 사람·말에 쓰면 '심술궂다'
+- She had a nasty fall on the stairs.
+  - 그는 계단에서 크게 넘어졌다.
+  - 💡 사고·상처에 쓰면 '심한'
+- There's a nasty smell in here.
+  - 여기 역한 냄새가 난다.
+  - 💡 감각에 쓰면 '역겨운'
+
+**연어**: a nasty remark, a nasty surprise, turn nasty, a nasty piece of work
+
+**유의어**: unpleasant, vicious, foul, severe
+
+**구분**:
+- 붙는 명사에 따라 뜻이 꽤 달라진다 — 말/사람(심술궂은), 사고/상처(심한), 냄새/맛(역한), 날씨(궂은)
+- turn nasty = (상황이) 험악해지다
+- a nasty piece of work = 아주 못된 사람. 영국 구어
+- 구어라 업무 문서에는 unpleasant나 severe를 쓴다
 
 ---
 
@@ -6089,6 +6618,36 @@
 
 ---
 
+### occasionally
+
+*부사* · B1 · /əˈkeɪʒnəli/
+
+**가끔, 이따금, 때때로**
+
+> sometimes but not often
+
+- He occasionally forgot what day it was.
+  - 그는 가끔 무슨 요일인지 잊곤 했다.
+  - 💡 일반동사 앞, be동사 뒤가 기본 자리다
+- Occasionally she would call late at night.
+  - 이따금 그는 밤늦게 전화하곤 했다.
+  - 💡 문두에 놓아 강조할 수 있다
+- The pain returned only occasionally.
+  - 통증은 아주 가끔만 돌아왔다.
+  - 💡 only occasionally = 드물게
+
+**연어**: only occasionally, occasionally used, very occasionally
+
+**유의어**: sometimes, from time to time, now and then, sporadically
+
+**구분**:
+- [[occasion-n]]의 부사형이다. 철자 주의 — c 두 개, s 하나, l 두 개
+- [[now-and-then-idiom]]과 뜻이 거의 같다. occasionally가 조금 더 격식 있어 문서에 쓰기 좋다
+- 빈도 순서 — always > often > sometimes > occasionally > rarely > never
+- sometimes보다 드물다는 느낌이 강하다
+
+---
+
 ### occur
 
 *동사* · B2 · formal · /əˈkɜː/
@@ -6201,6 +6760,36 @@
 - 긴장되면서도 재미있다는 긍정적인 말이다. 불안·공포만 있을 때는 쓰지 않는다
 - on edge(신경이 곤두선)와 전혀 다르다 — 이쪽은 예민하고 짜증난 상태다. the가 있고 없고로 갈린다
 - 소유격은 주어에 맞춘다 — our seats처럼 복수면 seat도 복수로 쓰는 것이 자연스럽다
+
+---
+
+### on with
+
+*구문* · C1 · informal · /ɒn wɪð/
+
+**(하던 일을) 계속 이어가다, ~로 넘어가다**
+
+> used to say that something should continue or resume
+
+- He cried for a while, and then on with the day.
+  - 그는 잠시 울고는, 그러고 나서 하루를 이어갔다.
+  - 💡 동사 없이 쓰는 생략형. 앞의 일을 끝내고 넘어간다는 그림
+- On with the show!
+  - 쇼는 계속된다!
+  - 💡 가장 유명한 형태. 무슨 일이 있어도 계속한다는 뜻
+- Let's get on with it.
+  - 자, 그냥 계속하자.
+  - 💡 get on with ~ — 실제로 훨씬 자주 쓰는 완전한 형태
+
+**연어**: on with the show, get on with it, get on with your life
+
+**유의어**: continue with, carry on with, proceed to
+
+**구분**:
+- from then on(그때부터 쭉)과 혼동하기 쉽다. 글자가 겹쳐 보이지만 from then on은 시점 이후를 가리키는 전혀 다른 표현이다
+- 실제 문장에서는 get on with 형태가 압도적으로 흔하다. on with 단독은 명령·감탄조의 생략형이다
+- get on with someone은 '~와 잘 지내다'로 뜻이 완전히 달라진다. 뒤에 사람이 오는지 일이 오는지로 갈린다
+- get on with it = 꾸물대지 말고 해라. 재촉하는 말이라 윗사람에게는 쓰지 않는다
 
 ---
 
@@ -6563,6 +7152,36 @@
 - 미국에서는 plaid, 영국에서는 tartan이나 check를 더 쓴다
 - checkered는 보통 두 색 정사각형(체스판 무늬). plaid는 여러 줄이 교차해 더 복잡하다
 - [[flannel-n]]과 자주 붙어 나온다 — a plaid flannel shirt
+
+---
+
+### plead
+
+*동사* · B2 · /pliːd/
+
+**간청하다, 애원하다; (법정에서) 답변하다, 주장하다**
+
+> to beg for something; to state formally in court whether you are guilty
+
+- She pleaded with him to stay.
+  - 그는 그에게 머물러 달라고 애원했다.
+  - 💡 plead with + 사람 + to do — 간청의 기본 틀
+- He pleaded guilty to the lesser charge.
+  - 그는 더 가벼운 혐의에 대해 유죄를 인정했다.
+  - 💡 plead guilty/not guilty — 법정의 굳은 표현
+- They pleaded ignorance.
+  - 그들은 몰랐다고 주장했다.
+  - 💡 plead + 명사 = ~를 이유로 내세우다 (plead ignorance, plead poverty)
+
+**연어**: plead with someone, plead guilty, plead ignorance, plead one's case
+
+**유의어**: beg, implore, entreat, appeal
+
+**구분**:
+- 과거형이 둘이다 — pleaded(표준, 양쪽 다 통용) / pled(미국 구어·법조계). 글에서는 pleaded가 안전하다
+- beg — 더 절박하고 자존심을 내려놓은 느낌. plead는 이유를 들어 설득하는 결이 있다
+- 사람에게 애원할 때는 반드시 with를 쓴다 — plead him ✗ / plead with him ○
+- 명사는 plea(간청, 답변). a plea for help / a plea bargain(형량 협상)
 
 ---
 
@@ -7093,6 +7712,36 @@
 - cite — 출처를 밝히다(학술). quote는 말·글을 그대로 옮기다
 - quotation — 격식체 명사. 회화·실무에서는 quote가 압도적
 - [[saying-n]]과 비교 — quote는 특정인의 말, saying은 출처 없는 격언
+
+---
+
+### ramble
+
+*동사* · C1 · informal · /ˈræmbl/
+
+**횡설수설하다, 두서없이 길게 말하다; 정처 없이 거닐다**
+
+> to talk at length without a clear point; to walk for pleasure without a fixed route
+
+- Sorry, I'm rambling.
+  - 미안, 내가 말이 길어졌네.
+  - 💡 말이 샜다고 스스로 인정할 때 쓰는 상투구
+- He rambled on about the old days.
+  - 그는 옛날 이야기를 끝도 없이 늘어놓았다.
+  - 💡 ramble on about ~ — 가장 흔한 형태
+- We spent the afternoon rambling through the hills.
+  - 우리는 오후 내내 산길을 거닐었다.
+  - 💡 원래 뜻 — 목적지 없이 걷다. 영국에서 흔하다
+
+**연어**: ramble on, ramble about, a rambling speech
+
+**유의어**: waffle, digress, meander, wander
+
+**구분**:
+- 형용사 rambling은 '두서없는'(a rambling email)과 '불규칙하게 뻗은'(a rambling old house) 두 뜻이 있다
+- digress — 본론에서 잠깐 벗어나는 것(돌아올 생각이 있다). ramble은 아예 길을 잃은 쪽
+- 영국에서 rambling은 취미로서의 '도보 여행'을 뜻한다. a rambling club은 산책 동호회다
+- 자기 말에 쓰면 겸손, 남에게 쓰면 무례할 수 있다
 
 ---
 
@@ -7860,6 +8509,35 @@
 
 ---
 
+### shortage
+
+*명사* · B1 · /ˈʃɔːtɪdʒ/
+
+**부족, 결핍, 품귀**
+
+> a situation in which there is not enough of something
+
+- The hospital faced a shortage of nurses.
+  - 그 병원은 간호 인력 부족에 시달렸다.
+  - 💡 a shortage of + 명사 — 기본 틀
+- There's no shortage of opinions around here.
+  - 여기 의견이야 차고 넘친다.
+  - 💡 no shortage of ~ — 반어적으로 '넘친다'는 뜻. 아주 흔하다
+- A chronic housing shortage pushed prices up.
+  - 만성적인 주택 부족이 가격을 끌어올렸다.
+
+**연어**: a shortage of, no shortage of, labor shortage, chronic shortage
+
+**유의어**: lack, deficit, scarcity, deficiency
+
+**구분**:
+- [[scant-adj]]·[[absence-n]]과 정도가 다르다 — absence(아예 없음) > shortage(모자람) > scant(빠듯함)
+- no shortage of는 부정이 아니라 강한 긍정이다. 직역하면 뜻이 뒤집히니 주의
+- scarcity — 더 격식 있고 자원·식량에 쓴다. shortage는 일상적이고 일시적인 느낌
+- 가산명사다 — a shortage, shortages 모두 쓴다
+
+---
+
 ### shrink
 
 *동사* · B2 · /ʃrɪŋk/
@@ -7887,6 +8565,36 @@
 - [[wither-v]]는 생명력이 마르는 쪽, shrink는 크기가 주는 쪽
 - [[flinch-v]] — 순간 움찔. shrink from은 꺼려서 뒤로 물러나 계속 피하는 쪽
 - 구어로 shrink는 '정신과 의사'라는 뜻도 있다
+
+---
+
+### shrivel
+
+*동사* · C1 · /ˈʃrɪvl/
+
+**쪼그라들다, 시들어 주름지다**
+
+> to become dry, smaller, and wrinkled
+
+- His hands shriveled over the months.
+  - 그의 손은 몇 달에 걸쳐 쪼그라들었다.
+  - 💡 병으로 마르는 몸을 묘사할 때
+- The leaves shriveled up in the heat.
+  - 더위에 잎이 바싹 오그라들었다.
+  - 💡 shrivel up — up이 붙어 '바싹'이 강조된다
+- She felt herself shrivel under his gaze.
+  - 그의 시선 아래 그는 자신이 움츠러드는 것을 느꼈다.
+  - 💡 비유 — 주눅 들다
+
+**연어**: shrivel up, shriveled skin, shrivel and die
+
+**유의어**: wither, shrink, wrinkle, dry up
+
+**구분**:
+- [[wither-v]]는 생명력이 마르는 것, [[shrink-v]]는 크기가 주는 것, shrivel은 '마르면서 주름까지 잡히는' 쪽이다. 셋 중 가장 시각적이다
+- 철자 주의 — 미국식 shriveled/shriveling(l 하나), 영국식 shrivelled/shrivelling(l 둘)
+- [[gaunt-adj]]와 같은 투병 묘사 어휘군이다
+- 형용사 shriveled는 과일·피부·풍선 등 어디에나 쓴다
 
 ---
 
@@ -9620,6 +10328,34 @@
 - 여기서 way는 '길'이 아니라 부사·전치사를 키우는 강조어다 — way too expensive(너무 비싼)
 - 구어체다. 격식 있는 글에서는 far above나 high up을 쓴다
 - all the way up이면 '끝까지 쭉 위로'가 된다
+
+---
+
+### wee
+
+*형용사* · C1 · informal · /wiː/
+
+**아주 작은, 조그만 (스코틀랜드·아일랜드 말투)**
+
+> very small; also used of the earliest hours of the morning
+
+- I'm a wee bit tired.
+  - 나 좀 피곤해.
+  - 💡 a wee bit = 조금. 가장 흔한 형태다
+- He was still awake in the wee hours.
+  - 그는 새벽녘까지 깨어 있었다.
+  - 💡 the wee hours = 자정 넘은 새벽 시간. 굳어진 표현
+- She gave him a wee smile.
+  - 그는 그에게 살짝 미소를 지었다.
+
+**연어**: a wee bit, the wee hours, a wee while
+
+**유의어**: tiny, little, small
+
+**구분**:
+- 스코틀랜드·아일랜드 영어에서 왔다. 다른 지역에서도 쓰지만 다정하고 장난기 있는 말투로 들린다
+- little보다 애정이 담긴 축소어다. 공식 문서에는 쓰지 않는다
+- 영국 구어에서 wee는 '소변(보다)'이라는 뜻도 있다(need a wee). 문맥을 살필 것
 
 ---
 

@@ -121,8 +121,12 @@ git push                            # 1~2분 뒤 반영
 
 ## 현재 상태
 
-- 등록 단어: 356개
-- 마지막 갱신: 2026-10-06 (bother 1개 — bother/bothered/bothering/bother to
+- 등록 단어: 381개
+- 마지막 갱신: 2026-10-07 (대화 중 질문 25개 — 애도·투병 맥락.
+  mutteres는 mutter 오타로 정정. "then on with"는 on with로 등록하고
+  from then on과의 혼동을 구분 메모에 남김. barely·now and then·squirm·insidious는
+  기존 항목이라 건너뜀. grieve/mourn/lament를 '느낀다-드러낸다-말한다'로 묶어 연결)
+- 이전 갱신: 2026-10-06 (bother 1개 — bother/bothered/bothering/bother to
   네 용법을 한 항목에 예문 11개로 묶음)
 - 같은 날 앞서: 모바일에서 따로 질의한 CSV 정리 — 83항목 중 52개는
   이미 등록돼 있어 건너뛰고 신규 30개만 추가. intend on은 비표준형이라

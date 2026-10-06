@@ -1,0 +1,134 @@
+2026-10-07 대화 중 질문 (사용자 단어 목록 — 애도·투병 맥락, Tuesdays with Morrie 계열)
+
+원본 그대로:
+wee
+devoured
+lament
+diminishing
+distraction
+barely
+mutteres
+plead
+now and then
+ramble
+contrary
+bet you
+fatherly
+fondness
+occasionally
+anguish
+grieving
+agitate
+squirm
+nasty
+confrontation
+shortage
+frustrate
+mourn
+then on with
+insidious
+corpse
+latter
+shriveling
+
+표기 메모:
+- mutteres → muttered 오타. 기본형 mutter로 등록
+- "then on with" — 불확실. ① on with ~ (계속 ~로 넘어가다; and then on with the day)
+  ② from then on (그때부터 쭉) 두 갈래. 글자상 ①에 가까워 on with로 등록하고
+  ②는 구분 메모에 넣었다. 원문 확인 필요
+- barely, now and then, squirm, insidious는 이미 등록돼 있어 건너뜀
+- devoured/diminishing/grieving/shriveling은 기본형 devour·diminish·grieve·shrivel로 등록
+
+답변 요지:
+
+wee /wiː/ adj — 아주 작은 (스코틀랜드·아일랜드 말투)
+  a wee bit tired / the wee hours (새벽 두세 시)
+  애정 어린 축소어라 little보다 다정하다
+
+devour /dɪˈvaʊə/ v — 게걸스럽게 먹어치우다; 탐독하다
+  He devoured the book in one night.
+  책·정보에 쓰는 비유가 실제로 더 흔하다
+
+lament /ləˈment/ v, n — 한탄하다, 애통해하다; 애가
+  She lamented the years she had wasted.
+  말이나 글로 드러내는 탄식
+
+diminish /dɪˈmɪnɪʃ/ v — 줄어들다, 약해지다; 깎아내리다
+  His strength diminished week by week.
+  diminishing returns(수확 체감)
+
+distraction /dɪˈstrækʃn/ n — 주의를 흩뜨리는 것; 기분 전환거리
+  The TV was a welcome distraction.
+  같은 단어가 방해물도 위안거리도 된다. distract의 명사형
+
+mutter /ˈmʌtə/ v — (불만스럽게) 중얼거리다
+  He muttered something under his breath.
+  under one's breath와 거의 붙어 다닌다
+
+plead /pliːd/ v — 간청하다; (법정에서) 답변하다
+  She pleaded with him to stay. / plead guilty
+  과거형 pleaded(표준) / pled(미국 구어)
+
+ramble /ˈræmbl/ v — 횡설수설하다; 정처 없이 거닐다
+  Sorry, I'm rambling. / ramble on about ~
+
+contrary /ˈkɒntrəri/ adj, n — 반대의, 정반대
+  On the contrary, he looked relieved.
+  contrary to popular belief
+
+I bet you — 장담하는데, ~할걸
+  I bet you he forgets again.
+  구어 전용. 돈을 거는 게 아니라 확신의 표현
+
+fatherly /ˈfɑːðəli/ adj — 아버지 같은, 자애로운
+  He gave me a fatherly pat on the shoulder. / fatherly advice
+
+fondness /ˈfɒndnəs/ n — 좋아함, 애정
+  He had a fondness for old jazz.
+  love보다 잔잔하고 오래된 애착
+
+occasionally /əˈkeɪʒnəli/ adv — 가끔, 이따금
+  occasion의 부사형. now and then과 거의 같고 조금 더 격식 있다
+
+anguish /ˈæŋɡwɪʃ/ n — 극심한 정신적 고통, 번민
+  a cry of anguish / in anguish
+  pain보다 훨씬 깊고 정신적
+
+grieve /ɡriːv/ v — 비통해하다, 슬퍼하다
+  He needed time to grieve. / grieve for/over ~
+
+agitate /ˈædʒɪteɪt/ v — 동요시키다; 선동하다; 휘젓다
+  The question agitated him.
+  형용사 agitated(불안해하는)가 훨씬 자주 쓰인다
+
+nasty /ˈnɑːsti/ adj — 고약한, 심술궂은; (상처·날씨가) 지독한
+  a nasty remark / a nasty fall
+  사람·말·사고·날씨 어디에나 붙는 만능 부정어
+
+confrontation /ˌkɒnfrʌnˈteɪʃn/ n — 대립, 충돌; 대면
+  He avoided confrontation all his life.
+
+shortage /ˈʃɔːtɪdʒ/ n — 부족, 결핍
+  a shortage of nurses / no shortage of ~ (차고 넘친다, 반어)
+
+frustrate /frʌˈstreɪt/ v — 좌절시키다; (계획을) 무산시키다
+  The delays frustrated everyone.
+  frustration의 동사형
+
+mourn /mɔːn/ v — 애도하다, 상을 치르다
+  The whole town mourned him.
+  grieve는 속으로 슬퍼하는 것, mourn은 겉으로 드러내는 애도
+
+on with — 계속 ~로 넘어가다, 이어가다
+  On with the show! / ...and then on with the day.
+
+corpse /kɔːps/ n — 시체
+  발음에서 p를 읽는다(코업스). corps(군단)는 /kɔː/로 p, s 모두 묵음
+
+latter /ˈlætə/ adj — (둘 중) 후자의; 후반의
+  I prefer the latter. / the former ... the latter
+  later(더 늦은)와 철자 한 끗 차이
+
+shrivel /ˈʃrɪvl/ v — 쪼그라들다, 시들어 주름지다
+  His hands shriveled over the months.
+  wither, shrink와 한 묶음
