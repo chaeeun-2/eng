@@ -1,4 +1,4 @@
-# 단어장 (총 408개)
+# 단어장 (총 411개)
 
 `data/vocab.jsonl`에서 자동 생성. 직접 수정 금지.
 
@@ -1130,6 +1130,36 @@
 - 영국에서는 loft를 더 쓴다. attic도 통하지만 loft가 일상어
 - garret — 더 옛스럽고 '가난한 예술가의 다락'이라는 문학적 뉘앙스가 붙는다
 - 회고담에서 '잊힌 물건이 나오는 곳'으로 자주 등장한다
+
+---
+
+### aversion
+
+*명사* · C1 · formal · /əˈvɜːrʒn/
+
+**혐오, 싫어함, 반감**
+
+> a strong feeling of not liking something
+
+- She has a strong aversion to hospitals.
+  - 그녀는 병원을 몹시 싫어한다.
+  - 💡 aversion to — 전치사는 to
+- He had an aversion to talking about his past.
+  - 그는 자기 과거에 대해 말하는 것을 꺼렸다.
+  - 💡 aversion to + -ing
+- Investors have shown a growing aversion to risk.
+  - 투자자들은 점점 위험을 기피하는 모습을 보였다.
+  - 💡 risk aversion — 경제 용어
+
+**연어**: an aversion to, a strong aversion, risk aversion, take an aversion to
+
+**유의어**: dislike, distaste, repugnance, antipathy
+
+**구분**:
+- 형용사 averse — be averse to(~을 싫어하다), risk-averse(위험 회피형)
+- [[avert-v]](눈길을 돌리다·막다)와 같은 뿌리 — '고개를 돌릴 만큼 싫음'
+- adverse(불리한, 해로운)와 철자가 비슷해 헷갈린다 — adverse effects ≠ aversion
+- dislike보다 강하고, hatred보다는 약한 '본능적 거부감'
 
 ---
 
@@ -5988,6 +6018,36 @@
 
 ---
 
+### irritated
+
+*형용사* · B1 · /ˈɪrɪteɪtɪd/
+
+**짜증 난, 신경이 거슬린; (피부가) 따끔거리는**
+
+> annoyed or slightly angry; (of skin) red and sore
+
+- She looked irritated when he interrupted her again.
+  - 그가 또 말을 끊자 그녀는 짜증 난 표정이었다.
+  - 💡 irritated — 짜증을 느끼는 사람
+- I'm a little irritated with him right now.
+  - 지금 그 사람한테 좀 짜증 나 있어.
+  - 💡 irritated with/at 사람, irritated by/at 일
+- My skin gets irritated by this soap.
+  - 이 비누를 쓰면 피부가 따끔거린다.
+  - 💡 의학·피부 용법
+
+**연어**: get irritated, irritated with someone, irritated by the noise, irritated skin
+
+**유의어**: annoyed, bothered, exasperated, agitated
+
+**구분**:
+- irritated(짜증 난 사람) ↔ irritating(짜증 나게 하는 것) — 감정 형용사 -ed/-ing 규칙
+- [[annoyance-n]]의 annoyed와 거의 같지만 irritated는 '자꾸 긁혀서 신경이 곤두선' 느낌이 조금 더 있다
+- [[agitate-v]]는 불안·동요, irritated는 짜증 — 결이 다르다
+- 동사 irritate, 명사 irritation
+
+---
+
 ### jibe with
 
 *구문* · C2 · informal · /dʒaɪb wɪð/
@@ -10795,6 +10855,33 @@
 - un-(반대) + fold(접다). 접힌 종이를 펴듯 사건이 드러난다는 비유
 - 자동사로 쓸 때는 목적어가 없다 — The plan unfolded ○ / unfolded the plan은 '펼쳐 보였다'는 다른 뜻
 - play out — 거의 같은 뜻의 구어체. unfold가 더 문어적이다
+
+---
+
+### unjustly
+
+*부사* · C1 · formal · /ʌnˈdʒʌstli/
+
+**부당하게, 억울하게**
+
+> in a way that is not fair or morally right
+
+- He felt he had been unjustly accused.
+  - 그는 자신이 억울하게 누명을 썼다고 느꼈다.
+  - 💡 be unjustly accused — 가장 흔한 짝
+- She was unjustly blamed for the accident.
+  - 그녀는 그 사고에 대해 부당하게 비난받았다.
+- Many people were unjustly imprisoned during the war.
+  - 전쟁 중 많은 사람이 부당하게 투옥되었다.
+
+**연어**: unjustly accused, unjustly treated, unjustly imprisoned, unjustly blamed
+
+**유의어**: unfairly, wrongly, wrongfully
+
+**구분**:
+- unfairly가 일상어, unjustly는 도덕·법적 정의를 건드리는 좀 더 무거운 말이다
+- 형용사 unjust, 명사 injustice — un-이 아니라 in-이 붙는 점 주의
+- [[accuse-v]]와 자주 붙는다
 
 ---
 
