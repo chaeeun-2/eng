@@ -1,4 +1,4 @@
-# 단어장 (총 381개)
+# 단어장 (총 408개)
 
 `data/vocab.jsonl`에서 자동 생성. 직접 수정 금지.
 
@@ -519,6 +519,33 @@
 
 ---
 
+### altruism
+
+*명사* · C1 · formal · /ˈæltruɪzəm/
+
+**이타심, 이타주의**
+
+> unselfish concern for the welfare of others
+
+- She volunteered out of pure altruism.
+  - 그녀는 순수한 이타심에서 자원봉사를 했다.
+  - 💡 out of altruism — 이타심에서
+- Is there such a thing as true altruism?
+  - 진정한 이타심이라는 게 있기나 할까?
+- His altruism was rare in such a competitive world.
+  - 그토록 경쟁적인 세상에서 그의 이타심은 드물었다.
+
+**연어**: pure altruism, an act of altruism, out of altruism, effective altruism
+
+**유의어**: selflessness, unselfishness, generosity
+
+**구분**:
+- 형용사 altruistic, 반대말 egoism·selfishness
+- alter(다른)와 같은 뿌리 — '남'을 위하는 마음
+- [[compassionate-adj]]는 남의 고통에 공감하는 감정, altruism은 실제로 남을 위해 행동하는 태도
+
+---
+
 ### amid
 
 *구문* · B2 · formal · /əˈmɪd/
@@ -790,6 +817,34 @@
 **구분**:
 - insist — 말로 강하게 우김. assert one's will은 실제로 관철되는 결과까지 함의
 - assert oneself — 자기 주장을 당당히 하다 (더 일상적이고 중립적)
+
+---
+
+### assess
+
+*동사* · B2 · /əˈses/
+
+**평가하다, (상황·가치를) 따져 판단하다**
+
+> to judge or decide the amount, value, quality, or importance of something
+
+- The doctors are still assessing the damage.
+  - 의사들은 아직 손상 정도를 평가하고 있다.
+  - 💡 원문 assessing — 진행형
+- We need to assess the risks before we decide.
+  - 결정하기 전에 위험 요소를 따져 봐야 해.
+- The house was assessed at $300,000.
+  - 그 집은 30만 달러로 평가되었다.
+  - 💡 가치 산정
+
+**연어**: assess the situation, assess the damage, assess the risk, assess someone's needs
+
+**유의어**: evaluate, judge, gauge, appraise
+
+**구분**:
+- evaluate와 거의 같지만 assess는 '현재 상태를 진단'하는 쪽, evaluate는 '좋고 나쁨을 매기는' 쪽에 가깝다
+- 명사 assessment — risk assessment, performance assessment
+- s가 두 번씩 — a-ss-e-ss
 
 ---
 
@@ -1990,6 +2045,33 @@
 
 ---
 
+### chivalrous
+
+*형용사* · C1 · /ˈʃɪvlrəs/
+
+**(여성·약자에게) 정중하고 친절한, 기사도적인**
+
+> polite, kind, and honourable, especially toward women
+
+- It was chivalrous of him to give up his seat.
+  - 그가 자리를 양보한 건 신사다운 행동이었다.
+  - 💡 It is chivalrous of 사람 to ~
+- He had an old-fashioned, chivalrous way about him.
+  - 그에게는 구식이지만 기사도적인 면모가 있었다.
+- Some people find chivalrous gestures outdated.
+  - 어떤 사람들은 기사도적 몸짓을 시대에 뒤떨어졌다고 여긴다.
+
+**연어**: a chivalrous gesture, chivalrous behavior, old-fashioned and chivalrous
+
+**유의어**: gallant, gentlemanly, courteous
+
+**구분**:
+- 발음 주의 — ch를 /ʃ/로 읽는다 (프랑스어 chevalier에서 옴)
+- 명사 chivalry — Chivalry is not dead(기사도는 아직 살아 있다)는 굳은 말
+- polite는 일반 예의, chivalrous는 문 열어주기·자리 양보 같은 '보호하는' 예의
+
+---
+
 ### claim as well
 
 *구문* · B2 · /kleɪm əz wel/
@@ -2664,6 +2746,32 @@
 
 ---
 
+### cryptic
+
+*형용사* · C1 · /ˈkrɪptɪk/
+
+**수수께끼 같은, 아리송한, 숨은 뜻이 있는**
+
+> having a meaning that is mysterious or not obvious
+
+- He left a cryptic note on the table.
+  - 그는 탁자 위에 알쏭달쏭한 쪽지를 남겼다.
+- Her reply was short and cryptic.
+  - 그녀의 답은 짧고 수수께끼 같았다.
+- He made a cryptic remark about 'the end of the story.'
+  - 그는 '이야기의 끝'에 대해 알 듯 모를 듯한 말을 했다.
+
+**연어**: a cryptic message, a cryptic remark, a cryptic clue, cryptic crossword
+
+**유의어**: mysterious, enigmatic, obscure, puzzling
+
+**구분**:
+- crypt(지하 묘소)·cryptography(암호학)와 같은 뿌리 — '숨겨진'
+- [[impenetrable-adj]]는 아예 못 알아먹는 것, cryptic은 뜻이 있는 것 같은데 일부러 감춘 듯한 것
+- vague(모호한)는 그냥 불분명, cryptic은 '해독해야 하는' 느낌
+
+---
+
 ### cut off from
 
 *구동사* · B2 · /kʌt ˈɔːf frəm/
@@ -3076,6 +3184,35 @@
 
 ---
 
+### despair
+
+*명사* · B2 · /dɪˈsper/
+
+**절망, 체념**
+
+> the complete loss or absence of hope
+
+- He fell into despair after the diagnosis.
+  - 진단을 받은 뒤 그는 절망에 빠졌다.
+- In despair, she called her old friend.
+  - 절망한 끝에 그녀는 옛 친구에게 전화했다.
+  - 💡 in despair — 절망하여
+- Don't despair — we still have time.
+  - 절망하지 마. 아직 시간이 있어.
+  - 💡 동사 용법 — despair (of)
+
+**연어**: fall into despair, in despair, a sense of despair, despair of
+
+**유의어**: hopelessness, desperation, anguish
+
+**구분**:
+- desperate(필사적인, 절박한)는 아직 무언가를 시도하는 상태, despair는 희망을 놓아버린 상태
+- 동사 despair of ~ — ~을 단념하다 (I despair of ever finding him)
+- [[anguish-n]]은 극심한 고통, despair는 희망이 없음 — 결이 다르다
+- [[defeatism-n]]과 같은 무력감 어휘군
+
+---
+
 ### despite
 
 *구문* · B2 · /dɪˈspaɪt/
@@ -3278,6 +3415,34 @@
 - argue — 자기 주장을 펴는 것. dispute는 남의 주장을 겨냥해 부정한다
 - beyond dispute = 논란의 여지 없이 (관용구)
 - 명사 강세는 /ˈdɪspjuːt/로도 읽는다 (특히 영국식)
+
+---
+
+### dissect
+
+*동사* · C1 · /daɪˈsekt/
+
+**해부하다; (꼼꼼히) 뜯어 분석하다**
+
+> to cut up a body to study it; to examine something in great detail
+
+- In biology class, we dissected a frog.
+  - 생물 시간에 개구리를 해부했다.
+  - 💡 원래 뜻 — 해부
+- The critics dissected every line of his speech.
+  - 비평가들은 그의 연설을 한 줄 한 줄 뜯어 분석했다.
+  - 💡 비유 — 분석, 종종 '흠잡으며'
+- Let's not dissect what went wrong right now.
+  - 지금 당장 뭐가 잘못됐는지 하나하나 따지지는 말자.
+
+**연어**: dissect a frog, dissect an argument, dissect every detail
+
+**유의어**: analyze, break down, scrutinize, anatomize
+
+**구분**:
+- 발음 — /daɪˈsekt/(다이섹트)와 /dɪˈsekt/ 둘 다 쓰인다. 철자 s 두 개 — dis + sect(자르다)
+- bisect(둘로 나누다)와 혼동 주의
+- analyze보다 '잘게 쪼개 들여다보는' 그림이 강하다
 
 ---
 
@@ -3588,6 +3753,35 @@
 
 ---
 
+### ensue
+
+*동사* · C1 · formal · /ɪnˈsuː/
+
+**(결과로) 뒤따르다, 잇따라 일어나다**
+
+> to happen afterward or as a result
+
+- An argument ensued, and they stopped speaking.
+  - 말다툼이 이어졌고, 그들은 서로 말을 끊었다.
+  - 💡 자동사 — 목적어를 받지 않는다
+- Chaos ensued when the lights went out.
+  - 불이 꺼지자 대혼란이 벌어졌다.
+- In the ensuing weeks, his condition worsened.
+  - 그 뒤 몇 주 동안 그의 상태는 나빠졌다.
+  - 💡 ensuing = 뒤이은, 그다음의
+
+**연어**: chaos ensued, a battle ensued, the ensuing years, ensue from
+
+**유의어**: follow, result, come next, arise
+
+**구분**:
+- [[ensure-v]]가 아니다. ensure는 '확실히 하다', ensue는 '뒤따르다'
+- ensuing은 following과 거의 같다 — the ensuing days = the following days
+- [[unfold-v]]는 일이 펼쳐지는 과정, ensue는 앞일의 결과로 '이어지는' 것
+- [[consequence-n]]과 같은 인과 어휘군
+
+---
+
 ### equation
 
 *명사* · B2 · /ɪˈkweɪʒn/
@@ -3867,6 +4061,32 @@
 - tiredness — 일상적. fatigue는 의학·기술 문서의 격식체이며 누적된 피로를 뜻한다
 - 발음 주의 — /fəˈtiːɡ/ (파티그가 아니라 퍼티그)
 - exhaustion — 완전히 소진된 상태로 더 강하다
+
+---
+
+### faucet
+
+*명사* · B1 · /ˈfɔːsɪt/
+
+**수도꼭지 (미국식)**
+
+> a device that controls the flow of water from a pipe (US)
+
+- Turn off the faucet when you brush your teeth.
+  - 양치할 때는 수도꼭지를 잠가.
+- The kitchen faucet keeps dripping.
+  - 부엌 수도꼭지에서 물이 계속 똑똑 떨어진다.
+- She held his hand under the cold faucet.
+  - 그녀는 그의 손을 찬물 수도꼭지 아래 대 주었다.
+
+**연어**: turn on the faucet, turn off the faucet, a dripping faucet, a leaky faucet
+
+**유의어**: tap
+
+**구분**:
+- 미국은 faucet, 영국은 tap. 미국에서도 tap water(수돗물)는 그대로 쓴다
+- 발음 — /ˈfɔːsɪt/, 뒤의 -cet은 '싯'
+- spigot은 바깥 벽에 달린 수도꼭지·통 마개
 
 ---
 
@@ -4471,6 +4691,34 @@
 
 ---
 
+### give a statement
+
+*구문* · B2 · formal · /ɡɪv ə ˈsteɪtmənt/
+
+**진술하다, 성명을 내다**
+
+> to formally tell the police, a court, or the public what you know
+
+- The witness gave a statement to the police.
+  - 목격자는 경찰에 진술했다.
+  - 💡 경찰·법정 진술
+- The company has not yet given a statement.
+  - 회사는 아직 성명을 내지 않았다.
+  - 💡 공식 입장 발표
+- She was asked to give a statement about what she saw.
+  - 그녀는 자신이 본 것에 대해 진술해 달라는 요청을 받았다.
+
+**연어**: give a statement to the police, make a statement, issue a statement, release a statement
+
+**유의어**: make a statement, testify, declare
+
+**구분**:
+- make a statement도 같은 뜻으로 더 흔하다. 회사·정부는 issue/release a statement
+- make a statement에는 '(옷·행동으로) 메시지를 드러내다'라는 비유 뜻도 있다 — Her dress made a statement
+- testify는 법정에서 선서하고 증언하는 것
+
+---
+
 ### glance
 
 *동사* · B1 · /ɡlɑːns/
@@ -4611,6 +4859,33 @@
 - [[lament-v]]은 말이나 글로 드러내는 탄식이다. 셋을 '느낀다-드러낸다-말한다'로 나눠 외우면 선명하다
 - 명사는 grief. grief와 grieve의 철자·발음이 갈리니 주의 — /ɡriːf/ vs /ɡriːv/
 - grieving은 형용사로도 쓴다 — the grieving family(유가족)
+
+---
+
+### gruesome
+
+*형용사* · C1 · /ˈɡruːsəm/
+
+**섬뜩한, 소름 끼치는, 끔찍한 (죽음·부상 묘사)**
+
+> causing horror or disgust, typically involving death or injury
+
+- The police found a gruesome scene inside the house.
+  - 경찰은 집 안에서 끔찍한 광경을 발견했다.
+- I'll spare you the gruesome details.
+  - 끔찍한 세부 사항은 생략할게.
+  - 💡 spare you the gruesome details — 굳은 표현
+- The film was too gruesome for me to watch.
+  - 그 영화는 너무 잔혹해서 나는 볼 수가 없었다.
+
+**연어**: gruesome details, a gruesome murder, a gruesome scene, gruesome injuries
+
+**유의어**: grisly, ghastly, horrific, gory
+
+**구분**:
+- [[brutal-adj]]은 행위가 잔인한 것, gruesome은 보는 사람이 소름 끼치는 결과·장면 쪽이다
+- gory는 피가 낭자한 쪽, grisly는 gruesome과 거의 같다. grizzly(회색곰)와 헷갈리지 말 것
+- [[nasty-adj]]보다 훨씬 강하다
 
 ---
 
@@ -4780,6 +5055,32 @@
 **구분**:
 - those who ~ — 성중립적이고 현대적. he who는 남성 대명사라 오늘날 글에서는 피하는 편
 - 관계절이 선행사에서 떨어져 나오면(외치) 앞의 대명사를 놓치기 쉬움 — 주어가 무거울 때 발생
+
+---
+
+### hearse
+
+*명사* · C1 · /hɜːrs/
+
+**영구차, 운구차**
+
+> a vehicle for carrying a coffin at a funeral
+
+- The hearse moved slowly toward the cemetery.
+  - 영구차가 묘지 쪽으로 천천히 움직였다.
+- Mourners followed the hearse on foot.
+  - 조문객들이 걸어서 영구차를 뒤따랐다.
+- He joked that he'd rather ride in a limo than a hearse.
+  - 그는 영구차보다는 리무진을 타고 싶다고 농담했다.
+
+**연어**: follow the hearse, a funeral hearse, load the coffin into the hearse
+
+**유의어**: funeral car
+
+**구분**:
+- 발음 — /hɜːrs/로 horse(말)와 다르고 hers·purse와 운이 맞는다
+- coffin(관)·casket(미국식, 고급 관)과 함께 장례 어휘군
+- [[corpse-n]]·[[bury-v]]·[[mourn-v]]와 같은 장면에서 만난다
 
 ---
 
@@ -5007,6 +5308,35 @@
 - impunity /ɪmˈpjuːnəti/ — 처벌받지 않음. 거의 항상 with impunity 형태로 쓴다. immunity는 '주어진 면제', impunity는 '처벌이 따르지 않는 상태'라 완전히 다른 단어다
 - resistance — 부분적·후천적 저항력. immunity는 아예 걸리지 않는 상태 쪽
 - 파생 — 형용사 immune, 동사 immunize, 명사 immunization. 백신 맥락에서 immunity(결과) ↔ immunization(과정)
+
+---
+
+### impenetrable
+
+*형용사* · C1 · formal · /ɪmˈpenɪtrəbl/
+
+**뚫을 수 없는; 이해할 수 없는, 불가해한**
+
+> impossible to get through or into; impossible to understand
+
+- The forest was dense and impenetrable.
+  - 숲은 빽빽해서 들어갈 수가 없었다.
+  - 💡 물리적으로 못 뚫음
+- His face was an impenetrable mask.
+  - 그의 얼굴은 속을 알 수 없는 가면 같았다.
+  - 💡 감정을 읽을 수 없음
+- The contract was written in impenetrable legal jargon.
+  - 계약서는 도무지 알아들을 수 없는 법률 용어로 쓰여 있었다.
+  - 💡 글·말이 난해함
+
+**연어**: impenetrable darkness, impenetrable jargon, an impenetrable expression
+
+**유의어**: impassable, incomprehensible, unfathomable, opaque
+
+**구분**:
+- penetrate(뚫다)의 반대 — im-(not) + penetr + -able
+- [[cryptic-adj]]는 일부러 숨긴 듯한 수수께끼, impenetrable은 너무 두껍거나 복잡해서 못 들어가는 것
+- [[invincible-adj]]는 사람·군대가 무적, impenetrable은 방어선·벽이 못 뚫리는 것
 
 ---
 
@@ -5684,6 +6014,35 @@
 
 ---
 
+### jot down
+
+*구동사* · B2 · informal · /dʒɑːt daʊn/
+
+**(급히) 적어 두다, 메모하다**
+
+> to write something quickly, usually short
+
+- He was jotting down notes as the doctor spoke.
+  - 그는 의사가 말하는 동안 메모를 적고 있었다.
+  - 💡 원문 jotting down — 진행형
+- Let me jot down your number.
+  - 번호 좀 적어 둘게.
+- I jotted it down on the back of an envelope.
+  - 봉투 뒷면에 그걸 적어 뒀다.
+  - 💡 대명사는 jot it down 순서
+
+**연어**: jot down notes, jot down an idea, jot something down
+
+**유의어**: note down, write down, scribble
+
+**구분**:
+- write down보다 '짧게, 빨리' 적는 느낌
+- 대명사 목적어는 가운데 — jot it down (O), jot down it (X)
+- 명사 jottings = 메모, 끄적인 것
+- scribble은 휘갈겨 쓰는 것 — 글씨가 엉망이라는 뉘앙스
+
+---
+
 ### labored
 
 *형용사* · C1 · /ˈleɪbəd/
@@ -6077,6 +6436,34 @@
 
 ---
 
+### merely
+
+*부사* · B2 · /ˈmɪrli/
+
+**단지, 그저, 한낱**
+
+> only; used to emphasize that something is small or not important
+
+- I was merely asking a question.
+  - 나는 그냥 질문을 했을 뿐이야.
+  - 💡 변명·해명할 때 자주 쓴다
+- It's merely a matter of time.
+  - 그건 그저 시간문제다.
+- He is not merely a teacher but a friend.
+  - 그는 단순한 선생님이 아니라 친구다.
+  - 💡 not merely A but B = not only A but B
+
+**연어**: merely a matter of, not merely ... but, merely because
+
+**유의어**: only, just, simply, purely
+
+**구분**:
+- [[barely-adv]](간신히, 거의 ~ 않게)와 철자가 비슷해 헷갈린다. merely = 그것뿐, barely = 겨우
+- 형용사 mere — a mere child(한낱 아이), the mere thought(생각만 해도)
+- just·only보다 살짝 격식, 글에서 자주 보인다
+
+---
+
 ### mettle
 
 *명사* · C1 · formal · /ˈmetl/
@@ -6272,6 +6659,35 @@
 - turn nasty = (상황이) 험악해지다
 - a nasty piece of work = 아주 못된 사람. 영국 구어
 - 구어라 업무 문서에는 unpleasant나 severe를 쓴다
+
+---
+
+### nausea
+
+*명사* · B2 · /ˈnɔːziə/
+
+**메스꺼움, 구역질**
+
+> the feeling that you are going to vomit
+
+- The medicine can cause nausea and dizziness.
+  - 그 약은 메스꺼움과 어지러움을 일으킬 수 있다.
+  - 💡 부작용 설명에 단골
+- A wave of nausea swept over her.
+  - 구역질이 확 밀려왔다.
+  - 💡 a wave of nausea — 굳은 표현
+- He felt nausea every time the car turned a corner.
+  - 차가 모퉁이를 돌 때마다 그는 속이 울렁거렸다.
+
+**연어**: a wave of nausea, feel nausea, nausea and vomiting, cause nausea
+
+**유의어**: sickness, queasiness
+
+**구분**:
+- 원문 mausea는 오타
+- 형용사 nauseous — I feel nauseous(속이 메스꺼워). nauseating은 '역겹게 만드는'
+- [[puke-v]]는 실제로 토하는 것, nausea는 토할 것 같은 느낌
+- 구어로는 I feel sick / I feel queasy가 더 흔하다
 
 ---
 
@@ -6793,6 +7209,34 @@
 
 ---
 
+### onset
+
+*명사* · C1 · formal · /ˈɑːnset/
+
+**(특히 나쁜 일의) 시작, 발병**
+
+> the beginning of something, especially something unpleasant
+
+- The onset of the disease was sudden.
+  - 그 병은 갑자기 발병했다.
+  - 💡 the onset of + 병명 — 가장 흔한 형태
+- We need to finish the roof before the onset of winter.
+  - 겨울이 오기 전에 지붕을 마쳐야 한다.
+- Early onset Alzheimer's affects people under 65.
+  - 조기 발병 알츠하이머는 65세 미만에게 생긴다.
+  - 💡 early onset — 의학 용어
+
+**연어**: the onset of, sudden onset, early onset, at the onset
+
+**유의어**: beginning, start, outbreak
+
+**구분**:
+- start·beginning은 중립, onset은 병·겨울·전쟁처럼 반갑지 않은 것의 시작에 주로 쓴다
+- outset(처음, 발단)과 철자가 비슷하다 — at the outset은 '처음부터', onset은 '나쁜 것이 시작됨'
+- [[ailment-n]]·[[atrophy-v]]와 투병 맥락에서 만난다
+
+---
+
 ### open-minded
 
 *형용사* · B2 · /ˌoʊpənˈmaɪndɪd/
@@ -7298,6 +7742,35 @@
 
 ---
 
+### prematurely
+
+*부사* · C1 · /ˌpriːməˈtʃʊrli/
+
+**너무 이르게, 때 이르게; 시기상조로**
+
+> happening or done before the natural or proper time
+
+- He died prematurely, at the age of forty.
+  - 그는 마흔의 나이에 너무 일찍 세상을 떠났다.
+  - 💡 die prematurely — 요절하다
+- The baby was born prematurely.
+  - 아기는 예정보다 일찍 태어났다.
+  - 💡 조산 — premature baby(미숙아)
+- Don't celebrate prematurely; the deal isn't signed yet.
+  - 섣불리 축하하지 마. 계약은 아직 서명 안 됐어.
+  - 💡 판단·행동이 성급하다는 뜻
+
+**연어**: die prematurely, born prematurely, age prematurely, end prematurely
+
+**유의어**: too early, untimely, before one's time
+
+**구분**:
+- 형용사 premature — premature death(요절), a premature decision(성급한 결정)
+- early는 중립, prematurely는 '있어야 할 때보다 일찍'이라 아쉬움·실수의 뉘앙스가 붙는다
+- [[demise-n]]·[[hearse-n]]과 죽음 맥락에서 같이 나온다
+
+---
+
 ### presence
 
 *명사* · B2 · /ˈprezns/
@@ -7519,6 +7992,34 @@
 
 ---
 
+### puke
+
+*동사* · B2 · informal · /pjuːk/
+
+**토하다, 게우다 (구어)**
+
+> to vomit (informal)
+
+- I drank too much and puked all night.
+  - 술을 너무 마셔서 밤새 토했다.
+- The smell almost made me puke.
+  - 그 냄새 때문에 토할 뻔했다.
+- He puked up his breakfast.
+  - 그는 아침 먹은 걸 다 게워냈다.
+  - 💡 puke up — 토해낸 것을 목적어로
+
+**연어**: puke up, make someone puke, want to puke
+
+**유의어**: vomit, throw up, be sick
+
+**구분**:
+- 격식 순서: vomit(의학·격식) > throw up(일상 기본) > puke(속어에 가까움). 병원·공식 글에서는 vomit
+- 영국 구어로는 be sick이 '토하다'다 — I was sick ≠ 아팠다
+- 명사로도 쓴다 — clean up the puke
+- [[nausea-n]]이 오고 나서 puke한다
+
+---
+
 ### punctuate
 
 *동사* · C1 · formal · /ˈpʌŋktʃueɪt/
@@ -7599,6 +8100,35 @@
 - purposeful — 목적이 뚜렷함 / purposely(부사) — 일부러, 고의로. 뜻이 다름
 - on purpose = purposely 고의로. purposeful과 헷갈리지 말 것
 - ambitious — 야심 있는(더 높은 곳을 원함). purposeful은 방향이 분명함
+
+---
+
+### purse
+
+*명사* · B1 · /pɜːrs/
+
+**(여성용) 핸드백 (미국); 지갑 (영국); 상금**
+
+> a woman's handbag (US); a small bag for money (UK)
+
+- She reached into her purse for her keys.
+  - 그녀는 열쇠를 꺼내려고 핸드백에 손을 넣었다.
+  - 💡 미국 — purse = handbag
+- I left my purse on the bus.
+  - 버스에 지갑을 두고 내렸다.
+  - 💡 영국 — 여성용 동전 지갑
+- She pursed her lips and said nothing.
+  - 그녀는 입술을 오므리고 아무 말도 하지 않았다.
+  - 💡 동사 purse one's lips — 못마땅해서 입을 오므리다
+
+**연어**: reach into one's purse, a coin purse, purse one's lips, hold the purse strings
+
+**유의어**: handbag, bag, wallet, pocketbook
+
+**구분**:
+- 미국과 영국에서 뜻이 다르다 — 미국 purse = 영국 handbag, 영국 purse = 여성용 지갑. 남성 지갑은 둘 다 wallet
+- hold the purse strings = 돈줄을 쥐다
+- 동사 purse one's lips — [[lip-n]]과 함께 표정 묘사로 자주 나온다
 
 ---
 
@@ -7745,6 +8275,34 @@
 
 ---
 
+### rarity
+
+*명사* · C1 · /ˈrerəti/
+
+**드문 일, 희귀한 것; 희소성**
+
+> something that is rare; the state of being rare
+
+- Snow is a rarity in this part of the country.
+  - 이 지역에서 눈은 보기 드문 일이다.
+  - 💡 a rarity — 가산, 드문 것 하나
+- A man who truly listens is a rarity.
+  - 진심으로 들어 주는 사람은 드물다.
+- The stamp's value comes from its rarity.
+  - 그 우표의 가치는 희소성에서 나온다.
+  - 💡 불가산 — 희소성
+
+**연어**: something of a rarity, a real rarity, because of its rarity
+
+**유의어**: scarcity, uncommonness, oddity
+
+**구분**:
+- rare(드문)의 명사형. something of a rarity = 꽤 드문 일
+- scarcity는 '부족함'(수요 대비 공급), rarity는 '흔치 않음'
+- [[shortage-n]]은 필요한 양이 모자란 것 — rarity와 다르다
+
+---
+
 ### ratify
 
 *동사* · C1 · formal · /ˈrætɪfaɪ/
@@ -7832,6 +8390,60 @@
 
 ---
 
+### real estate
+
+*명사* · B2 · business · /ˈriːəl ɪˌsteɪt/
+
+**부동산**
+
+> property in the form of land or buildings
+
+- She works in real estate.
+  - 그녀는 부동산업에 종사한다.
+- Real estate prices in the city have doubled.
+  - 그 도시의 부동산 가격이 두 배가 되었다.
+- Screen space is valuable real estate on a phone.
+  - 휴대폰에서 화면 공간은 귀한 자리다.
+  - 💡 비유 — 공간·자리 자체를 real estate라 부른다 (IT·디자인 업계)
+
+**연어**: the real estate market, a real estate agent, invest in real estate, commercial real estate
+
+**유의어**: property, realty
+
+**구분**:
+- 불가산 — a real estate (X), a piece of real estate / a property (O)
+- 영국은 property, estate agent를 더 흔히 쓴다
+- [[realtor-n]]이 이걸 사고팔도록 중개한다
+- estate 단독은 '사유지, 대저택' 또는 '유산(재산)' — his estate went to his children
+
+---
+
+### realtor
+
+*명사* · B2 · business · /ˈriːəltər/
+
+**부동산 중개인 (미국식)**
+
+> a person whose job is to help people buy and sell property (US)
+
+- We called a realtor to help us sell the house.
+  - 집을 팔려고 부동산 중개인에게 연락했다.
+- The realtor showed us three apartments today.
+  - 중개인이 오늘 아파트 세 곳을 보여 줬다.
+- Her mother was a successful realtor in Boston.
+  - 그녀의 어머니는 보스턴에서 잘나가는 부동산 중개인이었다.
+
+**연어**: hire a realtor, a local realtor, talk to a realtor
+
+**유의어**: real estate agent, estate agent (UK), broker
+
+**구분**:
+- 발음 주의 — /ˈriːəltər/ (리-얼-터) 세 음절. '릴러터'처럼 l을 앞으로 당기는 실수가 흔하다
+- 원래 Realtor®는 전미부동산중개인협회 회원을 뜻하는 상표지만 일상에서는 일반 명사로 쓴다
+- [[real-estate-n]]과 짝
+
+---
+
 ### rear end
 
 *명사* · B2 · informal · /ˌrɪər ˈend/
@@ -7887,6 +8499,62 @@
 - assure — 확실하다고 말해 줌(정보 전달). reassure는 이미 불안한 사람의 걱정을 덜어줌. re-(다시)가 핵심
 - ensure — 반드시 그렇게 되게 보장하다. 사람을 목적어로 쓰지 않음 (ensure that ~)
 - insure — 보험에 들다. 발음이 비슷해 철자를 자주 틀림
+
+---
+
+### reassuring
+
+*형용사* · B2 · /ˌriːəˈʃʊrɪŋ/
+
+**안심시키는, 마음을 놓이게 하는**
+
+> making you feel less worried or uncertain
+
+- She gave me a reassuring smile.
+  - 그녀는 나를 안심시키는 미소를 지어 보였다.
+- It's reassuring to know you're nearby.
+  - 네가 가까이 있다는 걸 아니까 마음이 놓여.
+- He put a reassuring hand on her shoulder.
+  - 그는 그녀의 어깨에 다독이듯 손을 얹었다.
+
+**연어**: a reassuring smile, a reassuring voice, reassuring news, it's reassuring to
+
+**유의어**: comforting, encouraging, soothing
+
+**구분**:
+- [[reassure-v]]의 형용사형. reassuring은 안심을 '주는' 쪽, reassured는 안심을 '받은' 사람 (I felt reassured)
+- -ing/-ed 구분은 [[stunned-adj]]·startling처럼 감정 형용사 공통 규칙
+- 부사 reassuringly — smile reassuringly
+
+---
+
+### regard
+
+*동사* · B2 · /rɪˈɡɑːrd/
+
+**(~로) 여기다, 간주하다; 바라보다**
+
+> to think of someone or something in a particular way; to look at attentively
+
+- He is regarded as one of the best teachers in the school.
+  - 그는 학교에서 가장 훌륭한 선생님 중 하나로 여겨진다.
+  - 💡 be regarded as — 가장 흔한 형태
+- She regarded him with suspicion.
+  - 그녀는 의심스러운 눈으로 그를 바라보았다.
+  - 💡 regard + 사람 + with + 감정 — 소설체
+- With regard to your question, I'll get back to you tomorrow.
+  - 질문하신 건에 관해서는 내일 답드리겠습니다.
+  - 💡 명사 용법 — with regard to = ~에 관해
+
+**연어**: regard A as B, be highly regarded, with regard to, give my regards to
+
+**유의어**: consider, view, see, deem
+
+**구분**:
+- regard A as B — as가 꼭 붙는다. consider A (as) B는 as 생략 가능
+- 명사 regards — Best regards(메일 맺음말), Give my regards to your mom(안부 전해줘)
+- regardless(~와 상관없이)는 별개 단어, irregardless는 비표준
+- [[deem-v]]는 더 격식, [[believe-a-to-be-b-phr]]와 같은 'A를 B로 보다' 구조
 
 ---
 
@@ -8058,6 +8726,35 @@
 - [[advance-v]]의 반대말. 기사에서 두 단어가 한 문단에 같이 나오는 일이 많다
 - back down — 논쟁에서 물러서다(구어체). retreat는 군사·비유 양쪽 다 되고 더 격식 있다
 - 명사 retreat는 '후퇴'와 '수련회/휴양지' 두 뜻. 문맥으로만 구분된다
+
+---
+
+### retrieve
+
+*동사* · B2 · /rɪˈtriːv/
+
+**되찾아 오다, 회수하다; (정보를) 불러오다**
+
+> to get something back, especially from a place where it is hard to reach
+
+- She went back to the car to retrieve her phone.
+  - 그녀는 휴대폰을 가지러 차로 돌아갔다.
+  - 💡 두고 온 것을 가지러 가다
+- The dog retrieved the ball from the lake.
+  - 개가 호수에서 공을 물어 왔다.
+  - 💡 retriever(사냥개) 이름이 여기서 왔다
+- The system couldn't retrieve the file.
+  - 시스템이 파일을 불러오지 못했다.
+  - 💡 IT — 데이터 조회·불러오기
+
+**연어**: retrieve data, retrieve one's belongings, retrieve the body, retrieve from
+
+**유의어**: recover, get back, fetch, reclaim
+
+**구분**:
+- fetch는 가서 '가져오기' 자체, retrieve는 놓쳤거나 꺼내기 어려운 것을 '되찾는' 느낌
+- 명사 retrieval — data retrieval, RAG(retrieval-augmented generation)의 그 retrieval
+- recover는 잃어버린 것·건강을 되찾는 데 더 넓게 쓴다
 
 ---
 
@@ -8339,6 +9036,33 @@
 - a bit of — 중립적으로 '조금'. scrap of는 '조각 하나조차'라는 강조가 실림
 - a shred of — 거의 같은 뜻. not a shred of evidence로도 자주 씀
 - scraps(복수) — 남은 음식·부스러기
+
+---
+
+### scurry
+
+*동사* · C1 · /ˈskʌri/
+
+**종종걸음으로 서둘러 가다, 허둥지둥 달려가다**
+
+> to move quickly with short steps, especially in a hurried or nervous way
+
+- The nurses scurried in and out of the room.
+  - 간호사들이 종종걸음으로 방을 들락날락했다.
+- A mouse scurried across the kitchen floor.
+  - 쥐 한 마리가 부엌 바닥을 쪼르르 가로질렀다.
+  - 💡 작은 동물의 빠른 움직임이 원래 이미지
+- Everyone scurried for cover when it started to rain.
+  - 비가 오기 시작하자 모두 피할 곳을 찾아 허둥지둥 뛰었다.
+
+**연어**: scurry away, scurry off, scurry across, scurry around
+
+**유의어**: scuttle, scamper, dash, hurry
+
+**구분**:
+- 원문 scurriy는 오타 — 과거형은 scurried, -ing형은 scurrying
+- hurry는 그냥 서두름, scurry는 '짧은 보폭으로 바쁘게·초조하게'라는 그림이 붙는다
+- [[hobble-v]](절뚝이다)·[[strut-v]](으스대며 걷다)·[[stumble-v]]와 함께 걸음걸이 묘사 동사
 
 ---
 
@@ -9002,6 +9726,34 @@
 - lie within — 범위 안에 '있다'(상태). stay within은 벗어나지 않고 '머문다'(행위·의지)
 - work within — 주어진 한계 안에서 최선을 다하다. 태도에 초점
 - stay in — 단순히 안에 있다(집에 있다 등). within은 경계·한도의 뉘앙스
+
+---
+
+### strand
+
+*명사* · C1 · /strænd/
+
+**(실·머리카락 등의) 가닥, 올; (이야기의) 갈래**
+
+> a single thin piece of thread, hair, or wire; one part of a story or idea
+
+- She tucked a strand of hair behind her ear.
+  - 그녀는 머리카락 한 가닥을 귀 뒤로 넘겼다.
+  - 💡 a strand of hair — 원문 strand of
+- A few strands of gray hair fell across his forehead.
+  - 희끗한 머리카락 몇 가닥이 그의 이마에 흘러내렸다.
+- The novel weaves together several strands of the story.
+  - 그 소설은 이야기의 여러 갈래를 엮어 낸다.
+  - 💡 비유 — 줄거리·논지의 갈래
+
+**연어**: a strand of hair, strands of DNA, a strand of pearls, strands of the argument
+
+**유의어**: thread, fiber, lock (of hair)
+
+**구분**:
+- 동사 strand / be stranded — 오도 가도 못하게 되다 (We were stranded at the airport). 같은 철자 다른 뜻
+- a lock of hair는 한 '줌', a strand는 한 '가닥'
+- [[tuft-n]](한 움큼, 술)과 같은 머리카락 묘사 어휘
 
 ---
 

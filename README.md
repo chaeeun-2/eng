@@ -121,8 +121,12 @@ git push                            # 1~2분 뒤 반영
 
 ## 현재 상태
 
-- 등록 단어: 381개
-- 마지막 갱신: 2026-10-07 (대화 중 질문 25개 — 애도·투병 맥락.
+- 등록 단어: 408개
+- 마지막 갱신: 2026-10-19 (책 읽으며 발견한 단어 27개. scurriy→scurry,
+  mausea→nausea 오타 정정. assessing·jotting down은 기본형 assess·jot down으로,
+  "strand of"는 strand로 등록. reassure(v)는 기존 항목이라 reassuring을 형용사로
+  따로 넣고 연결. merely↔barely, despair↔desperate 구분 메모 추가)
+- 이전 갱신: 2026-10-07 (대화 중 질문 25개 — 애도·투병 맥락.
   mutteres는 mutter 오타로 정정. "then on with"는 on with로 등록하고
   from then on과의 혼동을 구분 메모에 남김. barely·now and then·squirm·insidious는
   기존 항목이라 건너뜀. grieve/mourn/lament를 '느낀다-드러낸다-말한다'로 묶어 연결)

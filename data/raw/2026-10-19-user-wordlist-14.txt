@@ -1,0 +1,38 @@
+2026-10-19 책을 읽으면서 발견한 단어 목록 (사용자 단어 목록 14)
+
+원본 그대로:
+prematurely
+hearse
+gruesome
+ensue
+assessing
+impenetrable
+scurriy
+mausea
+onset
+puke
+faucet
+chivalrous
+dissect
+cryptic
+regard
+real estate
+realtor
+despair
+strand of
+reassuring
+altruism
+rarity
+give a statement
+jotting down
+merely
+purse
+retrieve
+
+표기 메모:
+- scurriy → scurry 오타로 정정
+- mausea → nausea 오타로 정정
+- assessing → 기본형 assess, jotting down → jot down으로 등록
+- "strand of" → strand(가닥)로 등록. a strand of hair 형태를 예문으로 둔다
+- reassuring — reassure(v)는 이미 있어 형용사 reassuring을 별도 항목으로 넣고 연결
+- 책 제목은 따로 적지 않았음
