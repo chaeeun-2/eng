@@ -122,7 +122,7 @@ git push                            # 1~2분 뒤 반영
 ## 현재 상태
 
 - 등록 단어: 408개
-- 마지막 갱신: 2026-10-19 (책 읽으며 발견한 단어 27개. scurriy→scurry,
+- 마지막 갱신: 2026-10-19 (Verity — Colleen Hoover — 읽으며 발견한 단어 27개. scurriy→scurry,
   mausea→nausea 오타 정정. assessing·jotting down은 기본형 assess·jot down으로,
   "strand of"는 strand로 등록. reassure(v)는 기존 항목이라 reassuring을 형용사로
   따로 넣고 연결. merely↔barely, despair↔desperate 구분 메모 추가)
