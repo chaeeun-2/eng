@@ -1,4 +1,4 @@
-# 단어장 (총 411개)
+# 단어장 (총 443개)
 
 `data/vocab.jsonl`에서 자동 생성. 직접 수정 금지.
 
@@ -1017,6 +1017,34 @@
 
 ---
 
+### at the expense of
+
+*구문* · C1 · /æt ði ɪkˈspens əv/
+
+**~을 희생하여, ~을 대가로; ~의 비용으로**
+
+> with loss or harm to something; paid for by someone
+
+- He's working hard at the expense of his health.
+  - 그는 건강을 희생하면서 일하고 있다.
+- They made jokes at my expense.
+  - 그들은 나를 놀림감 삼아 농담했다.
+  - 💡 at someone's expense — ~를 웃음거리 삼아
+- The trip was at the company's expense.
+  - 출장은 회사 비용으로 갔다.
+  - 💡 원래 뜻 — 비용 부담
+
+**연어**: at the expense of, at someone's expense, at great expense
+
+**유의어**: at the cost of, to the detriment of
+
+**구분**:
+- at the cost of와 거의 같다
+- at my expense는 문맥에 따라 '내 돈으로' 또는 '나를 놀림감으로'
+- [[sacrifice-v]]는 의도적으로 내놓는 것, at the expense of는 결과적으로 잃는 쪽
+
+---
+
 ### atrophy
 
 *동사* · C2 · formal · /ˈætrəfi/
@@ -1044,6 +1072,30 @@
 - wither — 시들다(식물·희망). atrophy는 쓰지 않아 줄어드는 것
 - deteriorate — 전반적 악화. atrophy는 미사용이 원인이라는 점이 핵심
 - 명사와 동사가 같은 형태 (muscle atrophy)
+
+---
+
+### attainable
+
+*형용사* · C1 · formal · /əˈteɪnəbl/
+
+**이룰 수 있는, 달성 가능한**
+
+> possible to achieve
+
+- Set goals that are realistic and attainable.
+  - 현실적이고 이룰 수 있는 목표를 세워라.
+- Is that kind of happiness even attainable?
+  - 그런 행복이 이룰 수나 있는 걸까?
+
+**연어**: an attainable goal, easily attainable, realistic and attainable
+
+**유의어**: achievable, reachable, within reach
+
+**구분**:
+- 동사 attain(달성하다) — attain a goal, attain success. 딱딱한 말
+- SMART 목표의 A가 achievable 또는 attainable
+- [[within-reach-phr]]가 더 일상적
 
 ---
 
@@ -2075,6 +2127,34 @@
 
 ---
 
+### cave in
+
+*구동사* · B2 · /keɪv ɪn/
+
+**(지붕·천장이) 안으로 꺼지다; (압박에) 굴복하다**
+
+> to fall inward; to finally agree to something after being pressured
+
+- The roof caved in after the storm.
+  - 폭풍이 지나간 뒤 지붕이 푹 꺼졌다.
+- He finally caved in and said yes.
+  - 그는 결국 굴복하고 승낙했다.
+  - 💡 비유 — 버티다 굴복
+- Don't cave in to their demands.
+  - 그들의 요구에 굴복하지 마.
+  - 💡 cave in to + 요구·압력
+
+**연어**: the roof caved in, cave in to pressure, cave in to demands
+
+**유의어**: collapse, give in, yield, cave
+
+**구분**:
+- 구어에서는 in을 빼고 He caved.(걔 결국 꺾였어)라고도 한다
+- give in과 같은 '굴복' 뜻이지만 cave in은 '오래 버티다 무너졌다'는 느낌이 더 있다
+- [[compromise-v]]는 서로 양보, cave in은 한쪽이 꺾이는 것
+
+---
+
 ### chivalrous
 
 *형용사* · C1 · /ˈʃɪvlrəs/
@@ -2153,6 +2233,34 @@
 - 동사는 clarify(명확히 하다). 형용사는 clear
 - transparency — 숨기지 않는다는 '투명성'(윤리적). clarity는 알아듣기 쉽다는 '명료성'
 - clearness는 문법적으로 맞지만 거의 쓰지 않는다. 추상적 뜻에는 clarity를 쓴다
+
+---
+
+### come crashing down
+
+*구문* · B2 · /kʌm ˈkræʃɪŋ daʊn/
+
+**와르르 무너지다; (계획·세상이) 한순간에 무너지다**
+
+> to fall suddenly and violently; to fail or collapse completely
+
+- The whole shelf came crashing down.
+  - 선반이 통째로 와르르 무너졌다.
+  - 💡 물리적으로 무너짐
+- When she left, his world came crashing down.
+  - 그녀가 떠나자 그의 세상이 와르르 무너졌다.
+  - 💡 비유 — 세상·꿈·계획
+- Everything I believed in came crashing down.
+  - 믿었던 모든 게 한순간에 무너졌다.
+
+**연어**: one's world came crashing down, come crashing down around someone, plans came crashing down
+
+**유의어**: collapse, fall apart, tumble down
+
+**구분**:
+- [[fall-apart-phrasal_verb]]는 산산이 흩어지는 것, come crashing down은 소리·기세가 있는 한순간의 붕괴
+- [[crumble-v]]는 서서히 부스러짐 — 속도가 반대
+- collapse는 기본어라 '와르르'의 느낌은 없다
 
 ---
 
@@ -2235,6 +2343,36 @@
 - 겉으로 드러나는 침착함이라 속은 흔들려도 유지할 수 있다는 점이 핵심이다
 - [[dignity-n]]·[[fortitude-n]]과 한 묶음으로 외우면 좋다 — 셋 다 고통 앞의 태도를 말한다
 - equanimity — 더 문어적이고 '어떤 일에도 흔들리지 않는 평정'
+
+---
+
+### compromise
+
+*동사* · B2 · /ˈkɑːmprəmaɪz/
+
+**타협하다; (원칙·품질을) 굽히다, 손상시키다**
+
+> to reach an agreement by both sides giving up something; to lower standards or weaken something
+
+- We compromised on the price.
+  - 우리는 가격에서 타협했다.
+  - 💡 compromise on + 쟁점
+- I won't compromise on my values.
+  - 내 가치관만큼은 굽히지 않을 거야.
+  - 💡 부정적 뜻 — 원칙을 굽히다
+- The leak compromised the security of the system.
+  - 그 유출로 시스템 보안이 뚫렸다.
+  - 💡 IT·보안 — 손상시키다
+
+**연어**: compromise on, reach a compromise, make a compromise, compromise one's principles
+
+**유의어**: meet halfway, make concessions, give and take
+
+**구분**:
+- 명사도 같은 형태 — reach a compromise(타협에 이르다)
+- 좋은 뜻(서로 양보)과 나쁜 뜻(원칙·안전을 해침)이 둘 다 있다. 뒤에 values·security가 오면 나쁜 뜻
+- [[settle-for-phrasal_verb]]는 혼자 눈을 낮추는 것, compromise는 양쪽이 양보하는 것
+- [[cave-in-phrasal_verb]]는 한쪽이 굴복
 
 ---
 
@@ -2580,6 +2718,31 @@
 
 ---
 
+### cope
+
+*명사* · C1 · slang · /koʊp/
+
+**(인터넷 속어) 정신승리, 자기 위안용 핑계**
+
+> (slang) something people say to make themselves feel better about a loss
+
+- That's cope. You lost, just admit it.
+  - 그거 정신승리야. 졌으면 그냥 인정해.
+- He's on copium after the game.
+  - 그는 경기 끝나고 정신승리 중이다.
+  - 💡 copium = cope + opium(아편). 같은 뜻의 속어
+
+**연어**: that's cope, on copium, pure cope
+
+**유의어**: denial, excuse, sour grapes
+
+**구분**:
+- 원래 동사 cope with(~에 대처하다, 견디다)에서 나온 속어 명사. 기본 뜻 cope with는 중립이고 좋은 말이다 — cope with stress
+- 상대를 비꼬는 말이라 친한 사이·인터넷에서만
+- [[sour-grapes-idiom]]·[[rationalize-v]]는 일반 대화에서도 무난
+
+---
+
 ### corpse
 
 *명사* · B2 · /kɔːps/
@@ -2773,6 +2936,34 @@
 - slanted — 한쪽으로 기울어진(방향성). crooked는 그냥 똑바르지 않다는 쪽
 - a crooked smile은 부정직한 웃음이 아니라 '한쪽만 올라간 웃음'이라 오히려 매력적이라는 뉘앙스
 - straight의 반대말이 crooked — 정직/부정직의 대비에서도 같은 짝이 된다
+
+---
+
+### crumble
+
+*동사* · B2 · /ˈkrʌmbl/
+
+**부스러지다, (서서히) 무너지다**
+
+> to break into small pieces; to slowly fail or lose strength
+
+- The old wall began to crumble.
+  - 낡은 벽이 부스러지기 시작했다.
+- Everything I thought I knew is crumbling.
+  - 안다고 생각했던 모든 게 무너지고 있다.
+  - 💡 믿음·체제가 서서히 무너질 때
+- She crumbled the bread for the birds.
+  - 그녀는 새들에게 주려고 빵을 부숴 뿌렸다.
+  - 💡 타동사 — 잘게 부수다
+
+**연어**: crumble away, a crumbling building, crumble under pressure
+
+**유의어**: disintegrate, decay, break down
+
+**구분**:
+- 명사 crumb(빵 부스러기)에서 온 말 — 잘게 부서지는 그림
+- [[decay-n]]은 썩어 상하는 것, crumble은 부스러져 무너지는 것
+- [[come-crashing-down-phr]]은 한순간, crumble은 서서히
 
 ---
 
@@ -3448,6 +3639,34 @@
 
 ---
 
+### disrupt
+
+*동사* · B2 · formal · /dɪsˈrʌpt/
+
+**방해하다, 지장을 주다, 차질을 빚다**
+
+> to stop something from continuing normally
+
+- My schedule has been disrupted.
+  - 일정에 차질이 생겼습니다.
+  - 💡 회사 메일·보고에 어울림
+- The strike disrupted train services.
+  - 파업으로 열차 운행에 지장이 생겼다.
+- AI is disrupting the content industry.
+  - AI가 콘텐츠 업계를 뒤흔들고 있다.
+  - 💡 업계를 뒤엎다 — disruption, disruptive
+
+**연어**: disrupt a schedule, disrupt services, disrupt the market
+
+**유의어**: interrupt, throw off, upset
+
+**구분**:
+- interrupt는 말·흐름을 잠깐 끊는 것, disrupt는 정상 운영 자체를 흐트러뜨리는 것
+- 명사 disruption, 형용사 disruptive — disruptive innovation(파괴적 혁신)
+- [[throw-off-phrasal_verb]]의 격식 버전
+
+---
+
 ### dissect
 
 *동사* · C1 · /daɪˈsekt/
@@ -3558,6 +3777,30 @@
 - an act of God — 보험·계약서의 법률 용어로 천재지변을 가리킨다. divine intervention은 구원의 뉘앙스라 방향이 반대다
 - 일상 대화에서는 대개 농담이다. 진지한 종교적 발언으로 오해되지 않게 문맥을 살필 것
 - 동사 intervene(개입하다) — intervene in a dispute
+
+---
+
+### do one's part
+
+*구문* · B1 · /duː wʌnz pɑːrt/
+
+**자기 몫을 하다, 맡은 바를 다하다**
+
+> to do your share of the work
+
+- I just do my part.
+  - 나는 내 할 일을 할 뿐이야.
+- Everyone has to do their part.
+  - 모두가 각자 몫을 해야 한다.
+
+**연어**: do one's part, do one's bit (UK), play one's part
+
+**유의어**: do one's share, pull one's weight
+
+**구분**:
+- 영국은 do one's bit을 더 흔히 쓴다
+- pull one's weight — 제 몫을 다하다 (주로 부정문: He's not pulling his weight)
+- [[up-to-someone-phr]]과 짝으로 쓰면 스토아식 다짐이 된다
 
 ---
 
@@ -4034,6 +4277,34 @@
 - delete — 중립적이고 일상적인 삭제. expunge는 공식 기록에서의 말소라 무게가 다르다
 - erase — 물리적·비유적 지우기 전반. expunge는 법적·공문서 맥락이 기본
 - expunge와 expand는 무관 — 철자만 비슷하다
+
+---
+
+### fall apart
+
+*구동사* · B1 · /fɔːl əˈpɑːrt/
+
+**산산이 무너지다, 엉망이 되다; (사람이) 무너지다**
+
+> to break into pieces; to stop working or being successful; to become emotionally unable to cope
+
+- Everything fell apart after the accident.
+  - 사고 뒤로 모든 게 무너졌다.
+- My whole world is falling apart.
+  - 내 세상 전체가 무너지고 있어.
+  - 💡 진행형 — 지금 무너지는 중
+- She fell apart at the funeral.
+  - 그녀는 장례식에서 무너져 내렸다.
+  - 💡 사람 주어 — 감정적으로 무너짐
+
+**연어**: fall apart at the seams, my life is falling apart, a marriage falls apart
+
+**유의어**: break down, collapse, go to pieces
+
+**구분**:
+- [[come-crashing-down-phr]]보다 덜 극적이고, 조각조각 흩어지는 그림이다
+- be torn apart by(~로 찢기다)와는 다르다 — [[be-torn-apart-by-phr]]
+- break down은 기계 고장·감정 붕괴(울음)에 더 자주 쓴다
 
 ---
 
@@ -4859,6 +5130,35 @@
 - cut someone some slack — 거의 같은 뜻의 구어. 이미 등록된 [[slack-off-phrasal_verb]]의 구분 메모와 이어진다
 - ease up on도 같은 뜻으로 바꿔 쓸 수 있다
 - 구어체라 공식 문서에는 be lenient with를 쓴다
+
+---
+
+### grace
+
+*명사* · B2 · /ɡreɪs/
+
+**품위, 우아함; (신의) 은총; 유예**
+
+> calm, elegant behavior; politeness; extra time allowed
+
+- She handled the loss with grace.
+  - 그녀는 상실을 품위 있게 견뎠다.
+  - 💡 with grace — 흐트러지지 않고
+- He accepted defeat with grace.
+  - 그는 패배를 깨끗이 받아들였다.
+- You have a grace period of 30 days.
+  - 30일의 유예 기간이 있습니다.
+  - 💡 grace period — 유예 기간
+
+**연어**: with grace, grace under pressure, a grace period, a saving grace
+
+**유의어**: dignity, poise, elegance, composure
+
+**구분**:
+- a saving grace — 단점투성이 속의 유일한 장점
+- 형용사 graceful(우아한), gracious(너그럽고 정중한)는 뜻이 다르다
+- [[composure-n]]은 침착함, grace는 침착함에 품위까지
+- [[dignity-n]]·[[fortitude-n]]과 함께 역경을 견디는 태도 어휘
 
 ---
 
@@ -6103,6 +6403,60 @@
 
 ---
 
+### keep in mind
+
+*구문* · B1 · /kiːp ɪn maɪnd/
+
+**명심하다, 염두에 두다**
+
+> to remember a piece of information when you are doing something
+
+- I need to keep this in mind.
+  - 이걸 명심해야 해.
+  - 💡 keep + 대상 + in mind
+- Keep in mind that the deadline is Friday.
+  - 마감이 금요일이라는 걸 염두에 둬.
+  - 💡 keep in mind + that절
+- Bear in mind that he's new here.
+  - 그가 여기 처음 왔다는 걸 감안해.
+  - 💡 bear in mind — 같은 뜻, 조금 더 딱딱함
+
+**연어**: keep in mind that, bear in mind, something to keep in mind
+
+**유의어**: remember, bear in mind, take into account
+
+**구분**:
+- bear in mind는 영국식·격식에서 더 흔하다
+- [[take-to-heart-idiom]]은 들은 말을 마음 깊이 새기는 것 — 더 감정적
+- [[note-to-self-phr]]는 자기 메모 제목
+
+---
+
+### kill two birds with one stone
+
+*관용구* · B1 · /kɪl tuː bɜːrdz wɪð wʌn stoʊn/
+
+**일석이조, 한 번에 두 가지 목적을 이루다**
+
+> to achieve two things with a single action
+
+- Biking to work kills two birds with one stone. I save money and get exercise.
+  - 자전거 출근은 일석이조야. 돈도 아끼고 운동도 돼.
+- Two birds, one stone.
+  - 일석이조지.
+  - 💡 줄인 형태 — 대화에서 자주
+
+**연어**: two birds, one stone
+
+**유의어**: win-win, double benefit
+
+**구분**:
+- 우리말 일석이조와 그림까지 같다
+- 회사에서 kill이 거슬리면 two birds, one stone이나 double benefit
+- [[win-win-n]]은 '나와 상대 둘 다 이득', 이쪽은 '나 혼자 두 가지 이득'
+
+---
+
 ### labored
 
 *형용사* · C1 · /ˈleɪbəd/
@@ -6381,6 +6735,34 @@
 
 ---
 
+### low-key
+
+*부사* · B2 · slang · /ˌloʊ ˈkiː/
+
+**은근히, 살짝 (속어); (형용사) 조용한, 요란하지 않은**
+
+> (slang) somewhat or secretly; (adj) quiet and not showy
+
+- I low-key love this song.
+  - 나 이 노래 은근히 좋아.
+  - 💡 속어 부사 — 젊은 층 구어
+- I'm low-key nervous about tomorrow.
+  - 내일 일 때문에 은근히 긴장돼.
+- We had a low-key wedding.
+  - 우리는 조촐하게 결혼식을 올렸다.
+  - 💡 원래 뜻 — 형용사, 요란하지 않은
+
+**연어**: low-key love, low-key nervous, a low-key event, keep it low-key
+
+**유의어**: kind of, secretly, quietly, subdued
+
+**구분**:
+- 반대말 high-key — '대놓고, 엄청' (I high-key hate it)
+- 속어 부사 용법은 친한 사이에서만. 회사 메일에는 kind of / surprisingly
+- 형용사 low-key(조촐한, 차분한)는 격식 있는 글에서도 쓴다
+
+---
+
 ### majority
 
 *명사* · B1 · /məˈdʒɔːrəti/
@@ -6493,6 +6875,30 @@
 - meantime과 거의 같다. 다만 in the meantime이 훨씬 흔하고, meanwhile은 부사로 단독으로 쓴다
 - 접속사가 아니라 부사다 — 두 문장을 쉼표로 이으면 틀린다. 마침표나 세미콜론으로 끊어야 한다
 - 대조의 '한편'으로 쓸 때는 while/whereas로 바꿔 쓸 수 있다
+
+---
+
+### meet halfway
+
+*관용구* · B2 · /miːt ˌhæfˈweɪ/
+
+**(서로) 반씩 양보하다, 절충하다**
+
+> to agree to give up part of what you want so you can reach an agreement
+
+- Let's meet halfway.
+  - 서로 반씩 양보하자.
+- I'm willing to meet you halfway on the deadline.
+  - 마감일은 중간에서 맞춰 드릴 의향이 있어요.
+  - 💡 meet + 사람 + halfway (on + 쟁점)
+
+**연어**: meet someone halfway, meet halfway on
+
+**유의어**: compromise, split the difference
+
+**구분**:
+- split the difference — 숫자(가격·금액)를 딱 중간으로 나눌 때 더 잘 맞는다
+- [[compromise-v]]보다 구어적이고 부드럽다
 
 ---
 
@@ -6835,6 +7241,59 @@
 
 ---
 
+### nobility
+
+*명사* · C1 · formal · /noʊˈbɪləti/
+
+**고귀함, 숭고함; 귀족 (계급)**
+
+> the quality of being noble in character; the people of the highest social class
+
+- There was a quiet nobility in the way he faced death.
+  - 그가 죽음을 마주하는 모습에는 조용한 고귀함이 있었다.
+- She was born into the nobility.
+  - 그녀는 귀족 가문에서 태어났다.
+  - 💡 the nobility — 귀족 계급
+
+**연어**: nobility of spirit, nobility of character, a member of the nobility
+
+**유의어**: dignity, honor, virtue
+
+**구분**:
+- '귀족'과 헷갈리지 않게 nobility of spirit / of character로 분명히 하기도 한다
+- [[dignity-n]]은 누구나 원래 가진 존엄, nobility는 행동·마음이 뛰어나게 훌륭함
+- [[noble-adj]]의 명사형
+
+---
+
+### noble
+
+*형용사* · B2 · /ˈnoʊbl/
+
+**고귀한, 숭고한; 귀족의**
+
+> having fine personal qualities such as honesty and courage; belonging to the highest social class
+
+- It was a noble thing to do.
+  - 그건 고귀한 행동이었다.
+- They fought for a noble cause.
+  - 그들은 숭고한 대의를 위해 싸웠다.
+  - 💡 a noble cause — 굳은 짝
+- He came from a noble family.
+  - 그는 귀족 집안 출신이었다.
+  - 💡 귀족의
+
+**연어**: a noble cause, a noble gesture, noble intentions, a noble family
+
+**유의어**: honorable, virtuous, selfless
+
+**구분**:
+- Nobel(노벨상)과 철자·발음이 다르다 — noble /ˈnoʊbl/, Nobel /noʊˈbel/
+- 명사 [[nobility-n]]
+- a noble gesture — 남을 위한 고귀한 행동
+
+---
+
 ### nor
 
 *구문* · B2 · formal · /nɔː/
@@ -6862,6 +7321,31 @@
 - 이미 부정의 뜻이 있으므로 not을 또 쓰지 않는다 — nor she didn't ✗
 - or과 다르다. 앞 문장이 부정일 때 이어 붙이는 것이 nor다
 - Me neither(나도 아니야)는 구어, Nor do I는 격식체다
+
+---
+
+### note to self
+
+*구문* · B1 · informal · /noʊt tə self/
+
+**(스스로에게) 명심할 것, 나에게 하는 메모**
+
+> a reminder you give to yourself
+
+- Note to self: Don't reply to emails when angry.
+  - 명심할 것: 화났을 때 메일 답장하지 말 것.
+  - 💡 메모 제목처럼 콜론과 함께
+- Note to self — never trust the weather app.
+  - 앞으로 명심하자. 날씨 앱은 절대 믿지 말 것.
+  - 💡 말로 할 때는 자조적인 농담에도 쓴다
+
+**연어**: note to self:
+
+**유의어**: reminder, things to remember
+
+**구분**:
+- 관사 없이 쓴다 — a note to self (X)
+- [[keep-in-mind-phr]]은 문장 속 동사, note to self는 메모 머리말
 
 ---
 
@@ -7603,6 +8087,57 @@
 - convince — 전통적으로는 '믿게 하다', persuade는 '행동하게 하다'. 현대 영어에서는 혼용된다
 - talk someone into ~ing — 구어체 동의 표현
 - 명사 persuasion / 형용사 persuasive(설득력 있는)
+
+---
+
+### petty
+
+*형용사* · B2 · /ˈpeti/
+
+**쩨쩨한, 옹졸한; 사소한**
+
+> caring too much about small, unimportant things; unkind in a small-minded way
+
+- I know it's petty, but I was glad he failed.
+  - 쪼잔한 거 알지만 그가 실패해서 기뻤어.
+- Let's not argue over petty things.
+  - 사소한 걸로 다투지 말자.
+  - 💡 사소한
+- That was a petty thing to say.
+  - 그건 옹졸한 말이었어.
+
+**연어**: petty thoughts, petty jealousy, petty argument, petty crime
+
+**유의어**: small-minded, mean, trivial
+
+**구분**:
+- petty crime(경범죄)·petty cash(소액 현금)처럼 '작은'이라는 중립 뜻도 있다
+- [[spite-n]](앙심)과 같이 자주 쓴다 — petty spite
+- [[nasty-adj]]는 대놓고 못됨, petty는 작은 일에 쪼잔함
+
+---
+
+### pile up
+
+*구동사* · B1 · /paɪl ʌp/
+
+**(일·문제가) 쌓이다, 밀리다**
+
+> to increase in amount, especially work or problems
+
+- I missed one day, and now everything's piling up.
+  - 하루 빠졌더니 할 일이 다 밀려 쌓였어.
+- The dishes are piling up in the sink.
+  - 개수대에 설거지가 쌓이고 있다.
+
+**연어**: work piles up, bills pile up, let things pile up
+
+**유의어**: accumulate, build up, stack up
+
+**구분**:
+- 명사 pile-up은 '연쇄 추돌 사고' — a ten-car pile-up
+- build up은 서서히 커지는 것(긴장·압력), pile up은 하나씩 쌓이는 것(일·물건)
+- [[throw-off-phrasal_verb]]로 일정이 꼬이면 일이 pile up한다
 
 ---
 
@@ -8421,6 +8956,31 @@
 
 ---
 
+### rationalize
+
+*동사* · C1 · formal · /ˈræʃənəlaɪz/
+
+**(그럴듯하게) 합리화하다, 핑계를 대다**
+
+> to give reasons for behaviour or failure that seem sensible but are not the real reasons
+
+- She rationalized the loss as a learning experience.
+  - 그녀는 실패를 배움의 기회였다고 합리화했다.
+  - 💡 정신승리의 딱딱한 표현
+- He tried to rationalize his bad decision.
+  - 그는 자기 잘못된 결정을 합리화하려 했다.
+
+**연어**: rationalize one's behavior, rationalize A as B, try to rationalize
+
+**유의어**: justify, make excuses, explain away
+
+**구분**:
+- [[rational-adj]](이성적인)과 뿌리가 같지만, rationalize는 '이성적인 척 포장하다'라는 나쁜 뜻으로 더 많이 쓴다
+- 경영에서는 '(조직·공정을) 합리화·효율화하다'라는 중립 뜻도 있다
+- [[sour-grapes-idiom]]·[[cope-n]]과 같은 정신승리 어휘군
+
+---
+
 ### ravages
 
 *명사* · C1 · formal · /ˈrævɪdʒɪz/
@@ -8931,6 +9491,36 @@
 
 ---
 
+### sacrifice
+
+*동사* · B2 · /ˈsækrɪfaɪs/
+
+**희생하다**
+
+> to give up something valuable for something more important
+
+- She's sacrificing her sleep to finish the project.
+  - 그녀는 프로젝트를 끝내려고 잠을 희생하고 있다.
+  - 💡 sacrifice + 희생하는 것 — 목적어 필수
+- I'm making a lot of sacrifices for this job.
+  - 이 일 때문에 많은 걸 희생하고 있어.
+  - 💡 목적어 없이 말할 땐 make sacrifices
+- Quality is being sacrificed for speed.
+  - 속도 때문에 품질이 희생되고 있다.
+  - 💡 수동 — 희생'당하다'
+
+**연어**: make sacrifices, sacrifice oneself, sacrifice A for B, at great sacrifice
+
+**유의어**: give up, forgo, surrender
+
+**구분**:
+- × I'm sacrificing. → 목적어가 꼭 필요하다
+- 명사도 같은 형태 — a big sacrifice
+- [[at-the-expense-of-phr]]는 '~을 대가로'라는 결과 쪽 표현
+- [[relinquish-v]]는 쥐고 있던 것을 내려놓는 것
+
+---
+
 ### sanctuary
 
 *명사* · C1 · formal · /ˈsæŋktʃueri/
@@ -9174,6 +9764,33 @@
 - serve someone right — 뜻이 정반대다. '쌤통이다, 꼴좋다'라는 비아냥
 - stand someone in good stead — 같은 뜻의 격식 표현
 - [[who-does-that-serve-phr]]의 serve와 같은 계열 — '~에게 이롭게 작용하다'
+
+---
+
+### settle for
+
+*구동사* · B2 · /ˈsetl fɔːr/
+
+**(아쉬운 대로) ~으로 만족하다, 눈을 낮춰 받아들이다**
+
+> to accept something that is less than what you wanted
+
+- I settled for a smaller apartment.
+  - 더 작은 아파트로 만족하기로 했다.
+- I settled for what I could have.
+  - 가질 수 있는 것으로 타협했다.
+- Don't settle for less than you deserve.
+  - 네가 받을 자격보다 못한 것에 만족하지 마.
+  - 💡 굳은 말 — settle for less
+
+**연어**: settle for less, settle for second best, won't settle for anything less
+
+**유의어**: make do with, accept, put up with
+
+**구분**:
+- settle on은 '(여러 개 중) ~로 정하다'라 뜻이 다르다 — We settled on Friday
+- settle down은 정착하다, 진정하다
+- [[compromise-v]]는 양쪽 양보, settle for는 혼자 기대를 낮춤
 
 ---
 
@@ -9599,6 +10216,31 @@
 
 ---
 
+### sour grapes
+
+*관용구* · C1 · /ˌsaʊər ˈɡreɪps/
+
+**신 포도 (못 가진 걸 별로라고 깎아내리는 정신승리)**
+
+> pretending that something you cannot have is not worth having
+
+- He says he never wanted the job, but that's just sour grapes.
+  - 그 일 원래 원하지도 않았다고 하는데, 그건 그냥 신 포도야.
+  - 💡 that's (just) sour grapes — 가장 흔한 형태
+- It sounds like sour grapes to me.
+  - 내가 듣기엔 정신승리 같은데.
+
+**연어**: that's just sour grapes, sounds like sour grapes
+
+**유의어**: denial, cope
+
+**구분**:
+- 이솝 우화 『여우와 신 포도』에서 온 말 — 여우가 못 딴 포도를 '어차피 시어'라고 함
+- [[rationalize-v]]는 넓은 합리화, sour grapes는 '못 가진 걸 깎아내리기'에 한정
+- [[sour-v]](상하다, 틀어지다)와는 다른 항목
+
+---
+
 ### spare
 
 *동사* · B2 · /sper/
@@ -9957,6 +10599,31 @@
 
 ---
 
+### subtly
+
+*부사* · B2 · /ˈsʌtli/
+
+**은근히, 넌지시, 미묘하게**
+
+> in a way that is not obvious or direct
+
+- She subtly pressured me to stay.
+  - 그녀는 남으라고 은근히 압박했다.
+- The two colors are subtly different.
+  - 두 색은 미묘하게 다르다.
+  - 💡 차이가 미묘함
+
+**연어**: subtly different, subtly hint, subtly change
+
+**유의어**: indirectly, quietly, discreetly
+
+**구분**:
+- 발음 — b는 묵음. /ˈsʌtli/ (서틀리). 형용사 subtle /ˈsʌtl/도 마찬가지
+- 명사 subtlety — 미묘함, 섬세함
+- hint(넌지시 내비치다)와 자주 같이 쓴다 — subtly hint that ~
+
+---
+
 ### suburb
 
 *명사* · B1 · /ˈsʌbɜːb/
@@ -10184,6 +10851,32 @@
 - 반대로 take notice (of)는 '주목하다'. no 하나로 뜻이 뒤집힌다
 - ignore — 알면서 일부러 무시하다. take no notice는 '애초에 관심이 가지 않는다'에 가까워 조금 더 담담하다
 - 영국식에서 더 흔하다. 미국식은 pay no attention을 즐겨 쓴다
+
+---
+
+### take to heart
+
+*관용구* · B2 · /teɪk tə hɑːrt/
+
+**마음 깊이 새기다; (말을) 마음에 담아 두다**
+
+> to take advice seriously; to be deeply affected by criticism
+
+- I took his advice to heart.
+  - 그의 조언을 마음에 새겼다.
+  - 💡 조언 — 좋은 뜻
+- Don't take it to heart. He didn't mean it.
+  - 마음에 담아 두지 마. 그 사람 진심 아니었어.
+  - 💡 비판 — 상처받다
+
+**연어**: take advice to heart, take criticism to heart, don't take it to heart
+
+**유의어**: keep in mind, take seriously
+
+**구분**:
+- 조언이면 '새기다', 비판이면 '상처받다' — 문맥으로 갈린다
+- Don't take it personally(개인적으로 받아들이지 마)와 비슷한 위로
+- [[keep-in-mind-phr]]보다 감정이 실린다
 
 ---
 
@@ -10461,6 +11154,59 @@
 - threat(명사) / threatening(형용사: 위협적인)
 - intimidate — 겁먹게 만드는 데 초점 / endanger, jeopardize — 위험에 빠뜨린 결과에 초점
 - 무생물 주어일 때는 협박의 뜻이 전혀 없다는 점이 핵심
+
+---
+
+### throw off
+
+*구동사* · B2 · /θroʊ ɔːf/
+
+**(일정·리듬을) 어긋나게 하다; 당황하게 하다**
+
+> to make something not work as planned; to confuse someone
+
+- The meeting ran late and threw off my whole schedule.
+  - 회의가 늦게 끝나서 일정이 다 꼬였어.
+- My priorities got thrown off.
+  - 우선순위가 다 어긋났다.
+  - 💡 수동 — get thrown off
+- His question threw me off.
+  - 그의 질문에 당황했다.
+  - 💡 사람 목적어 — 흐름을 깨서 당황시키다
+
+**연어**: throw off one's schedule, throw someone off, throw off balance
+
+**유의어**: disrupt, mess up, upset
+
+**구분**:
+- throw off에는 '(옷을) 벗어 던지다', '(감기·추적을) 떨쳐내다'라는 뜻도 있다
+- [[disrupt-v]]가 더 딱딱한 말
+- [[pile-up-phrasal_verb]]는 그 결과로 일이 밀려 쌓이는 것
+
+---
+
+### thus
+
+*부사* · C1 · formal · /ðʌs/
+
+**따라서, 그러므로; 이렇게**
+
+> as a result; in this way
+
+- The data is incomplete. Thus, we can't draw a conclusion.
+  - 데이터가 불완전하다. 따라서 결론을 낼 수 없다.
+- Costs fell, thus making the product cheaper.
+  - 비용이 떨어졌고, 그 덕에 제품이 더 싸졌다.
+  - 💡 thus + -ing — 결과를 이어 붙이는 문어체
+
+**연어**: thus far, and thus, thus + -ing
+
+**유의어**: therefore, hence, as a result, so
+
+**구분**:
+- 격식 순서: so(일상) < therefore(글) < thus/hence(논문·보고서)
+- therefore·thus는 so처럼 쉼표 하나로 두 문장을 잇지 못한다 — 마침표나 세미콜론 뒤에 쓴다
+- thus far = so far(지금까지)
 
 ---
 
@@ -10916,6 +11662,32 @@
 
 ---
 
+### up to someone
+
+*구문* · B1 · /ʌp tə ˈsʌmwʌn/
+
+**~에게 달려 있다, ~가 정할 일이다**
+
+> to be someone's decision or responsibility
+
+- What people praise or blame me for isn't up to me.
+  - 사람들의 칭찬이나 비난은 내 몫이 아니야.
+  - 💡 스토아 철학 — 통제할 수 있는 것과 없는 것
+- It's up to you.
+  - 네가 정해.
+  - 💡 가장 흔한 형태
+
+**연어**: it's up to you, not up to me, entirely up to
+
+**유의어**: depend on, be one's call
+
+**구분**:
+- What are you up to?(뭐 해?)의 up to와는 다른 용법
+- It's your call(네가 결정해)과 같은 뜻
+- 스토아 철학 — 에픽테토스의 '우리에게 달린 것(what is up to us)'이 바로 이 표현
+
+---
+
 ### urinate
 
 *동사* · C1 · formal · /ˈjʊərɪneɪt/
@@ -11335,6 +12107,58 @@
 
 ---
 
+### wicked
+
+*형용사* · B2 · /ˈwɪkɪd/
+
+**사악한, 못된; (속어) 끝내주는**
+
+> morally very bad; (slang) very good
+
+- She had wicked thoughts about her rival.
+  - 그녀는 경쟁자에 대해 사악한 생각을 품었다.
+- The wicked witch cast a spell.
+  - 사악한 마녀가 주문을 걸었다.
+  - 💡 동화의 단골 — 오즈의 마법사 Wicked Witch
+- That was a wicked goal!
+  - 끝내주는 골이었어!
+  - 💡 속어 — 미국 보스턴·영국 구어
+
+**연어**: wicked thoughts, a wicked smile, the wicked witch
+
+**유의어**: evil, sinful, malicious
+
+**구분**:
+- 발음 — /ˈwɪkɪd/ (위킷) 두 음절. -ed를 '드'로 따로 읽는다 (naked, wretched와 같은 규칙)
+- evil보다 살짝 가볍고 장난스러운 뉘앙스도 있다 — a wicked grin(짓궂은 웃음)
+- [[sin-n]]·[[virtue-n]]과 같은 도덕 어휘군
+
+---
+
+### win-win
+
+*명사* · B1 · business · /ˌwɪn ˈwɪn/
+
+**모두에게 이로운 상황, 윈윈**
+
+> a situation in which everyone involved benefits
+
+- It's a win-win for both of us.
+  - 우리 둘 다 이득이야.
+- We're looking for a win-win solution.
+  - 양쪽 모두 이득인 해법을 찾고 있습니다.
+  - 💡 형용사처럼 — win-win solution/situation
+
+**연어**: a win-win situation, a win-win solution, a win-win deal
+
+**유의어**: mutually beneficial
+
+**구분**:
+- [[kill-two-birds-with-one-stone-idiom]]과 헷갈리기 쉽다 — 일석이조는 한 사람이 두 이득, win-win은 두 사람이 다 이득
+- 반대 상황 lose-lose, 한쪽만 이기면 zero-sum
+
+---
+
 ### wistfully
 
 *부사* · C1 · formal · /ˈwɪstfəli/
@@ -11391,6 +12215,33 @@
 - a withering look/remark = 상대를 움츠러들게 하는 싸늘한 눈길·말. 자주 쓰이니 같이 외울 것
 - whither(어디로, 고어)와 철자가 비슷하지만 전혀 다르다
 - [[shrink-v]]와 함께 쓰이지만 wither는 생명력이 마르는 쪽, shrink는 크기가 주는 쪽
+
+---
+
+### within reach
+
+*구문* · B2 · /wɪˈðɪn riːtʃ/
+
+**손 닿는 곳에; (현실적으로) 이룰 수 있는**
+
+> close enough to be touched or achieved
+
+- Go for what's within reach.
+  - 손이 닿는 것부터 노려.
+- Victory is finally within reach.
+  - 승리가 마침내 눈앞에 있다.
+- Keep your phone within reach.
+  - 휴대폰을 손 닿는 데 둬.
+  - 💡 물리적 거리
+
+**연어**: within reach of, well within reach, put ~ within reach
+
+**유의어**: attainable, achievable, close at hand
+
+**구분**:
+- 반대말 out of reach / beyond reach — 손이 닿지 않는
+- [[attainable-adj]]보다 구어적이고 그림이 있다
+- [[yearn-for-phrasal_verb]]의 대상은 대개 out of reach
 
 ---
 

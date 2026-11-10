@@ -121,8 +121,11 @@ git push                            # 1~2분 뒤 반영
 
 ## 현재 상태
 
-- 등록 단어: 411개
-- 마지막 갱신: 2026-10-19 (Verity — Colleen Hoover — 읽으며 발견한 단어 30개 (이어서 보낸 unjustly·irritated·aversion 포함). scurriy→scurry,
+- 등록 단어: 443개
+- 마지막 갱신: 2026-11-11 (대화 중 한→영 질문에서 32개. 와르르 무너지다 → come crashing down,
+  타협·정신승리 → compromise·settle for·sour grapes·cope, 일석이조 → kill two birds with one stone 등.
+  기초 단어(so·kind of·secretly 등)는 빼고, at all·dignity는 기존 항목이라 건너뜀)
+- 이전 갱신: 2026-10-19 (Verity — Colleen Hoover — 읽으며 발견한 단어 30개 (이어서 보낸 unjustly·irritated·aversion 포함). scurriy→scurry,
   mausea→nausea 오타 정정. assessing·jotting down은 기본형 assess·jot down으로,
   "strand of"는 strand로 등록. reassure(v)는 기존 항목이라 reassuring을 형용사로
   따로 넣고 연결. merely↔barely, despair↔desperate 구분 메모 추가)
