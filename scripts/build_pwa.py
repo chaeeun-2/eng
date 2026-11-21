@@ -86,106 +86,116 @@ self.addEventListener('fetch', e => {
 def draw_icons():
     """PIL이 있으면 아이콘을 그린다. 없으면 건너뛰고 알린다.
 
-    라임 그라디언트: 연두 → 크림빛으로 번지는 타원이 겹겹이 놓이고, 가운데 「ENG」.
+    라벤더 바탕 위 반달 라임 조각. 껍질 · 속껍질 · 과육 4조각에 연두 그라디언트.
     iOS 가 모서리를 알아서 둥글게 자르므로 바탕은 끝까지 채운다.
     """
     try:
-        from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont
+        from PIL import Image, ImageChops, ImageDraw, ImageFilter
     except ImportError:
         print("  ! PIL 없음 — 아이콘 생성 건너뜀 (pip install pillow)")
         return False
+    import math
 
-    FONTS = ["/System/Library/Fonts/SFNSRounded.ttf", "/System/Library/Fonts/Avenir Next.ttc",
-             "/System/Library/Fonts/HelveticaNeue.ttc"]
-    LIME_D = (92, 190, 12)      # 짙은 연두
-    LIME = (184, 238, 34)       # 형광 연두
-    WHITE = (250, 255, 238)     # 크림빛 흰색
+    BG = (198, 204, 247)
 
-    def grad(S, angle, stops):
-        """angle 방향(도)으로 stops[(위치, 색)] 그라디언트."""
-        g = Image.linear_gradient("L").resize((S * 2, S * 2)).rotate(angle).crop((S // 2, S // 2, S // 2 + S, S // 2 + S))
-        lut = []
-        for v in range(256):
-            t = v / 255
+
+    def vgrad(S, y0, y1, stops):
+        """세로 그라디언트(y0→y1)."""
+        col = []
+        for y in range(S):
+            t = min(1, max(0, (y - y0) / (y1 - y0)))
             for (p0, c0), (p1, c1) in zip(stops, stops[1:]):
                 if p0 <= t <= p1:
                     k = (t - p0) / (p1 - p0) if p1 > p0 else 0
-                    lut.append(tuple(round(c0[i] + (c1[i] - c0[i]) * k) for i in range(3)))
+                    col.append(tuple(round(c0[i] + (c1[i] - c0[i]) * k) for i in range(3)))
                     break
-            else:
-                lut.append(stops[-1][1] if t > stops[-1][0] else stops[0][1])
-        out = Image.new("RGB", (S, S))
-        out.putdata([lut[v] for v in g.get_flattened_data()])
-        return out
+        strip = Image.new("RGB", (1, S)); strip.putdata(col)
+        return strip.resize((S, S))
 
-    def render(size, scale=1.0, text=True):
+
+    def hgrad(S, x0, x1, c0, c1):
+        g = Image.linear_gradient("L").rotate(90).transpose(Image.FLIP_LEFT_RIGHT).resize((S, S))
+        g = g.point(lambda v: round(min(255, max(0, (v / 255 * S - x0) / (x1 - x0) * 255))))
+        return Image.composite(Image.new("RGB", (S, S), c1), Image.new("RGB", (S, S), c0), g)
+
+
+    def round_mask(m, r):
+        return m.filter(ImageFilter.GaussianBlur(r)).point(lambda v: 255 if v > 128 else 0).filter(ImageFilter.GaussianBlur(1.2))
+
+
+    def render(size, scale=1.0, angle=-38, bg=None):
         S = 1024
-        img = Image.new("RGB", (S, S), (255, 255, 255))
-        cx, cy = S / 2, S / 2
-        # (가로 반지름, 세로 반지름, 가운데 x 이동, 그라디언트 방향, 색 띠)
-        G1, G2, PALE = (96, 192, 8), (150, 222, 20), (222, 250, 150)
-        layers = [
-            (0.75, 0.80, -0.04, 80,  [(0, G1), (0.50, G2), (0.85, PALE), (1, WHITE)]),
-            (0.42, 0.53, 0.035, 260, [(0, G1), (0.40, G2), (0.78, PALE), (1, WHITE)]),
-            (0.31, 0.42, 0.07, 80,  [(0, G2), (0.45, LIME), (0.85, PALE), (1, WHITE)]),
-            (0.21, 0.30, 0.10, 260, [(0, LIME), (0.55, PALE), (1, WHITE)]),
-            (0.12, 0.18, 0.12, 80,  [(0, (200, 244, 90)), (0.6, WHITE), (1, WHITE)]),
-        ]
-        for rx, ry, dx, ang, stops in layers:
-            rx, ry = rx * S * scale, ry * S * scale
-            x = cx + dx * S * scale
-            box = (x - rx, cy - ry, x + rx, cy + ry)
-            fill = grad(S, ang, stops)
-            m = Image.new("L", (S, S), 0)
-            ImageDraw.Draw(m).ellipse(box, fill=255)
-            m = m.filter(ImageFilter.GaussianBlur(S * 0.0015))
-            # 아래 겹에 드리우는 부드러운 그림자 — 겹이 떠 보이게
-            sh = Image.new("L", (S, S), 0)
-            ImageDraw.Draw(sh).ellipse((box[0] - S * .01, box[1] + S * .012, box[2] + S * .01, box[3] + S * .02), fill=0)
-            sh = sh.filter(ImageFilter.GaussianBlur(S * 0.02))
-            img = Image.composite(Image.new("RGB", (S, S), (70, 140, 10)), img, sh)
-            # 가장자리 쪽으로 갈수록 크림빛으로 번지는 부드러운 테 — 렌즈처럼 볼록해 보이게
-            inner = m.filter(ImageFilter.GaussianBlur(S * 0.035))
-            edge = ImageChops.multiply(ImageChops.invert(inner), m).point(lambda v: min(255, v * 1.6))
-            fill = Image.composite(Image.new("RGB", (S, S), (236, 252, 196)), fill, edge)
-            # 한쪽(왼쪽 아래)에 짙은 초록 그늘
-            shade = Image.new("L", (S, S), 0)
-            ImageDraw.Draw(shade).ellipse((box[0] + S * .02, box[1] + S * .06, box[2] - S * .10, box[3] - S * .02), fill=120)
-            shade = ImageChops.multiply(shade.filter(ImageFilter.GaussianBlur(S * 0.07)), m)
-            fill = Image.composite(Image.new("RGB", (S, S), (88, 178, 6)), fill, shade)
-            img = Image.composite(fill, img, m)
-            # 가는 흰 테
-            rim = Image.new("L", (S, S), 0)
-            ImageDraw.Draw(rim).ellipse(box, outline=255, width=round(S * 0.005))
-            rim = ImageChops.multiply(rim.filter(ImageFilter.GaussianBlur(S * 0.002)), m)
-            img = Image.composite(Image.new("RGB", (S, S), (255, 255, 255)), img, rim.point(lambda v: v * 0.85))
-        # 가운데 은은한 흰 빛
-        glow = Image.new("L", (S, S), 0)
-        r = S * 0.10 * scale
-        gx = cx + 0.12 * S * scale
-        ImageDraw.Draw(glow).ellipse((gx - r, cy - r, gx + r, cy + r), fill=170)
-        img = Image.composite(Image.new("RGB", (S, S), (255, 255, 255)), img, glow.filter(ImageFilter.GaussianBlur(S * 0.05)))
+        bgc = bg or BG
+        layer = Image.new("RGBA", (S, S), bgc + (0,))   # 투명 칸도 바탕색 — 가장자리에 검은 테가 안 생기게
+        cx, cy, R = S / 2, S * 0.36, S * 0.44 * scale
+        pie = lambda r: (cx - r, cy - r, cx + r, cy + r)
 
-        if text:
-            font = None
-            for p in FONTS:
-                try:
-                    font = ImageFont.truetype(p, round(S * 0.11 * scale)); break
-                except OSError:
-                    continue
-            try:
-                font.set_variation_by_name("Bold")
-            except Exception:
-                pass
-            d = ImageDraw.Draw(img)
-            d.text((gx, cy), "ENG", font=font, fill=(62, 140, 6), anchor="mm")
-        return img.resize((size, size), Image.LANCZOS)
+        # 1) 껍질 — 왼쪽 파랑 → 아래 초록
+        rind = Image.new("L", (S, S), 0)
+        ImageDraw.Draw(rind).pieslice(pie(R), 0, 180, fill=255)
+        rind = round_mask(rind, S * 0.012)
+        rind_col = hgrad(S, cx - R, cx + R * 0.3, (84, 178, 6), (196, 242, 60))
+        layer.paste(rind_col, (0, 0), rind)
+
+        # 2) 흰 속껍질 — 크림빛, 잘린 면 쪽은 살짝 복숭아빛
+        # 속껍질 = 껍질 모양에서 바깥 테만 뺀 것 → 자른 면에서 껍질 색이 비치지 않는다
+        ring = Image.new("L", (S, S), 0)
+        ImageDraw.Draw(ring).ellipse(pie(R * 0.92), fill=255)
+        pith = ImageChops.multiply(rind, ring.filter(ImageFilter.GaussianBlur(1.2)))
+        pith_col = vgrad(S, cy, cy + R, [(0, (252, 255, 236)), (0.5, (240, 252, 206)), (1, (226, 248, 176))])
+        layer.paste(pith_col, (0, 0), pith)
+
+        # 3) 과육 4조각
+        flesh_col = vgrad(S, cy, cy + R * 0.86, [(0, (246, 255, 226)), (0.30, (206, 246, 110)),
+                                                (0.62, (150, 222, 24)), (1, (96, 192, 8))])
+        rf, gap = R * 0.85, S * 0.016
+        for k in range(4):
+            a0, a1 = k * 45, (k + 1) * 45
+            seg = Image.new("L", (S, S), 0)
+            ImageDraw.Draw(seg).pieslice(pie(rf), a0, a1, fill=255)
+            cut = ImageDraw.Draw(seg)
+            for a in (a0, a1):                                       # 조각 사이 틈
+                r = math.radians(a)
+                cut.line((cx, cy, cx + rf * 1.1 * math.cos(r), cy + rf * 1.1 * math.sin(r)), fill=0, width=round(gap * 2))
+            cut.ellipse(pie(R * 0.07), fill=0)                       # 가운데 심
+            seg = round_mask(seg, S * 0.014)
+            # 조각마다 바깥 아래쪽에 짙은 청록 그늘, 안쪽 위에 노란 빛
+            mid = math.radians((a0 + a1) / 2)
+            sx, sy = cx + rf * 0.78 * math.cos(mid + 0.25), cy + rf * 0.78 * math.sin(mid + 0.25)
+            shade = Image.new("L", (S, S), 0)
+            ImageDraw.Draw(shade).ellipse((sx - rf * .28, sy - rf * .22, sx + rf * .28, sy + rf * .22), fill=200)
+            shade = shade.filter(ImageFilter.GaussianBlur(S * 0.05))
+            hx, hy = cx + rf * 0.35 * math.cos(mid - 0.2), cy + rf * 0.35 * math.sin(mid - 0.2)
+            hi = Image.new("L", (S, S), 0)
+            ImageDraw.Draw(hi).ellipse((hx - rf * .2, hy - rf * .14, hx + rf * .2, hy + rf * .14), fill=190)
+            hi = hi.filter(ImageFilter.GaussianBlur(S * 0.05))
+            col = Image.composite(Image.new("RGB", (S, S), (88, 178, 6)), flesh_col, shade)
+            col = Image.composite(Image.new("RGB", (S, S), (250, 255, 238)), col, hi)
+            layer.paste(col, (0, 0), seg)
+
+        # 4) 껍질 왼쪽 위 끝에 흰 반짝임
+        sp = Image.new("L", (S, S), 0)
+        ImageDraw.Draw(sp).pieslice(pie(R * 1.0), 160, 180, fill=255)
+        ImageDraw.Draw(sp).pieslice(pie(R * 0.92), 150, 185, fill=0)
+        sp = ImageChops.multiply(sp.filter(ImageFilter.GaussianBlur(S * 0.01)), layer.split()[3])
+        white = Image.new("RGBA", (S, S), (255, 255, 255, 255)); white.putalpha(sp.point(lambda v: v * 0.8))
+        layer = Image.alpha_composite(layer, white)
+
+        # 회전해서 가운데로
+        # 바탕에 먼저 얹은 뒤 돌린다 — 투명한 채로 돌리면 가장자리에 어두운 테가 생긴다
+        ctr = (cx, cy + R * 0.42)
+        bbox = layer.split()[3].rotate(angle, resample=Image.BICUBIC, center=ctr).getbbox()
+        dx = round(S / 2 - (bbox[0] + bbox[2]) / 2); dy = round(S / 2 - (bbox[1] + bbox[3]) / 2)
+        flat = Image.new("RGBA", (S, S), bgc + (255,)); flat.alpha_composite(layer)
+        out = flat.convert("RGB").rotate(angle, resample=Image.BICUBIC, center=ctr,
+                                         translate=(dx, dy), fillcolor=bgc)
+        return out.resize((size, size), Image.LANCZOS)
 
     ICONS.mkdir(parents=True, exist_ok=True)
     for s in SIZES:
         render(s).save(ICONS / f"icon-{s}.png", optimize=True)
     # maskable — 안전 영역(가운데 원) 안에 들어오도록 조금 작게
-    render(512, scale=0.86).save(ICONS / "icon-maskable-512.png", optimize=True)
+    render(512, scale=0.80).save(ICONS / "icon-maskable-512.png", optimize=True)
     return True
 
 
