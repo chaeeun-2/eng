@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """data/vocab.jsonl -> views/wordlist.html 생성. 표제어·뜻·예문·해석을 한 표에서 본다."""
+import hashlib
 import html
 import json
 from pathlib import Path
@@ -675,6 +676,8 @@ def main():
     entries = with_order(load())
     n_sent = sum(len(e["sentences"]) for e in entries)
     updated = max(e["added_at"] for e in entries)
+    icon = VIEWS / "icons" / "icon-180.png"   # 아이콘이 바뀌면 주소도 바뀌어야 iPhone 이 새로 받는다
+    icon_v = hashlib.sha256(icon.read_bytes()).hexdigest()[:8] if icon.exists() else "1"
 
     present = [p for p in POS_ORDER if any(e["pos"] == p for e in entries)]
     chips = ['<button class="chip" data-pos="all" aria-pressed="true">전체</button>']
@@ -692,8 +695,8 @@ def main():
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="단어장">
 <link rel="manifest" href="./manifest.webmanifest">
-<link rel="apple-touch-icon" href="./icons/icon-180.png">
-<link rel="icon" href="./icons/icon-192.png">
+<link rel="apple-touch-icon" href="./icons/icon-180.png?v={icon_v}">
+<link rel="icon" href="./icons/icon-192.png?v={icon_v}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+KR:wght@400;500&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Serif:wght@500;600&display=swap" rel="stylesheet">
