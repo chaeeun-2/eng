@@ -34,6 +34,7 @@ body{
   padding-bottom:16px;border-bottom:2px solid var(--ink)}
 .mark{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.2em;
   color:var(--indigo);border:1px solid var(--indigo);border-radius:2px;padding:3px 7px}
+.expr-link{margin-left:auto;font-size:14px;color:inherit;opacity:.75;text-decoration:none;border:1px solid currentColor;border-radius:999px;padding:3px 12px}
 .masthead h1{margin:0;font-family:"IBM Plex Serif",Georgia,serif;font-size:25px;
   font-weight:600;letter-spacing:-.015em}
 .stat{margin-left:auto;font-family:"IBM Plex Mono",monospace;font-size:11.5px;
@@ -705,6 +706,7 @@ def main():
   <span class="mark">ENG</span>
   <h1>단어장</h1>
   <p class="stat">표제어 {len(entries)} · 예문 {n_sent} · 갱신 {esc(updated)}</p>
+  <a class="expr-link" href="./expr/">업무 표현 →</a>
 </header>
 
 <div class="toolbar">
