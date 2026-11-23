@@ -91,34 +91,55 @@ DATA.forEach((d, i) => {
 });
 
 // ---- 목소리 ----
+// AUDIO = 문장 → 미리 만든 Google 목소리 녹음. 있으면 휴대폰에서도 같은 목소리로 듣는다.
+const AUDIO = {"I re-ran it, but the result doesn't seem to have changed.": "audio/7a545e265894.mp3", "For now, let's just draft the plan and hold off on building it.": "audio/122574b2cb23.mp3", "Can you confirm the analysis is actually running as expected?": "audio/1a9062846be2.mp3", "Here are my revision notes. Feel free to drop the materials section.": "audio/7502c081faa0.mp3", "Could you rank these by priority?": "audio/267a8bd5ffd1.mp3", "I have a concern that this approach could limit how users work.": "audio/2a90c14e6764.mp3", "Could you write up the process and results as a short report?": "audio/b14ba253e79a.mp3", "If there are no conflicts, let's go ahead and apply it as is.": "audio/84be7e35f2ff.mp3", "Could you explain these terms in plain language?": "audio/000b2f0ecf70.mp3", "It's not really working well. Could you suggest some improvements?": "audio/543310a4a88a.mp3", "I re-ran the batch with the new order, but the output doesn't seem to have changed. Could you take a look?": "audio/2e34520d5943.mp3", "We re-ran the process yesterday, but the numbers don't seem to have changed much.": "audio/690e96137897.mp3", "Let's draft the plan first and hold off on building anything until we're aligned.": "audio/2adad7861b0f.mp3", "I'd like us to hold off on the implementation until the scope is confirmed.": "audio/6f8593196b63.mp3", "Can you confirm the job is actually running as expected before we move on?": "audio/5b1fb8eb278a.mp3", "Could you confirm that the pipeline is running as expected on your side?": "audio/8c9c51337157.mp3", "Here are my revision notes. Feel free to drop the second section if it doesn't add value.": "audio/cc0fc6a5d6dc.mp3", "Overall, the structure works, but feel free to simplify the intro.": "audio/d79d6ca97a50.mp3", "Could you rank these by priority so we know what to tackle first?": "audio/104ca4d636da.mp3", "Let's rank the open items by priority and pick the top three for this week.": "audio/fd2990809d07.mp3", "I have a concern that a fixed screen flow could limit how creators work outside the app.": "audio/f5fb015a0e2a.mp3", "I have a concern about the timeline, but I think we can make it work with a smaller scope.": "audio/0f4a23660aa1.mp3", "I'll write up the experiment results and share them with the team by Friday.": "audio/2a652d0a9e96.mp3", "Could you write up what we tried and what worked, so others can follow it?": "audio/7e28ac9a282b.mp3", "If there are no conflicts with the current guidelines, we can apply it as is.": "audio/20c4b58d5b87.mp3", "If the test results look fine, let's ship it as is and fix the rest later.": "audio/de69332501f8.mp3", "Before the meeting, could you explain these metrics in plain language for the team?": "audio/9232e2b9ee7b.mp3", "I don't know what 'WoW' means here, so could you put it in plain language?": "audio/73099fe8516b.mp3", "The notification feature isn't working well. Could you suggest some improvements?": "audio/49bdc1eedfd1.mp3", "Our review process is slow. Could you suggest a few ways to speed it up?": "audio/64c05f2996bd.mp3"};
+const HAS_REC = Object.keys(AUDIO).length > 0;
+const KEY = 'lime-eng-voice2';
 const vSel = document.getElementById('voice');
 const PREF = [/Ava.*(Premium|Enhanced)/i, /Samantha.*(Premium|Enhanced)/i, /Zoe.*(Premium|Enhanced)/i, /(Premium|Enhanced)/i, /Google US English/i, /Microsoft (Aria|Jenny).*Online/i, /^Ava/i, /^Samantha/i, /Allison|Susan|Nicky/i];
 let voices = [];
 function loadVoices(){
-  voices = speechSynthesis.getVoices().filter(v => /^en[-_](US|GB|AU|CA|IE)/i.test(v.lang));
-  if (!voices.length) return;
-  const saved = localStorage.getItem('lime-eng-voice');
-  let best = voices.find(v => v.name === saved);
-  if (!best) for (const p of PREF){ best = voices.find(v => p.test(v.name) && /en[-_]US/i.test(v.lang)) || voices.find(v => p.test(v.name)); if (best) break; }
-  best = best || voices.find(v => /en[-_]US/i.test(v.lang)) || voices[0];
-  vSel.innerHTML = voices.map((v, i) => `<option value="${i}" ${v === best ? 'selected' : ''}>${esc(v.name)} (${v.lang})</option>`).join('');
+  voices = (window.speechSynthesis ? speechSynthesis.getVoices() : []).filter(v => /^en[-_](US|GB|AU|CA|IE)/i.test(v.lang));
+  if (!voices.length && !HAS_REC) return;
+  const saved = localStorage.getItem(KEY);
+  let best = null;
+  if (saved !== 'rec') best = voices.find(v => v.name === saved);
+  if (!best && !HAS_REC){
+    for (const p of PREF){ best = voices.find(v => p.test(v.name) && /en[-_]US/i.test(v.lang)) || voices.find(v => p.test(v.name)); if (best) break; }
+    best = best || voices.find(v => /en[-_]US/i.test(v.lang)) || voices[0];
+  }
+  vSel.innerHTML = (HAS_REC ? `<option value="rec" ${best ? '' : 'selected'}>Google 목소리 (녹음)</option>` : '') +
+    voices.map((v, i) => `<option value="${i}" ${v === best ? 'selected' : ''}>${esc(v.name)} (${v.lang})</option>`).join('');
 }
-loadVoices(); speechSynthesis.onvoiceschanged = loadVoices;
-vSel.onchange = () => localStorage.setItem('lime-eng-voice', voices[vSel.value].name);
+loadVoices(); if (window.speechSynthesis) speechSynthesis.onvoiceschanged = loadVoices;
+vSel.onchange = () => localStorage.setItem(KEY, vSel.value === 'rec' ? 'rec' : voices[vSel.value].name);
 
 // ---- 읽기 ----
+const player = new Audio(); player.preload = 'auto';
 let token = 0;
 function clearMarks(){ document.querySelectorAll('.speaking').forEach(e => e.classList.remove('speaking')); document.querySelectorAll('.card.playing').forEach(e => e.classList.remove('playing')); }
-function say(text){
+function stopAll(){ if (window.speechSynthesis) speechSynthesis.cancel(); player.pause(); player.onended = player.onerror = null; }
+function speak(text, rate){
   return new Promise(res => {
+    if (!window.speechSynthesis) return res();
     const u = new SpeechSynthesisUtterance(text);
     const v = voices[vSel.value]; if (v){ u.voice = v; u.lang = v.lang; } else u.lang = 'en-US';
-    u.rate = parseFloat(document.getElementById('rate').value);
-    u.onend = u.onerror = res; speechSynthesis.speak(u);
+    u.rate = rate; u.onend = u.onerror = res; speechSynthesis.speak(u);
+  });
+}
+function say(text){
+  const rate = parseFloat(document.getElementById('rate').value);
+  const src = AUDIO[text];
+  if (vSel.value !== 'rec' || !src) return speak(text, rate);
+  return new Promise(res => {
+    player.onended = () => res();
+    player.onerror = () => { player.onerror = null; speak(text, rate).then(res); };
+    player.src = src; player.playbackRate = rate; player.defaultPlaybackRate = rate;
+    const p = player.play(); if (p) p.catch(() => { player.onerror = null; speak(text, rate).then(res); });
   });
 }
 async function playFrom(idx, single){
-  speechSynthesis.cancel(); const my = ++token;
+  stopAll(); const my = ++token;
   const reps = parseInt(document.getElementById('rep').value);
   for (let i = idx; i < lines.length; i++){
     if (my !== token) return;
@@ -131,7 +152,7 @@ async function playFrom(idx, single){
   if (my === token) clearMarks();
 }
 document.getElementById('all').onclick = () => playFrom(0, false);
-document.getElementById('stop').onclick = () => { token++; speechSynthesis.cancel(); clearMarks(); };
+document.getElementById('stop').onclick = () => { token++; stopAll(); clearMarks(); };
 document.getElementById('hide').onclick = e => { document.body.classList.toggle('hideko'); e.target.classList.toggle('on'); document.querySelectorAll('.ko.show').forEach(k => k.classList.remove('show')); };
 if('serviceWorker' in navigator) navigator.serviceWorker.register('../sw.js').catch(()=>{});
 </script>
